@@ -43,7 +43,7 @@ Du hast node.js und das Package GitBook installiert, Du hast dieses Repository g
 
 1. Starte die Eingabeaufforderung und wechsle in den Ordner `c:\docs\kb\src`.
 
-2. Zunächst musst Du alle für die Dokumentation benötigten GitBook-Plugins installieren. Tippe dazu den Befehl `gitbook install` ein. Die GitBook-Plugins werden installiert. Dies musst Du nur einmal für diese Knowledge Base machen.
+2. Zunächst musst Du alle für die Knowledge Base benötigten GitBook-Plugins installieren. Tippe dazu den Befehl `gitbook install` ein. Die GitBook-Plugins werden installiert. Dies musst Du nur einmal für diese Knowledge Base machen.
 
 3. Tippe den Befehl `gitbook build` ein. Die Knowledge Base wird neu generiert.
 
