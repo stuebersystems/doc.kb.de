@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/uybygldnfoe944ua?svg=true)](https://ci.appveyor.com/project/stueber/doc-kb-de)
 
-# DAVINCI | MAGELLAN Knowledge base
+# DAVINCI | MAGELLAN Knowledge Base
 
 Dies ist die deutsche Knowledge Base zu DAVINCI 6 und MAGELLAN 7. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
 
