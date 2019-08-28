@@ -107,3 +107,6 @@
 * [Änderung in der Tabelle SchuelerAusbildung](cr/schuelerausbildung.md)
 * [Fehler in Crystal Reports 9](cr/CR9_Fehler.md)
 
+## Support
+
+* [SchuelerLaufbahn korrigieren - Skripteditor ausführen](support/schuelerlaufbahn_korrigieren.md)
