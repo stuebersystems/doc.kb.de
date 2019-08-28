@@ -20,13 +20,13 @@ Um das Problem zu lösen führen Sie bitte die folgenden Schritte aus:
 
 ![Auf Interface-Emulation umschalten](/images/support/schuelerlaufbahn_korrigieren/06.png)
 
-6. Als nächstes brauchen Sie den Pfad zur Datenbank und ggfs. den Servernamen. Starten Sie dazu parallel  den MAGELLAN Administrator. Im Anmeldefenster melden Sie sich als sysdba an oder wählen falls Sie diese Zugangsdaten nicht parat haben, einfach `<keine Anmeldung>` aus.
+7. Als nächstes brauchen Sie den Pfad zur Datenbank und ggfs. den Servernamen. Starten Sie dazu parallel  den MAGELLAN Administrator. Im Anmeldefenster melden Sie sich als sysdba an oder wählen falls Sie diese Zugangsdaten nicht parat haben, einfach `<keine Anmeldung>` aus.
 
 ![Administrator ggfs. ohne Anmeldung starten](/images/support/schuelerlaufbahn_korrigieren/04.png)
 
-7.  Rufen Sie den Punkt `Datenbankverbindungen` auf und klicken bitte doppelt auf Ihre auf der rechten Seite angegebene Verbindung. Es öffnet sich das Fenster der Verbindungsdetails, Sie wählen die Unterkarte `Datenordner`.
+8.  Rufen Sie den Punkt `Datenbankverbindungen` auf und klicken bitte doppelt auf Ihre auf der rechten Seite angegebene Verbindung. Es öffnet sich das Fenster der Verbindungsdetails, Sie wählen die Unterkarte `Datenordner`.
 ![Administrator ggfs. ohne Anmeldung starten](/images/support/schuelerlaufbahn_korrigieren/05.png)
-8. Sie benötigen den Eintrag aus dem Feld `Server` und den Eintrag aus dem Feld `Dateipfad aus dem Server`. Übernehmen Sie die Daten und tragen es plus dem sysdba-Passwort bitte im Skripteditor wieder ein.
+9. Sie benötigen den Eintrag aus dem Feld `Server` und den Eintrag aus dem Feld `Dateipfad aus dem Server`. Übernehmen Sie die Daten und tragen es plus dem sysdba-Passwort bitte im Skripteditor wieder ein.
 
 ![Eintragungen übernehmen](/images/support/schuelerlaufbahn_korrigieren/07.png)
 
@@ -34,10 +34,12 @@ Nachstehend eingetragene Beispieldaten:
 
 Vorlage|eingetragene Beispieldaten
 --|--
-const MagellanDatabase = 'Ihr Pfad/MAGELLAN7.fdb';|const MagellanDatabase = 'C:\Users\Public\Documents\Stueber Systems\Magellan 7\Datenbank\MAGELLAN7.fdb';
+const MagellanDatabase = 'Eintrag aus Dateipfad auf dem Server';|const MagellanDatabase = 'C:\Users\Public\Documents\Stueber Systems\Magellan 7\Datenbank\MAGELLAN7.fdb';
 const MagellanUserName = 'sysdba';|const MagellanUserName = 'sysdba';
 const MagellanPassword = 'Ihr Passwort';|const MagellanPassword = 'masterkey';
 const Server = 'Eintrag aus dem Feld Server';|const Server = 'localhost';<br/>const Server = 'Verwaltungsserver';
 const Protocol = 'TCP/IP';|
 
-9. Sie lösen das Skript über das grüne Dreieck aus, das Skript überprüft die Schüler und meldet abschließend `Vorgang erfolgreich abgeschlossen`. Schließen Sie den Skripteditor, speichern ggfs. Ihre Angabe, schließen Sie den MAGELLAN Administrator und überprüfen in MAGELLAN das Ergebnis.
+10. Sie lösen das Skript über das grüne Dreieck aus, das Skript überprüft die Schüler und meldet abschließend `Vorgang erfolgreich abgeschlossen`. Schließen Sie den Skripteditor, speichern ggfs. Ihre Angabe, schließen Sie den MAGELLAN Administrator und überprüfen in MAGELLAN das Ergebnis.
+
+![Skript auslösen](/images/support/schuelerlaufbahn_korrigieren/08.png)
