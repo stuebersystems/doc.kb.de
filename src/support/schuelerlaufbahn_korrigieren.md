@@ -43,3 +43,4 @@ const Protocol = 'TCP/IP';|
 10. Sie lösen das Skript über das grüne Dreieck aus, das Skript überprüft die Schüler und meldet abschließend `Vorgang erfolgreich abgeschlossen`. Schließen Sie den Skripteditor, speichern ggfs. Ihre Angabe, schließen Sie den MAGELLAN Administrator und überprüfen in MAGELLAN das Ergebnis.
 
 ![Skript auslösen](/images/support/schuelerlaufbahn_korrigieren/08.png)
+
