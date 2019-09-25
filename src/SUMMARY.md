@@ -66,7 +66,7 @@
 * [WEBBOX-Vertretungspläne für CONFIRE SHOWTIME](infoserver/webbox.fuer.showtime.md)
 * [WEBBOX-Vertretungsliste per Browser für E-BOARDs](infoserver/webboxvertretungsliste.per.browser.md)
 * [INFOSERVER und WEBBOX aktualisieren](infoserver/infoserver-und-webbox-aktualisieren.md)
-* [Rechte und Benutzer für die WEBBOX ](rechte-und-benutzer-fur-die-webbox.md)
+* [Rechte und Benutzer für die WEBBOX](rechte-und-benutzer-fur-die-webbox.md)
 * [HTML-Vorlagen mit "local" oder mit "main"?](infoserver/htmlvorlagen.md)
 * [HTTPS Protokoll](https-protokoll.md)
 
