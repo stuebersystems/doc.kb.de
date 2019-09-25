@@ -1,5 +1,63 @@
 # Summary
 
+## MAGELLAN / Firebird
+
+* [Server Voraussetzungen \(Hardware\)](magellan/system-requirements.md)
+
+## MAGELLAN Administration
+
+* [Introduction](README.md)
+* [Erste Schritte in MAGELLAN](magellan/erste-schritte-in-magellan.md)
+* [Installationsprobleme unter Citrix](magellan/citrixinstallation.md)
+* [Ihre MAGELLAN 7-Installation zieht auf einen neuen Serverrechner um?](magellan/admin-serverumzug7.md)
+* [Ihre MAGELLAN 6-Installation zieht auf einen neuen Serverrechner um?](magellan/admin-serverumzug6.md)
+* [MAGELLAN ADMINISTRATOR im Silent-Mode starten](magellan/admin_silentmode.md)
+* [Pathsdatei: \*.lic, \*.evm, \*.opt zentral ablegen](magellan/pathsdatei.md)
+* [Hinweis Access-Anbindung](magellan/Access-Anbindung.md)
+* [Regelmäßige Sicherung der DB per Taskplaner](magellan/admin_sicherung.taskplaner.md)
+* [MAGELLAN und Linux](magellan/admin.linux.md)
+* [Probleme mit dem PDF-Export](magellan/pdf_fehler.md)
+
+## MAGELLAN Handhabung
+
+* [PLZ und Gemeinden aktualisieren](magellan/plz.aktualisieren.md)
+* [ABS: Neues Halbjahr, neues Schuljahr](magellan/neues-halbjahr-neues-schuljahr.md)
+* [BBS: Neues Halbjahr, neues Schuljahr](magellan/bbs-neues-halbjahr-neues-schuljahr-was-ist-zu-tun.md)
+* [Schlüsselverzeichnisse hinter Feldern](magellan/Schluesselverzeichnisse.md)
+* [Positionen für den Zeugnisdruck nachträglich zuweisen](magellan/mag_positionen_nachpflegen.md)
+* [MAGELLAN und Untis](magellan/import_mag.untis.md)
+* [Jahrgangsübergreifende Klassen](magellan/jahrgangsubergreifende-klassen-in-magellan.md)
+* [MAGELLAN und DAVINCI: Fächer abgleichen](magellan/abgleich.stammdaten.md)
+* [Fachwahlkarte](magellan/fachwahl.md)
+* [Tastaturkürzel](magellan/Shortcuts_Tastaturkuerzel.md)
+
+## MAGELLAN / Import und Export
+
+* [CSV-Dateien mit Texttrennzeichen speichern](magellan/import-csvdateien.md)
+* [Gemeindekennziffern nachträglich setzen](magellan/import-gemeindekennziffern_nachsetzen.md)
+* [ODBC-Anbindung unter 64 bit Betriebssystemen](magellan/Import_odbc-3264.md)
+
+## MAGELLAN Seriendruck
+
+* [Meldung: Makrospeicher konnte nicht geöffnet werden](magellan/makrospeicher.md)
+* [Word stellt Umlaute nicht korrekt dar](magellan/umlaute.md)
+
+## MAGELLAN BIBLIOTHEK
+
+* [Optimale Hardware für MAGELLAN BIBLIOTHEK](bib/Bib_Hardware.md)
+* [OPAC Unterstützung](bib/bib.opac.md)
+
+## Crystal Reports
+
+* [Berichte für MAGELLAN 7 anpassen](cr/berichte_fuer_7_anpassen.md)
+* [Vor- und Nachname in Berichten](cr/cr-vor-und-nachname.md)
+* [Personalisieren von Zeugnisbemerkungen](cr/cr-zeugnisbemerkungen-personalisieren.md)
+* [ODBC-Anbindung unter Windows 64 bit](cr/cr-odbc-64bit.md)
+* [Meldung: Tabelle '' nicht gefunden](cr/cr-tabelle.nicht.gefunden.md)
+* [Standarddrucker für CR-Berichte](cr/cr-drucker.md)
+* [Fächer mit hochgestellter Ziffer für einen Verweis auf eine Fußnote](cr/cr-hochgestellt.md)
+* [Felder im Bericht aktualisieren](cr/felder-im-bericht-aktualisieren.md)
+
 ## DAVINCI INFOSERVER
 
 * [Introduction](README.md)
@@ -44,63 +102,6 @@
 ## DAVINCI / Veröffentlichungen
 
 * [DAVINCI LOOK und DAVINCI WEBBOX](veroeffentlichung/veroeffentlichung.md)
-
-## MAGELLAN / Firebird
-
-* [Server Voraussetzungen \(Hardware\)](system-requirements.md)
-
-## MAGELLAN Administration
-
-* [Introduction](README.md)
-* [Erste Schritte in MAGELLAN](erste-schritte-in-magellan.md)
-* [Installationsprobleme unter Citrix](citrixinstallation.md)
-* [Ihre MAGELLAN-Installation zieht auf einen neuen Serverrechner um?](admin-serverumzug.md)
-* [MAGELLAN ADMINISTRATOR im Silent-Mode starten](admin_silentmode.md)
-* [Pathsdatei: \*.lic, \*.evm, \*.opt zentral ablegen](pathsdatei.md)
-* [Hinweis Access-Anbindung](Access-Anbindung.md)
-* [Regelmäßige Sicherung der DB per Taskplaner](admin_sicherung.taskplaner.md)
-* [MAGELLAN und Linux](admin.linux.md)
-* [Probleme mit dem PDF-Export](pdf_fehler.md)
-
-## MAGELLAN Handhabung
-
-* [PLZ und Gemeinden aktualisieren](plz.aktualisieren.md)
-* [ABS: Neues Halbjahr, neues Schuljahr](neues-halbjahr-neues-schuljahr.md)
-* [BBS: Neues Halbjahr, neues Schuljahr](bbs-neues-halbjahr-neues-schuljahr-was-ist-zu-tun.md)
-* [Schlüsselverzeichnisse hinter Feldern](Schluesselverzeichnisse.md)
-* [Positionen für den Zeugnisdruck nachträglich zuweisen](mag_positionen_nachpflegen.md)
-* [MAGELLAN und Untis](import_mag.untis.md)
-* [Jahrgangsübergreifende Klassen](jahrgangsubergreifende-klassen-in-magellan.md)
-* [MAGELLAN und DAVINCI: Fächer abgleichen](abgleich.stammdaten.md)
-* [Fachwahlkarte](fachwahl.md)
-* [Tastaturkürzel](Shortcuts_Tastaturkuerzel.md)
-
-## MAGELLAN / Import und Export
-
-* [CSV-Dateien mit Texttrennzeichen speichern](import-csvdateien.md)
-* [Gemeindekennziffern nachträglich setzen](import-gemeindekennziffern_nachsetzen.md)
-* [ODBC-Anbindung unter 64 bit Betriebssystemen](Import_odbc-3264.md)
-
-## MAGELLAN Seriendruck
-
-* [Meldung: Makrospeicher konnte nicht geöffnet werden](seriendruck/makrospeicher.md)
-* [Word stellt Umlaute nicht korrekt dar](seriendruck/umlaute.md)
-
-## MAGELLAN BIBLIOTHEK
-
-* [Optimale Hardware für MAGELLAN BIBLIOTHEK](bib/Bib_Hardware.md)
-* [OPAC Unterstützung](bib/bib.opac.md)
-
-## Crystal Reports
-
-* [Berichte für MAGELLAN 7 anpassen](cr/berichte_fuer_7_anpassen.md)
-* [Vor- und Nachname in Berichten](cr/cr-vor-und-nachname.md)
-* [Personalisieren von Zeugnisbemerkungen](cr/cr-zeugnisbemerkungen-personalisieren.md)
-* [ODBC-Anbindung unter Windows 64 bit](cr/cr-odbc-64bit.md)
-* [Meldung: Tabelle '' nicht gefunden](cr/cr-tabelle.nicht.gefunden.md)
-* [Standarddrucker für CR-Berichte](cr/cr-drucker.md)
-* [Fächer mit hochgestellter Ziffer für einen Verweis auf eine Fußnote](cr/cr-hochgestellt.md)
-* [Felder im Bericht aktualisieren](cr/felder-im-bericht-aktualisieren.md)
 
 ## Archiv
 

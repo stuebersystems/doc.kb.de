@@ -1,4 +1,4 @@
-#HTTPS Protokoll
+# HTTPS Protokoll
 
 Aktuell muss man bei der Umstellung der Webbseite von http auf https ein paar Template-Textdateien manuell editieren:
 

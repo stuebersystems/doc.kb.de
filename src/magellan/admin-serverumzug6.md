@@ -7,8 +7,8 @@ Wir möchten Ihnen in diesem Artikel eine Übersicht bieten, an was alles zu den
 
 Laden Sie die beiden Installationspakete herunter:
 
-* [Firebird](ftp://ftp.stueber.de/pub/bin/de/magellan/v7/Firebird-2.5.8.27089_0_Win32.exe)
-* [MAGELLAN](ftp://ftp.stueber.de/pub/bin/de/magellan/v7/magellan7.msi)
+* [Firebird](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/Firebird-2.5.8.26089_0_Win32.exe)
+* [MAGELLAN](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/magellan6.msi)
 
 Eine Installationsanleitung finden Sie hier: [Installationsanleitung](https://doc.magellan6.stueber.de/installation/)
 
@@ -18,64 +18,56 @@ Eine Installationsanleitung finden Sie hier: [Installationsanleitung](https://do
 
 Das ist die Datenbank, in der Ihre gesamten Schulverwaltungsdaten gespeichert sind. Diese Datei finden Sie bei Standardinstallation je nach Betriebssystem unter:
 
-
 | Betriebssystem     | Speicherpfad                             |
 |--------------------|------------------------------------------|
-| Vista              | C:\Users\Public\Documents\Magellan 7\Datenbank\Magellan7.fdb |
-| XP                 | C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Datenbank\Magellan7.fdb |
-| Win2000            | C:\Dokumente und Einstellungen\All Users\Dokumente\Stueber Systems\Datenbank\Magellan7.fdb |
-| Win7               | C:\Users\Public\Documents\Stueber Systems\Magellan 7\Datenbank\Magellan7.fdb |
-| Windows Server2000 | C:\ProgramData\Documents\Stueber Systems\Magellan 7\Datenbank\Magellan7.fdb |
-| Win10              | C:\Users\Public\Documents\Stueber Systems\Magellan 7\Datenbank\Magellan7.fdb |
-
-
-
+| Vista              | C:\Users\Public\Documents\Magellan 6\Datenbank\Magellan6.fdb |
+| XP                 | C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Datenbank\Magellan6.fdb |
+| Win2000            | C:\Dokumente und Einstellungen\All Users\Dokumente\Stueber Systems\Datenbank\Magellan6.fdb |
+| Win6               | C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6.fdb |
+| Windows Server2000 | C:\ProgramData\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6.fdb |
+| Win10              | C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6.fdb |
 
 > #### warning::Wichtig!
 >
 > Sollten Sie sich nicht sicher sein, wo genau sich diese Datenbank befindet, können Sie den genauen Pfad auch im MAGELLAN Administratormodul nachsehen. Sie finden den genauen Ablageort unter: `Server-Verwaltung > Verbindung verwalten > Starten > Verbindung markieren (heißt bestimmt "Magellan") > Bearbeiten > Datenbank`.
 
-
 ### Magellan6DWH.fdb
+
 Das ist die Datenbank, in der Daten für einige Bundesländer für die Erstellung der Statistik gespeichert werden. Diese Datei finden Sie je nach Betriebssystem unter:
 
 Betriebssystem|Speicherpfad
 ---|---
-Vista|C:\Users\Public\Documents\Magellan 7\Datenbank\Magellan6.fdb
-XP|C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Software\Datenbank\Magellan6DWH.fdb
-Windows 2000|C:\Dokumente und Einstellungen\All Users\Dokumente\Stueber Software\Datenbank\Magellan6DWH.fdb
-Windows 7|C:\Users\Public\Documents\Stueber Software\Magellan 7\Datenbank\Magellan6DWH.fdb
-Windows Server2000|C:\ProgramData\Documents\Stueber Software\Magellan 7\Datenbank\Magellan6DWH.fdb
-Win10|C:\Users\Public\Documents\Stueber Systems\Magellan 7\Datenbank\Magellan6DWH.fdb
-
+Vista|C:\Users\Public\Documents\Magellan 6\Datenbank\Magellan6.fdb
+XP|C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Datenbank\Magellan6DWH.fdb
+Windows 2000|C:\Dokumente und Einstellungen\All Users\Dokumente\Stueber Systems\Datenbank\Magellan6DWH.fdb
+Windows 6|C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6DWH.fdb
+Windows Server2000|C:\ProgramData\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6DWH.fdb
+Win10|C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6DWH.fdb
 
 > #### warning::Wichtig!
 >
-> Sollten Sie sich nicht sicher sein, wo genau sich diese Datenbank befindet, können Sie den genauen Pfad auch im Magellan 7 Administratormodul nachsehen. Sie finden den genauen Ablageort unter: `Server-Verwaltung > Verbindung verwalten > Starten > Verbindung markieren (heißt bestimmt "Magellan") > Bearbeiten > Data Warehouse`.
-
+> Sollten Sie sich nicht sicher sein, wo genau sich diese Datenbank befindet, können Sie den genauen Pfad auch im Magellan 6 Administratormodul nachsehen. Sie finden den genauen Ablageort unter: `Server-Verwaltung > Verbindung verwalten > Starten > Verbindung markieren (heißt bestimmt "Magellan") > Bearbeiten > Data Warehouse`.
 
 ### security2.fdb
 
-Bitte sichern Sie vom alten Server die security2.fdb. 
+Bitte sichern Sie vom alten Server die security2.fdb.
 
 Sie finden diese unter hier:
 
 Betriebssystem|Speicherpfad
 ---|---
-32Bit|  C:\Programme\Firebird\Firebird_2_5 
+32Bit|  C:\Programme\Firebird\Firebird_2_5
 64Bit|C:\Program Files (x86)\Firebird\Firebird_2_5
   
-Diese Datenbank enthält die Passwort- und Rechteinformationen (Passworte verschlüsselt). Daher muss auch bei einer Datenstrukturanpassung immer die Aktion "Synchronisiere Zugriffsrechte"  im MAGELLAN Administrator ausgeführt werden. 
+Diese Datenbank enthält die Passwort- und Rechteinformationen (Passworte verschlüsselt). Daher muss auch bei einer Datenstrukturanpassung immer die Aktion "Synchronisiere Zugriffsrechte"  im MAGELLAN Administrator ausgeführt werden.
 
-Bei dieser Aktion werden die beiden Datenbanken, also die security2.fdb (Passwortdatenbank) und die magellan6.fdb (Schulverwaltungsdatenbank) miteinander abgeglichen, damit auch für die neu angefügten Teile der Datenbank der Zugriff für die Benutzer geklärt ist. 
+Bei dieser Aktion werden die beiden Datenbanken, also die security2.fdb (Passwortdatenbank) und die magellan6.fdb (Schulverwaltungsdatenbank) miteinander abgeglichen, damit auch für die neu angefügten Teile der Datenbank der Zugriff für die Benutzer geklärt ist.
 
-Beim Installieren von Firebird auf dem neuen Server wird an der selben Stelle wieder eine security2.fdb angelegt. Sie 
-ersetzen diese durch die gesicherte und führen dann anschließend das "Synchronisieren der Zugriffsrechte aus". Sie finden diesen Punkt unter MAGELLAN Administrator > Datenbankpflege > Datenbank überprüfen > Zugriffsrechte synchronisieren.
+Beim Installieren von Firebird auf dem neuen Server wird an der selben Stelle wieder eine security2.fdb angelegt. Sie ersetzen diese durch die gesicherte und führen dann anschließend das "Synchronisieren der Zugriffsrechte aus". Sie finden diesen Punkt unter `MAGELLAN Administrator > Datenbankpflege > Datenbank überprüfen > Zugriffsrechte synchronisieren`.
 
 > #### primary::Hinweis
 >
 > Sichern Sie diese Datenbank nicht, kann sich kein Nutzer unter seinen gewohnten Zugangsdaten an der MAGELLAN-Datenbank auf Ihrem neuen Server anmelden!
-
 
 ### Datenordner
 
@@ -83,17 +75,13 @@ Die folgenden Verzeichnisse enthalten von uns gelieferte Dateien, aber auch selb
 
 Datenordner (Vorlagen, Skripte, Importe, Dokumente, Berichte, Datenordner):
 
-
 | Betriebssystem      | Speicherpfad                             |
 |---------------------|------------------------------------------|
-| Vista               | C:\Users\Public\Documents\Magellan 7     |
-| XP                  | C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Magellan 7 |
-| Windows 2000        | C:\Dokumente und Einstellungen\All Users\Dokumente\Stueber Systems\Magellan 7 |
-| Windows 7           | C:\Users\Public\Documents\Stueber Systems\Magellan 7 |
-| Windows Server 2008 | C:\ProgramData\Documents\Stueber Systems\Magellan 7\ |
-
-
-
+| Vista               | C:\Users\Public\Documents\Magellan 6     |
+| XP                  | C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Magellan 6 |
+| Windows 2000        | C:\Dokumente und Einstellungen\All Users\Dokumente\Stueber Systems\Magellan 6 |
+| Windows 6           | C:\Users\Public\Documents\Stueber Systems\Magellan 6 |
+| Windows Server 2008 | C:\ProgramData\Documents\Stueber Systems\Magellan 6\ |
 
 | Verzeichnis | Inhalt                                   |
 |-------------|------------------------------------------|
@@ -104,10 +92,7 @@ Datenordner (Vorlagen, Skripte, Importe, Dokumente, Berichte, Datenordner):
 | Dokumente   | enthält die pro Schüler, Lehrer usw. gespeicherten Briefe, Dokumente u.ä. |
 | Datenbank   | enthält Ihre Schulverwaltungsdatenbank und das Datawarehouse |
 
-
-
 ### Sonstige Dateien
-
 
 | Datei        | Bedeutung                                |
 |--------------|------------------------------------------|
@@ -116,43 +101,35 @@ Datenordner (Vorlagen, Skripte, Importe, Dokumente, Berichte, Datenordner):
 | magellan.opt | Speichert die Einstellungen unter `Magellan > Extras > Optionen` |
 
 
-
 Alle zu finden unter:
-
 
 | Betriebssystem      | Speicherpfad                             |
 |---------------------|------------------------------------------|
-| Vista               | C:\ProgramData\Stueber Systems\Magellan 7 |
-| XP                  | C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Magellan 7 |
-| Windows 2000        | C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Magellan 7 |
-| Windows 7           | C:\ProgramData\Stueber Systems\Magellan 7 |
-| Windows Server 2008 | C:\ProgramData\Stueber Systems\Magellan 7\ |
-| Win10               | C:\ProgramData\Stueber Systems\Magellan 7 |
-
+| Vista               | C:\ProgramData\Stueber Systems\Magellan 6 |
+| XP                  | C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Magellan 6 |
+| Windows 2000        | C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Magellan 6 |
+| Windows 6           | C:\ProgramData\Stueber Systems\Magellan 6 |
+| Windows Server 2008 | C:\ProgramData\Stueber Systems\Magellan 6\ |
+| Win10               | C:\ProgramData\Stueber Systems\Magellan 6 |
 
 ### Anpassung für den ersten Clientrechner
-
 
 Mit dem neuen Server müssten sich auch die Zugriffsinformationen von den Clients auf den Server ändern. Öffnen Sie nach erfolgter Übernahme von einem Client aus den MAGELLAN-Administrator ohne Anmeldung.
 
 ![Wählen Sie im Feld `Datenbank`den Wert `Keine Anmeldung`.](images/admin.ohne.anmeldung.png)
 
-Wechseln auf `Server-Verwaltung > Verbindungen verwalten > Starten > markieren Ihre Verbindung` und passen auf den Karten `Datenbank` und `Datenordner` die Pfadinformationen an. 
-
+Wechseln auf `Server-Verwaltung > Verbindungen verwalten > Starten > markieren Ihre Verbindung` und passen auf den Karten `Datenbank` und `Datenordner` die Pfadinformationen an.
 
 > #### warning::Wichtig!
 >
 > Bitte denken Sie daran, das der Pfad aus Sicht des Servers erwartet wird, also bitte dort keinen Netzwerkpfad eingeben.
 
-Wenn die Verbindung des ersten Arbeitsplatzrechners fertig angepasst ist, rufen Sie bitte MAGELLAN auf und prüfen, ob Sie die Druckvorschau für einen Bericht sehen können. Weisen Sie zum Test einem Schüler etwas per Sammelzuweisung zu, im Anschluss löschen Sie den Eintrag wieder. Diese beiden Aktionen sollen letztlich nur bestätigen, ob die Pfadangaben korrekt waren. 
+Wenn die Verbindung des ersten Arbeitsplatzrechners fertig angepasst ist, rufen Sie bitte MAGELLAN auf und prüfen, ob Sie die Druckvorschau für einen Bericht sehen können. Weisen Sie zum Test einem Schüler etwas per Sammelzuweisung zu, im Anschluss löschen Sie den Eintrag wieder. Diese beiden Aktionen sollen letztlich nur bestätigen, ob die Pfadangaben korrekt waren.
 
-### Anpassung für den ersten Clientrechner
+### Anpassung für weitere Clientrechner
 
 Diese Einstellungen müssten jetzt auf jedem weiteren MAGELLAN-Client vorgenommen werden. Das können Sie genau wie im vorherigen Abschnitt vornehmen, oder Sie legen die Dateien, in denen diese Informationen gespeichert werden an zentraler Stelle ab und leiten MAGELLAN beim Programmstart per `Magellan.paths`auf diese Dateien um.
 
-Eine Anleitung dafür finden Sie im Abschnitt [Die Pathsdatei](https://doc.magellan7.stueber.de/installation/die-pathsdatei.html).
-
+Eine Anleitung dafür finden Sie im Abschnitt [Die Pathsdatei](https://doc.magellan6.stueber.de/installation/die-pathsdatei.html).
 
 ![Sichern Sie diese drei Dateien](images/pathsdateien.png)
- 
-
