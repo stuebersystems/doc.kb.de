@@ -4,6 +4,7 @@ Einige Werte im Verzeichnis `Postleitzahlen` können sich zum Beispiel durch Geb
 
 | Folgende Schritte sind notwendig         |
 |-----------------------------------------:|
+| 1. Postleitzahlverzeichnis importieren   |
 | 2. Gemeinden synchronisieren             |
 | 3. Vollständigkeit der Gemeindekennziffern für Schüler überprüfen |
 
