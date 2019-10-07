@@ -16,7 +16,7 @@ Prüfen Sie bitte, ob in Ihrem Schulnetzwerk (Serverrechner und Arbeitsplatzrech
 Öffnen Sie anschließend bitte im MAGELLAN Administrator den Punkt `Datenimporte > Postleitzahlverzeichnis importieren`. 
 Wählen Sie im Assistenten für `für folgendes Land` den Wert `Deutschland` aus und für `importiere folgenden Katalog` bitte `alle Kataloge`. Starten Sie den Assistenten über die Schaltfläche `Fertigstellen`.
 
-![Importieren des Postleitzahlverzeichnisses](images/RLP_PLZ_importieren.png)
+![Importieren des Postleitzahlverzeichnisses](..images/RLP_PLZ_importieren.png)
 
 ## Gemeinden synchronisieren
 

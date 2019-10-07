@@ -13,7 +13,6 @@
 * [Ihre MAGELLAN 6-Installation zieht auf einen neuen Serverrechner um?](magellan/admin-serverumzug6.md)
 * [MAGELLAN ADMINISTRATOR im Silent-Mode starten](magellan/admin_silentmode.md)
 * [Pathsdatei: \*.lic, \*.evm, \*.opt zentral ablegen](magellan/pathsdatei.md)
-* [Hinweis Access-Anbindung](magellan/Access-Anbindung.md)
 * [Regelmäßige Sicherung der DB per Taskplaner](magellan/admin_sicherung.taskplaner.md)
 * [MAGELLAN und Linux](magellan/admin.linux.md)
 * [Probleme mit dem PDF-Export](magellan/pdf_fehler.md)
@@ -35,7 +34,6 @@
 
 * [CSV-Dateien mit Texttrennzeichen speichern](magellan/import-csvdateien.md)
 * [Gemeindekennziffern nachträglich setzen](magellan/import-gemeindekennziffern_nachsetzen.md)
-* [ODBC-Anbindung unter 64 bit Betriebssystemen](magellan/Import_odbc-3264.md)
 
 ## MAGELLAN Seriendruck
 
