@@ -3,7 +3,7 @@
 Einige Werte im Verzeichnis `Postleitzahlen` können sich zum Beispiel durch Gebietsrefomen verändern. Wenn das der Fall ist, erzeugen wir aus den Postleitzahlverzeichnissen der Post nach MAGELLAN importierbare Dateien, legen diese per Update auf Ihrem Server ab und informieren darüber im Abschnitt "Was ist neu?" in der MAGELLAN-Dokumentation. Diese Dateien müssen über das Modul MAGELLAN Administrator in die Datenbank eingelesen werden. Anschließend müssen die eingelesenen Werte mit den in Ihrer Datenbank bereits verwendeten Werten abgeglichen werden. 
 
 | Folgende Schritte sind notwendig         |
-|-----------------------------------------:|
+|------------------------------------------|
 | 1. Postleitzahlverzeichnis importieren   |
 | 2. Gemeinden synchronisieren             |
 | 3. Vollständigkeit der Gemeindekennziffern für Schüler überprüfen |
