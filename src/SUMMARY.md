@@ -19,6 +19,7 @@
 
 ## MAGELLAN Handhabung
 
+* [Umlaute in der Druckvorschau](magellan/umlaute_druck.md)
 * [PLZ und Gemeinden aktualisieren](magellan/plz.aktualisieren.md)
 * [ABS: Neues Halbjahr, neues Schuljahr](magellan/neues-halbjahr-neues-schuljahr.md)
 * [BBS: Neues Halbjahr, neues Schuljahr](magellan/bbs-neues-halbjahr-neues-schuljahr-was-ist-zu-tun.md)
