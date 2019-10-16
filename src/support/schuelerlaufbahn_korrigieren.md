@@ -43,3 +43,22 @@ const Protocol = 'TCP/IP';|
 10. Sie lösen das Skript über das grüne Dreieck aus, das Skript überprüft die Schüler und meldet abschließend `Vorgang erfolgreich abgeschlossen`. Schließen Sie den Skripteditor, speichern ggfs. Ihre Angabe, schließen Sie den MAGELLAN Administrator und überprüfen in MAGELLAN das Ergebnis.
 
 ![Skript auslösen](/images/support/schuelerlaufbahn_korrigieren/08.png)
+
+## Probleme
+
+### Unable to complete network request...
+
+````
+Originaldateiname: Schullaufbahn gewechselt7.dws
+Letzte Änderung: 05.09.2019
+Copyright (c) 2019 STÜBER SYSTEMS GmbH
+-------------------------------------------------------------------------------
+Verbindung zu Datenbank aufbauen...
+[FireDAC][Phys][FB]Unable to complete network request to host "IhrServername".
+Failed to establish a connection.
+[FireDAC][Comp][Clnt]-512. Verbindung ist nicht für [] festgelegt. Mögliche Ursache: Die Eigenschaftswerte von Connection und ConnectionName sind beide leer
+Verbindung zur Datenbank abbauen...OK!
+*** Vorgang mit Fehlern abgeschlossen ***
+````
+
+Sollte diese Meldung gezeigt werden, kann es ein Problem innerhalb Ihres Netzwerkes geben. Sie könnten statt des Servernamens die IP-Adresse des Serverrechners eintragen oder auch das Skript direkt auf dem Serverrechner ausführen und als Server dann `localhost` eintragen.
