@@ -2,14 +2,15 @@
 
 Wichtiger Unterschied:
 
-Geht es nur um die Sortierung oder um eine Gruppierung? 
-Eine Gruppierung wäre beispielsweise die Darstellung der Schüler(alphabethisch= Sortierung) innerhalb (Gruppierung) Klasse.
+Geht es nur um die Sortierung oder um eine Gruppierung?
 
-Sortierung am Beispiel einer Schülerliste:
+Eine Gruppierung wäre beispielsweise die Darstellung der Schüler (alphabethisch = Sortierung) innerhalb (Gruppierung) einer Klasse.
+
+## Sortierung am Beispiel einer Schülerliste
 
 ![Fehlermeldung](../images/cr-sortierung-im-bericht.jpg)
 
-CR: Drucksortierung nach Klasse > Nachname > Vorname
+## Drucksortierung nach Klasse > Nachname > Vorname
 
 Problem:
 
@@ -17,7 +18,7 @@ Der Bericht gibt die Schüler nicht in alphabethischer Reihenfolge aus, sondern 
 
 Grund ist die verkehrte Gruppierung des Berichtes, die Gruppierung sollte durch die Formel ersetzt werden:
 
-Feldexplorer > Rechtsklick > Neu > Benennung „Sortierung" > Fügen Sie die nachstehende Formel ein > Speichern und Schließen:
+`Feldexplorer > Rechtsklick > Neu > Benennung „Sortierung" > Fügen Sie die nachstehende Formel ein > Speichern und Schließen`:
 
 Kopiervorlage: formula = {Klassen.Kuerzel} + {Schueler.Nachname} + {Schueler.Vorname} + toText({Schueler.ID})
 
