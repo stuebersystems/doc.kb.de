@@ -48,6 +48,7 @@
 
 ## Crystal Reports
 
+* [Sortierung oder Gruppierung](cr/sortierung-und-gruppierung.md)
 * [Berichte für MAGELLAN 7 anpassen](cr/berichte_fuer_7_anpassen.md)
 * [Vor- und Nachname in Berichten](cr/cr-vor-und-nachname.md)
 * [Personalisieren von Zeugnisbemerkungen](cr/cr-zeugnisbemerkungen-personalisieren.md)
