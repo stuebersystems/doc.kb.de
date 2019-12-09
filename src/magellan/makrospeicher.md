@@ -1,17 +1,13 @@
 # MAGELLAN Seriendruck-Meldung "Makrospeicher konnte nicht geöffnet werden"
 
-Teilweise öffnet Word Dokumente in einer `geschützten Ansicht`. Das ist bei heiklen oder unbekannten Quellen durchaus sinnvoll - führt beim Seriendruck in MAGELLAN aber zu Problemen. 
-
+Teilweise öffnet Word Dokumente in einer `geschützten Ansicht`. Das ist bei heiklen oder unbekannten Quellen durchaus sinnvoll - führt beim Seriendruck in MAGELLAN aber zu Problemen.
 
 Folgende Fehlermeldung kann das Ergebnis sein:
 
-
 ![Meldung beim Start des Seriendrucks](../images/word.01.png)
-
 
 Wenn sich Microsoft Word nicht sicher ist, ob ein zu öffnendes Dokument vertrauenswürdig ist, wechselt das Programm beim Laden der Datei in die sogenannte «geschützte Ansicht». 
 In diesem Modus schaltet Word sämtliche enthaltenen Makros ab, damit der PC nicht durch eventuell im Textdokument enthaltenen Schadcode infiziert werden kann.
-
 
 ## Lösung
 

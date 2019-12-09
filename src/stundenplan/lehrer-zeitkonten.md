@@ -1,6 +1,6 @@
 # Lehrer-Zeitkonten
 
-![](/assets/Lehrer-Soll-Konto.png)
+![](../assets/Lehrer-Soll-Konto.png)
 
 Im Lehrer-Zeitkonto Fenster erfassen Sie für einen Lehrer dessen Ermäßigungs- und Mehrarbeitsstunden. Die Ermäßigungs- und Mehrarbeitsgründe können Sie im Schlüsselverzeichnis ``Extras >> Schlüsselverzeichnisse >> Lehrer-Soll-Schlüssel`` eingeben.
 

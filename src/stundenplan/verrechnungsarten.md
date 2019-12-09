@@ -25,13 +25,11 @@ Der Faktor 0,5 ergibt sich, falls bei der "Veranstaltung > Zeitdetails" die Opti
   * aus dem Periodenfaktor, falls die Veranstaltung eine Periode hat oder
   * aus dem Quotienten aus Anzahl der Unterrichtswochen dieser Veranstaltung und dem Wochenfaktor (siehe "Plan > Einstellungen > Statistik > Wochenfaktor").
       Unterrichtswochen sind dabei die rechnerischen Wochen, die bei "Wochenbezogene Summen" unter "Plan > Einstellungen > Statistik" markiert wurden.	  
-	
+
 > #### info::Tipp
 >
 > Problematisch wird es bei dieser Verrechnungsart, wenn auch einmalige Termine verrechnet werden sollen. Bei der Unterrichtsplanung sind beispielsweise zusätzlich 10 Tage "Praxis" geplant.
 Solange nicht klar ist, ob die 10 Termine über zwei oder mehrere Wochen verteilt stattfinden, kann kein Wochenmittel bestimmt werden. In diesem Fall muss auf "Automatisch berechnen" des Faktors verzichtet werden und stattdessen der entsprechende Faktor manuell eingegeben werden, z.B. 2/40 = 0,5 (falls Wochenfaktor = 40, siehe "Plan > Einstellungen > Statistik > Wochenfaktor").
-
-
 
 ## Verrechnungsart "wochenbezogen"
 
@@ -42,8 +40,6 @@ Der Faktor 0,5 ergibt sich, falls bei der "Veranstaltung > Zeitdetails" die Opti
  * aus dem Periodenfaktor, falls die Veranstaltung eine Periode hat oder
  
  * aus dem Quotienten aus Anzahl der Unterrichtswochen dieser Veranstaltung und dem Wochenfaktor (siehe "Plan > Einstellungen > Statistik > Wochenfaktor"). Unterrichtswochen sind dabei die Wochen, die bei "Wochenbezogene Summen" unter "Plan > Einstellungen > Statistik" markiert wurden.	  
-
-
 
 ## Verrechnungsart "tagesbezogen"
 
@@ -66,9 +62,7 @@ Nehmen wir an, eine der BWL Stunden findet in einer der Wochen aufgrund eines Fe
 
 	W = 87 / 44 = 87 / 44 = 1,977 Stunden 
 
-
 > #### info::Hinweis
 >
 > Durch die mögliche Abweichung von rechnerischem Wochenmittel und tatsächlichem Wochenmittel	kann es zu einer Soll/Ist Differenz beim Lehrer kommen. Sind noch keine Stunden des BWL-Lehrers verplant, ist der Lehrer mit einem Soll von 2 Stunden pro Woche in der Unterrichtsplanung erfasst. Sobald die Stunden verplant sind, ist der tatsächliche Wert 1,977 Stunden. Um dieses Dilemma zu vermeiden, sollte man bei dieser Verrechnungsart daher grundsätzlich mit jahresbezogenen Summen arbeiten.
 
-	

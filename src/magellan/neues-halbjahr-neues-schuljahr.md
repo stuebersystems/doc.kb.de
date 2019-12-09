@@ -9,7 +9,7 @@ Jede Ihrer Klassen existiert nur zwei Halbjahre lang und anschließend wird eine
 
 Bitte legen Sie unter `Verzeichnisse > Zeiträume` ein neues Schuljahr an. Dazu verwenden Sie die Schaltfläche `Schuljahre anlegen`.
 
-![Schaltfläche zum Anlegen eines neuen Schuljahres](images/dialog-zeitraeumeverz-neu.png)
+![Schaltfläche zum Anlegen eines neuen Schuljahres](../images/dialog-zeitraeumeverz-neu.png)
 
 ### Klassen
 
@@ -23,9 +23,9 @@ Um auf der Basis der bereits im  alten Halbjahr existierenden Klassen neue Klass
 
 Dieser Assistent kopiert Klassen mit allen getroffenen Einstellungen (aber ohne Schüler!)  und legt sie dort als neue Klassen mit einer neuen ID an. Eine ausführliche Anleitung finden Sie unter: [Assistent "Klassen übernehmen" erstellt neue Klassen](https://doc.magellan7.stueber.de/schulverwaltung/howto/schuljahreswechsel/#assistent-klassen-ubernehmen-erstellt-neue-klassen)
 
-> #### success::Tipp
->
-> Wir empfehlen zum Anlegen von Klassen fürs neue Schuljahr diesen Assistenten zu verwenden, Sie können so gut sicherstellen, dass immer alle relevanten Einstellungen (zum Beispiel die Klassenfachtafel, die Klassenart, der Jahrgang usw.) für die Klassen vergeben wurden.
+!!! tip "Tipp"
+
+    Wir empfehlen zum Anlegen von Klassen fürs neue Schuljahr diesen Assistenten zu verwenden, Sie können so gut sicherstellen, dass immer alle relevanten Einstellungen (zum Beispiel die Klassenfachtafel, die Klassenart, der Jahrgang usw.) für die Klassen vergeben wurden.
 
 ### Schüler
 
@@ -47,13 +47,14 @@ Es werden keine neuen Klassen benötigt.
 
 2. Alle weiteren Schüler werden mit `Extras > Schüler fortschreiben` fortgeschrieben. Sie müssen hierbei nicht klassenweise vorgehen, sondern markieren alle Schüler und schreiben sie fort.
 
-> #### info::Hinweis
-> Wenn ein Schüler innerhalb eines Halbjahres die Klasse wechselt, wird das per `Extras > Schüler wechseln` durchgeführt. 
->
-> Die Gründe dafür können zum Beispiel sein:
->
-> * Der Schüler wechselt in eine Parallelklasse
-> * Freiwilliger Rücktritt im Jahr
-> * Der Schüler wechselt seinen Bildungsgang (berufsbildender Bereich)
->
-> Versehentlich einer Klasse zugeordnete Schüler werden NICHT gewechselt, dafür gibt es für die jeweils als letztes in der Schülerlaufbahn durchgeführte Aktion die Möglichkeit "Schüler korrigieren". Wird in diesem Assistenten ein Schüler nicht angezeigt, hat seine letzte Laufbahnaktion nicht in diesem Halbjahr stattgefunden.
+!!! info "Hinweis"
+
+    Wenn ein Schüler innerhalb eines Halbjahres die Klasse wechselt, wird das per `Extras > Schüler wechseln` durchgeführt. 
+
+Die Gründe dafür können zum Beispiel sein:
+
+* Der Schüler wechselt in eine Parallelklasse
+*  Freiwilliger Rücktritt im Jahr
+* Der Schüler wechselt seinen Bildungsgang (berufsbildender Bereich)
+  
+Versehentlich einer Klasse zugeordnete Schüler werden NICHT gewechselt, dafür gibt es für die jeweils als letztes in der Schülerlaufbahn durchgeführte Aktion die Möglichkeit "Schüler korrigieren". Wird in diesem Assistenten ein Schüler nicht angezeigt, hat seine letzte Laufbahnaktion nicht in diesem Halbjahr stattgefunden.

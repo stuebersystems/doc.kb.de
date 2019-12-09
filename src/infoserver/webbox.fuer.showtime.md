@@ -16,13 +16,13 @@ Was ist zu tun?
 Wir empfehlen Ihnen einen Benutzer anzulegen, der nur für die Anzeige der Vertretungslisten in CONFIRE SHOWTIME verwendet wird. 
 Melden Sie sich bitte mit Administrationsrechten am DAVINCI EXPLORER an und legen einen neuen Benutzer (ohne Administrationsrechte) an.
  
-![Legen Sie einen neuen Benutzer an](/images/infoserver/infoserver.07.png)
+![Legen Sie einen neuen Benutzer an](../images/infoserver/infoserver.07.png)
 
 ## Benutzer dem Arbeitsbereich zuordnen und Richtlinien definieren
 
 Ordnen Sie diesen Benutzer bitte auf der Karte `Plandateien` dem Arbeitsbereich zu und vergeben bitte die Richtlinien für den INFOSERVER entsprechend Ihrer Vorstellungen. Für die Anzeige des Vertretungsplans empfehlen wir folgende Angaben:
 
-![Ordnen Sie den Benutzer dem Arbeitsbereich zu und vergeben die Richtlinien](/images/infoserver/infoserver.05.png)
+![Ordnen Sie den Benutzer dem Arbeitsbereich zu und vergeben die Richtlinien](../images/infoserver/infoserver.05.png)
 
 > #### primary::Hinweis
 >
@@ -38,7 +38,7 @@ Sie müssen nichts weiter tun, als Ihrem Projekt ein weiteres Layout hinzuzufüg
 > Diese CONFIRE SHOWTIME App ist perfekt auf die WEBBOX-Inhalte abgestimmt und besitzt bereits fertige Einstellmöglichkeiten für: Inhalte, Refreshintervalle, Flipintervalle und verschiedene Layouteinstellungen.
 
 
-![Fügen Sie die Vertretungslistenapp ein und positionieren sie in Ihrem Layout](/images/infoserver/infoserver.04.png)
+![Fügen Sie die Vertretungslistenapp ein und positionieren sie in Ihrem Layout](../images/infoserver/infoserver.04.png)
 
 Feld|Eintrag
 ---|---
@@ -46,10 +46,10 @@ URL|Auf der rechten Seite finden Sie die Einstellungen für die eingefügte App.
 Benutzer<br/>Kennwort|Tragen Sie bitte hier die Zugangsdaten Ihres im DAVINCI EXPLORER erfassten Benutzers an.
 Weitere Parameter|Sie haben die Möglichkeit die Parameter, die wir unter [https://davinci-webbox.stueber.de/](https://davinci-webbox.stueber.de/) beschreiben, auch hier zu verwenden.<br/><br/> Im Beispiel verwenden wir den Parameter `substitutionShowExtra` mit dem Wert `none`, um pro Anzeige tatsächlich nur die Daten eines Tages auszugeben.
 
-![Vertretungsplanapp mit den Einstellungen für "Heute"](/images/infoserver/infoserver.08.png)
+![Vertretungsplanapp mit den Einstellungen für "Heute"](../images/infoserver/infoserver.08.png)
 
 
-![Vertretungsplanapp mit den Einstellungen für "Morgen"](/images/infoserver/infoserver.09.png)
+![Vertretungsplanapp mit den Einstellungen für "Morgen"](../images/infoserver/infoserver.09.png)
 
 
 

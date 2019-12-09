@@ -11,6 +11,7 @@ Bei der Server-, Einzelplatz- oder Arbeitsplatzinstallation von MAGELLAN unter C
 Der Fehler liegt hierbei in der Wahl des Protokolls „Lokal“. Unter Citrix müssen Sie immer die eindeutige Kennung im Netzwerk wählen, typischerweise über das Netzwerkprotokoll „TCP/IP“
 
 ### Lösung zu Problem A
+
 Wählen Sie unter Citrix grundsätzlich eine Netzwerkverbindung bei der Server-, Einzelplatz oder Arbeitsplatzinstallation von MAGELLAN.
 Gehen Sie dazu wie folgt vor:
 
@@ -24,21 +25,21 @@ Diese Einstellungen der Verbindung zur Datenbank können Sie auch analog direkt 
 
 ## Problem B: Unregelmäßiger Abbruch beim Drucken
 
-Beim Drucken von Berichten stürzt MAGELLAN unregelmäßig auf dem Citrixserver ab. Nach einer Neuinstallation von MAGELLAN kommt es nach einer gewissen Zeit wieder zum Absturz von MAGELLAN auf dem Citrixserver. 
-Der Fehler liegt an der nachfolgend abgebildeten optional einstellbaren Optimierung von Speicher und CPU unter Citrix. 
- 
+Beim Drucken von Berichten stürzt MAGELLAN unregelmäßig auf dem Citrixserver ab. Nach einer Neuinstallation von MAGELLAN kommt es nach einer gewissen Zeit wieder zum Absturz von MAGELLAN auf dem Citrixserver.
+Der Fehler liegt an der nachfolgend abgebildeten optional einstellbaren Optimierung von Speicher und CPU unter Citrix.
+
 MAGELLAN ist eine Anwendung, die nicht mit dieser Optimierung genutzt werden kann.
 
 ### Lösung zu Problem B
 
-Bei der Speicheroptimierung unter Citrix können bestimmte Anwendungen von der Optimierung ausgeschlossen werden. 
+Bei der Speicheroptimierung unter Citrix können bestimmte Anwendungen von der Optimierung ausgeschlossen werden.
 Sie müssen dazu MAGELLAN als eine von der Optimierung ausgeschlossene Anwendung definieren, wie die nachfolgende Abbildung zeigt
- 
- ![MAGELLAN von der Speicheroptimierung ausschließen](/images/citrix01.png)
+
+ ![MAGELLAN von der Speicheroptimierung ausschließen](../images/citrix01.png)
  
 Tragen Sie dazu unter 'Speicheroptimierung > Anwendungen ausschließen' den lokalen Pfad zur Datei „MAGELLAN.exe“ auf dem Citrixserver ein (in der Abbildung als „D:\Stueber Systems\MAGELLAN 6\MAGELLAN.exe“).
 
-![MAGELLAN von der Speicheroptimierung ausschließen: Pfad eingeben](/images/citrix02.png)
+![MAGELLAN von der Speicheroptimierung ausschließen: Pfad eingeben](../images/citrix02.png)
 
 ## Problem C: Installationpaket konnte nicht geöffnet werden
 

@@ -8,7 +8,7 @@ Klicken Sie auf dem Serverrechner auf Sicherungskopie erstellen, um eine Sicheru
 
 Wenn Sie die gewünschte Datenbank ausgewählt haben, klicken Sie bitte im Feld Dateiname der Sicherungskopie auf das kleine Lupensymbol. Es wird daraufhin ein Explorer geöffnet, in dem Sie den Speicherort der zu erstellenden Sicherungskopie auswählen können. 
 
-![Sicherungskopie erstellen](images/create-backup.png)
+![Sicherungskopie erstellen](../images/create-backup.png)
  
 > #### danger::Wichtig
 > Da die Sicherung der Datenbank immer auf dem Serverrechner abgelegt wird, habe Sie von einem Client  nicht die Möglichkeit, durch Anklicken des Lupensymbols den Pfad auszusuchen. Sie können lediglich manuell den entsprechenden Pfad für den Serverrechner eintragen. Auch müssen Sie die Endung „.fbk“ an den Dateinamen anfügen. Wenn keinen Speicherort und keinen Dateityp angeben wird die Sicherungskopie ohne Dateiendung im Verzeichnis System32 abgelegt.

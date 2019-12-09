@@ -10,11 +10,3 @@ Diese Daten werden in der Registry Ihres Rechners gespeichert unter:
 HKEY_CURRENT_USER\Software\Stueber Systems\daVinci 6\Main\Google
 ```
 
-
-
- 
-
-
-
-
-

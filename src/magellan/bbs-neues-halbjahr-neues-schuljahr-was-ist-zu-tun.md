@@ -1,4 +1,3 @@
-
 # BBS: Neues Halbjahr, neues Schuljahr – Was ist zu tun
 
 Wir gehen in diesem Artikel davon aus, dass Ihre Klassen entsprechend der Bildungsgangdauer existieren. 
@@ -32,9 +31,11 @@ Es werden keine neuen Klassen benötigt.
 | 1.  | Alle Schüler, die die Schule verlassen haben werden über `Extras > Schüler` ausschulen ausgeschult. |
 | 2.  | Alle weiteren Schüler werden mit `Extras > Schüler fortschreiben` fortgeschrieben. Sie müssen hierbei nicht klassenweise vorgehen, sondern markieren alle Schüler und schreiben sie fort. |
 
-> #### info::Hinweis
-> Wenn ein Schüler innerhalb eines Halbjahres die Klasse wechselt, wird das per `Extras > Schüler wechseln` durchgeführt. 
+!!! info "Hinweis"
+
+    Wenn ein Schüler innerhalb eines Halbjahres die Klasse wechselt, wird das per `Extras > Schüler wechseln` durchgeführt. 
 > Die Gründe dafür können zum Beispiel sein:
+>
 > * Der Schüler wechselt in eine Parallelklasse
 > * Freiwilliger Rücktritt im Jahr
 > * Der Schüler wechselt seinen Bildungsgang (berufsbildender Bereich)

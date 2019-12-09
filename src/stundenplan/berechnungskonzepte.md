@@ -42,14 +42,14 @@ Bei der wochenbezogenen Berechnung fließen folgende Informationen in die Berech
 *	Die Angaben in der Spalte „Wochen“ der Veranstaltungsliste 
 *	Die Angaben in der Spalte „Zeit“ der Terminzeilen in der Veranstaltungsliste
 
-##	Tagesbezogene Berechnung
+## Tagesbezogene Berechnung
 
 Bei der tagesbezogenen Berechnung werden die Lehrer-Ist-Werte für die einzelne Unterrichtswoche ermittelt, indem die Dauer der im Teilfenster „Planungsfenster“ definierten Unterrichtstermine miteinander addiert werden. Informationen über unterrichtsfreie Ereignisse, wie z.B. Ferien oder Feiertage werden dabei berücksichtigt. Der Jahresstundenwert des Lehrer-Ist wird errechnet, indem die Stundenwerte der einzelnen Wochen miteinander addiert werden. Der Wochendurchschnittswert des Lehrer-Ist wird gebildet, indem der Jahresstundenwert durch einen automatisch generierten Wochenfaktor dividiert wird.
 
-Bei der tagesbezogenen Berechnung fließen folgende Informationen in die Berechnung der Stundensummen ein: 
+Bei der tagesbezogenen Berechnung fließen folgende Informationen in die Berechnung der Stundensummen ein:
 
-*	Anfangs- und Enddatum des Planungszeitraums 
-*	Unterrichtsfreie Termine 
-*	Dauer der Unterrichtstermine 
-*	Überschneidungsinformationen im Planungsfenster 
-*	Automatisch generierter Wochenfaktor 
+*	Anfangs- und Enddatum des Planungszeitraums
+*	Unterrichtsfreie Termine
+*	Dauer der Unterrichtstermine
+*	Überschneidungsinformationen im Planungsfenster
+*	Automatisch generierter Wochenfaktor

@@ -4,7 +4,7 @@ In diesem Artikel möchten wir Ihnen die verschiedenen Optionen erläutern, die 
 
 Ihnen stehen drei Wege zur Verfügung.
 
-![Wählen Sie einen Weg aus!](/sonstiges/schuljahreswechsel01.png)
+![Wählen Sie einen Weg aus!](images/schuljahreswechsel01.png)
 
 **Neuen leeren Plan erstellen**
 
@@ -20,11 +20,11 @@ Diesen Weg wählen Schulen, die bereits auf eine Plandatei aus dem Vorjahr zurü
 
 Wählen Sie im Assistenten `Neuen Plan erstellen und Daten übernehmen` aus und geben Sie die Plandatei an, aus der Daten übernommen werden sollen. 
 
-![Geben Sie an, aus welchem Plan die Daten übernommen werden sollen](/sonstiges/schuljahreswechsel02.png)
+![Geben Sie an, aus welchem Plan die Daten übernommen werden sollen](images/schuljahreswechsel02.png)
 
 Klicken Sie auf `Weiter >`. Geben Sie nun an, ob es sich um einen Plan für das neue Schuljahre oder um einen Planwechsel innerhalb des Schuljahres handelt. Beim **Planwechsel innerhalb des Schuljahres** werden keine weiteren Änderungen an den Stammdaten vorgenommen.
 
-![Geben Sie an, ob es sich um einen Plan für das neue Schuljahre oder um einen Planwechsel innerhalb des Schuljahres handelt](/sonstiges/schuljahreswechsel03.png)
+![Geben Sie an, ob es sich um einen Plan für das neue Schuljahre oder um einen Planwechsel innerhalb des Schuljahres handelt](images/schuljahreswechsel03.png)
 
 > #### primary::Hinweis
 >
@@ -40,11 +40,11 @@ Wenn Sie diese Option wählen, werden nur die Stammdaten übernommen. Wahlweise 
 
 Wenn Sie diese Option wählen, werden die Stammdaten, die Unterrichtsverteilung, die Aufsichten und die gesetzten Pläne übernommen.
 
-![Wählen Sie, ob alles Übernommen werden soll oder die Unterrichtsverteilung und die Aufsichten gelöscht werden sollen](/sonstiges/schuljahreswechsel04.png)
+![Wählen Sie, ob alles Übernommen werden soll oder die Unterrichtsverteilung und die Aufsichten gelöscht werden sollen](images/schuljahreswechsel04.png)
 
 Nachdem Sie nun eine dieser Optionen gewählt haben, klicken Sie auf `Weiter `. Es wird Ihnen eine Liste aufgezeigt, die Sie Schritt für Schritt durchgehen. 
 
-![Liste der Schritte, die abzuarbeiten sind](/sonstiges/schuljahreswechsel05.png)
+![Liste der Schritte, die abzuarbeiten sind](images/schuljahreswechsel05.png)
 
 **1. Zeitraum eingeben...**
 
@@ -54,19 +54,19 @@ Nachdem Sie nun eine dieser Optionen gewählt haben, klicken Sie auf `Weiter `. 
 >
 > In der Registerkarte "Zeitraum" können Sie als Startdatum das Datum des ersten Schultages und als Enddatum das Datum des letzten Schultages eingeben. Sie können es aber auch allgemein wie in unserem Beispiel halten. Durch den späteren Import des Ferienkalenders Ihres Bundeslandes wird Ihnen in der Plandatei der erste und letzte Schultag korrekt angezeigt.
 
-![Plan-Eigenschaften, Register "Zeitraum"](/sonstiges/schuljahreswechsel06.png)
+![Plan-Eigenschaften, Register "Zeitraum"](images/schuljahreswechsel06.png)
 
 > #### primary::Hinweis
 >
 > In der Registerkarte "Statistik" nehmen Sie bitte im Bereich "Wochen" die Wochen heraus, in denen kein Unterricht stattfinden wird. Beachten Sie, dass hier nur ganze unterrichtsfreie Wochen ausgenommen werden dürfen. Der Import des Ferienkalenders hat auf die Markierung/Demarkierung der Kalenderwochen keinen Einfluss. Die Demarkierung der unterrichtfreien Wochen ist für die spätere Definition von Wochenbezügen (Perioden in DAVINCI) gedacht. Unterrichtsfreie Wochen werden somit standardmäßig mit jeder neuen Perioden, die Sie im Stammdatenfenster "Perdioden" definieren, voreingestellt.
 
-![Plan-Eigenschaften, Register "Statistik"](/sonstiges/schuljahreswechsel07.png)
+![Plan-Eigenschaften, Register "Statistik"](images/schuljahreswechsel07.png)
 
 **2. Kalenderdaten imporieren...**
 
 Über diese Schaltfläche können Sie den Ferienkalender für Ihr Bundesland importieren. Die aktuellen Kalenderdateien stellen wir Ihnen zur Verfügung. 
 
-![Kalender importieren](/sonstiges/schuljahreswechsel08.png)
+![Kalender importieren](images/schuljahreswechsel08.png)
 
 
 **3. Zeitrahmen einstellen...**
@@ -75,7 +75,7 @@ Für die Verplanung Ihrer Unterrichtstermine steht Ihnen ein Stundenraster zur V
 
 Standardmäßig gibt es einen Hauptzeitrahmen und einen Zeitrahmen für die Aufsichtsbereiche. In der Regel bleiben die Zeiten aus der Vorjahresplandatei unverändert, so dass Sie hier keine Änderungen vornehmen müssen. Neueinsteiger müssen hier Ihre Unterrichtszeiten und Pausenzeiten, die später beaufsichtigt werden, definieren.
 
-![Zeitrahmen](/sonstiges/schuljahreswechsel09.png)
+![Zeitrahmen](images/schuljahreswechsel09.png)
 
 
 > #### warning::Wichtig!

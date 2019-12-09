@@ -30,9 +30,7 @@ Die Vergabe der Benutzernamen kann auch alternativ durch DAVINCI automatisch erf
 
 * Wählen Sie dann die rechte Maustaste und dort den Menüpunkt `Benutzernamen vorbesetzen` und bestätigen Sie die Sicherheitsabfrage mit `OK`.
 
-
-
-![Benutzer generieren](/images/infoserver/benutzer_generieren.jpg)
+![Benutzer generieren](images/infoserver/benutzer_generieren.jpg)
 
 * Die zuvor markierten Lehrer erhalten jetzt das Lehrerkürzel als Benutzername.
 
@@ -55,12 +53,12 @@ Für jeden in der DAVINCI-Plandatei zuvor definierten Benutzernamen muss nun im 
 Dazu können Sie die aus DAVINCI exportierten Benutzerdaten importieren oder Benutzer manuell anlegen.  
 Passworte für die Benutzer können Sie einzeln vergeben oder für mehrere Benutzer automatisch erzeugen lassen. Markieren Sie dazu die Benutzer in der Übersicht und wählen dann in der Menüleiste den Punkt `Kennungen erzeugen` aus.
 
-![Kennungen erzeugen](/images/infoserver/Kennungen_erzeugen.jpg)
+![Kennungen erzeugen](images/infoserver/Kennungen_erzeugen.jpg)
 
 
 Um die automatischen Kennwörter den Nutzern mitzuteilen finden Sie die Option `Exportieren` in der Menüleiste. Es wird eine Textdatei erzeugt, die die persönlichen Zugangsdaten enthält.
 
-![Kennungen exportieren](/images/infoserver/Kennungen_exportieren.jpg)
+![Kennungen exportieren](images/infoserver/Kennungen_exportieren.jpg)
 
 
 
@@ -83,29 +81,25 @@ Um nicht für einzelne Benutzer die Rechte zuordnen zu müssen, legen Sie sich B
 Welche Benutzergruppen Sie benötigen, hängt davon ab für welche Gruppen Sie Inhalte publizieren möchten.  Sicher benötigen Sie eine Gruppe für die Lehrer und für die Klassen. Sollen zum Beispiel Oberstufenschüler auch den individuellen Plan sehen können, benötigen Sie eine weitere Benutzergruppe.   
 Erzeugen Sie im DAVINCi-EXPLORER auf der Unterkarte `Benutzergruppen`über die Schaltfläche `Hinzufügen` neue Benutzergruppen. Mit einem Doppelklick auf die angelegten Benutzergruppen können Sie Benutzer per Mehrfachmarkierung hinzufügen.
 
-> #### info::Wichtig
->
-> Bitte achten Sie darauf, dass ein Benutzer möglichst nur in einer Benutzergruppe enthalten sind oder die Benutzergruppen inhaltlich nur Teilbereiche abdecken, um gegensätzliche Rechtezuweisungen zu vermeiden.
+!!! info "Hinweis"
+
+    Bitte achten Sie darauf, dass ein Benutzer möglichst nur in einer Benutzergruppe enthalten sind oder die Benutzergruppen inhaltlich nur Teilbereiche abdecken, um gegensätzliche Rechtezuweisungen zu vermeiden.
 
 ## Benutzerrechte und -gruppen der Plandatei zuordnen
 
 Wählen Sie auf der Unterkarte `Plandateien` die Plandatei aus, auf die die Benutzer zugreifen sollen und klicken dann auf die Schaltfläche  `Richtlinien` in der Menüleiste. Auf der Unterkarte `Benutzer` fügen Sie Ihren "Webuser" hinzu, auf der Unterkarte `Benutzergruppen` fügen Sie Ihre angelegten Benutzergruppen hinzu.
 
-![Benutzer zuordnen](/images/infoserver/Benutzer_zuordnen.jpg)
+![Benutzer zuordnen](images/infoserver/Benutzer_zuordnen.jpg)
 
+!!! info "Hinweis"
 
-
-> #### info::Wichtig
->
-> Benutzer und Benutzergruppen kann man wahlweise auf den Ebenen Arbeitsbereich, Verzeichnis oder Plandatei per `Rechtsklick > Richtlinien` zuweisen. Bitte achten Sie darauf die BENUTZER/BENUTZERGRUPPEN NUR AUF EINER EBENE ZU ZUWEISEN, damit die Rechtestruktur eindeutig bleibt.
+     Benutzer und Benutzergruppen kann man wahlweise auf den Ebenen Arbeitsbereich, Verzeichnis oder Plandatei per `Rechtsklick > Richtlinien` zuweisen. Bitte achten Sie darauf die BENUTZER/BENUTZERGRUPPEN NUR AUF EINER EBENE ZU ZUWEISEN, damit die Rechtestruktur eindeutig bleibt.
 
 ## Richtlinien für DAVINCI INFOSERVER zuordnen
 
 Im DAVINCI-EXPLORER können Sie für den "Webuser" und die  Benutzergruppen unter den "Richtlinien für DAVINCI INFOSERVER”  bestimmen, welche Rechte der Benutzer für die betreffende Plandatei erhalten soll.
 
-![Richtlinien Infoserver](/images/infoserver/richtlinien_infoserver.jpg)
-
-
+![Richtlinien Infoserver](images/infoserver/richtlinien_infoserver.jpg)
 
 ### Daten exportieren
 
@@ -164,9 +158,9 @@ In Abhängigkeit von den Rechten, die im DAVINCI-EXPLORER eingestellt worden sin
 
 ## Beispiele für den "Webuser"
 
-> #### warning::Wichtig!
->
-> Mit diesen Einstellungen legen Sie fest, was genau gezeigt wird, wenn man die Webbox aufruft. Das könnten zum Beispiel nur Raumpläne sein, nur die Vertretungsliste oder eben auch kein Inhalt, sondern nur das Anmeldefenster.
+!!! info "Hinweis"
+
+    Mit diesen Einstellungen legen Sie fest, was genau gezeigt wird, wenn man die Webbox aufruft. Das könnten zum Beispiel nur Raumpläne sein, nur die Vertretungsliste oder eben auch kein Inhalt, sondern nur das Anmeldefenster.
 
 | Richtlinie | Empfehlung |
 | --- | --- |
@@ -174,9 +168,9 @@ In Abhängigkeit von den Rechten, die im DAVINCI-EXPLORER eingestellt worden sin
 | DaVinci-Webbox LogIn/LogOut anzeigen | Möchten Sie, dass kein Zugriff ohne vorherige Anmeldung möglich ist, wählen Sie bitte "Ja". |
 | Stundenpläne anzeigen | Wenn ohne Anmeldung kein Inhalt dargestellt werden soll, wählen Sie bitte "Nicht erlaubt". <br/>Sollte ohne Anmeldung z.B. nur der Vertretungsplan sichtbar sein, wählen Sie "Gast: Vertretungsliste erlaubt". |
 
-> #### warning::Wichtig!
->
-> Wenn Sie für den Webuser unter "Stundenpläne anzeigen" den Wert "Nicht erlaubt" wählen, verwenden Sie bitte den Parameter "account=private" in Ihrer URL, damit nicht die Fehlermeldung "901: Forbidden (error)" gezeigt wird.
+!!! info "Hinweis"
+
+    Wenn Sie für den Webuser unter "Stundenpläne anzeigen" den Wert "Nicht erlaubt" wählen, verwenden Sie bitte den Parameter "account=private" in Ihrer URL, damit nicht die Fehlermeldung "901: Forbidden (error)" gezeigt wird.
 
 
 
@@ -184,10 +178,10 @@ In Abhängigkeit von den Rechten, die im DAVINCI-EXPLORER eingestellt worden sin
 http://Ihr Server/davinci-timetable.html?**account=private**
 ```
 
-![Start der WEBBOX ohne den Parameter account=private](/images/infoserver/wb.ohne.parameter.png)
+![Start der WEBBOX ohne den Parameter account=private](images/infoserver/wb.ohne.parameter.png)
 
 
-![Start der WEBBOX mit dem Parameter account=private](/images/infoserver/wb.mit.parameter.png)
+![Start der WEBBOX mit dem Parameter account=private](images/infoserver/wb.mit.parameter.png)
 
 ## Kollegen und Schulleitung
 

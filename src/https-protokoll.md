@@ -17,12 +17,8 @@ Aktuell muss man bei der Umstellung der Webbseite von http auf https ein paar Te
 
     **&lt;link rel="stylesheet" href="**[**https://www.stueber.de/assets/davinci/css/bootstrap.min.css**](https://www.stueber.de/assets/davinci/css/bootstrap.min.css)**&gt;**
 
-> ####### primary::Hinweis
->
-> Am einfachsten geht dies mit einem Texteditor wie [Notepad++](https://notepad-plus-plus.org/), dort können Sie es mit einem einzigen Befehl für alle Dateien durchführen.
+!!! info "Hinweis"
 
+    Am einfachsten geht dies mit einem Texteditor wie [Notepad++](https://notepad-plus-plus.org/), dort können Sie es mit einem einzigen Befehl für alle Dateien durchführen.
 
 Nun Exportieren Sie bitte noch einmal nach HTML. Jetzt sollte ein Einsatz unter https keine Probleme mehr bereiten.
-
-
-

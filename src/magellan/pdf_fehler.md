@@ -2,16 +2,16 @@
 
 Stand: 04.01.2016. 
 Alle hier gemachten Aussagen repräsentieren den aktuellen Stand der Entwicklung - Irrtümer vorbehalten - und können im Rahmen der Fortentwicklung der Software revidiert werden.
-
  
 ## Die Fehlerbeschreibung
 
-Wenn Sie in MAGELLAN im Rahmen des Druckens von Crystal Reports Berichten 
+Wenn Sie in MAGELLAN im Rahmen des Druckens von Crystal Reports Berichten
+
 *	gleichzeitig ins PDF-Format exportieren oder
 *	aus der Vorschau heraus ins PDF-Format exportieren wollen
 können Sie die folgende Fehlermeldung erhalten: 
- 
-![Fehlermeldung](images/pdf_fehler00.png) 
+
+![Fehlermeldung](../images/pdf_fehler00.png) 
 
 ## Die Ursache
 
@@ -29,7 +29,7 @@ Prüfen Sie dazu zunächst, ob das Microsoft Serviceupdate KB3102429 bereist auf
 Rufen Sie `Systemsteuerung > Windows Update > Updateverlauf anzeigen` auf.
 1.	Prüfen Sie in der Liste, ob Update für Windows 8.1 für x64-Systeme (KB3102429) installiert ist.
 
-![Updateliste](images/pdf_fehler01.png) 
+![Updateliste](../images/pdf_fehler01.png) 
  
 
 ### Fall A: Serviceupdate KB3102429 ist installiert

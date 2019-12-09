@@ -1,22 +1,14 @@
-#  WinLD und ASV
-
+# WinLD und ASV
 
 DAVINCI kann die Daten für die bayerische Landesstatistik exportieren.
 
-
-** So gehen Sie vor: **
-
+**So gehen Sie vor: **
 
 1. Importieren Sie ``Plan > Importieren und Exportieren > Statistikdaten importieren`` und dann mit ``Bayern ASV importieren`` oder mit ``Bayern WinLD importieren`` die entsprechenden Vorgabedaten.
 2. Erstellen Sie in DAVINCI den Stundenplan.
 3. Exportieren Sie mit ``Plan > Importieren und Exportieren > Statistikdaten exportieren`` und dann mit ``Statistik Bayern (ASV) exportieren`` oder mit ``Statistik Bayern (WINLD) exportieren`` die entsprechenden Daten.
 
-
-
-
-
 ## Beispiel für exportierte WinLD-Datei:
-
 
 ```
 "000001","5a","K","Hk","2","r5","","2","05","0100","GYM","2.0"
@@ -46,9 +38,7 @@ ZusatzArt | Begründung für die zusätzlich benötigten Lehrerwochenstunden:<br
 KuerzStd | Abweichungen von der Stundentafel, gekürzte Lehrerwochenstunden <br/> (wird von DAVINCI nicht exportiert)
 KuerzArt | Begründung für die gekürzten Stunden:<br/> L Lehrermangel<br/> V Verwaltungsgründe<br/> G Geringe Schülerzahl<br/> K Kooperation mit anderer Schule<br/>N nicht erfolgte Teilung<br/> F Schulversuch Seminarfach (FOS, BOS)<br/> P Kürzung für Talentklasse/Talentgruppe (RS&#95;)<br/>S vorübergehende Kürzung lt. Stundentafel (RS&#95;) <br/>(wird von DAVINCI nicht exportiert)
 
-
 ## Aufbau der von DAVINCI exportierten ASV Datei:
-
 
 Feld | Beschreibung
 -----------|-------------------

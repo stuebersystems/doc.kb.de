@@ -4,9 +4,9 @@ Sie können die Aktion "Datenbanksicherungskopie erstellen" mit in den Taskplane
 
 Erstellen Sie mit dem Texteditor eine neue Datei und kopieren den nachfolgenden Text hinein.
 
-> #### warning::Wichtig!
->
-> Bitte beachten Sie, dass die Pfade bei Ihrer Installation abweichen können!
+!!! info "Hinweis"
+
+    Bitte beachten Sie, dass die Pfade bei Ihrer Installation abweichen können!
 
 ```
 echo off

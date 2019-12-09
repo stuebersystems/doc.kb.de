@@ -43,7 +43,7 @@ Gehen Sie die Fächer in den Programmen nach Fehlermeldungen einzeln durch und k
 
 Leeren Sie als erstes in DAVINCI das Feld ID beim Fach unter `Stammdaten > Fächer`. Diese Daten werden beim anschließenden Einlesen der Fächer aus MAGELLAN aufgefüllt, bleibt eine ID frei, wissen Sie direkt, dass es das Fach nicht in MAGELLAN gibt.
 
-![Stammdaten > Fächer > Extras > Weitere Aktionen > Stammdaten IDs löschen](images/abgleich.00.png)
+![Stammdaten > Fächer > Extras > Weitere Aktionen > Stammdaten IDs löschen](../images/abgleich.00.png)
 
 ### Übertrag/Abgleich der Fächer aus MAGELLAN
 
@@ -52,7 +52,7 @@ Lesen Sie die Fächer aus MAGELLAN ein. Sie führen hierfür folgende Schritte a
 Rufen Sie `Plan > Importieren und Exportieren > Importieren > von MAGELLAN importieren` auf.
 
 
-![Melden Sie sich an der MAGELLAN-Verbindung an!](images/abgleich.01.png)
+![Melden Sie sich an der MAGELLAN-Verbindung an!](../images/abgleich.01.png)
 
 
 
@@ -60,11 +60,11 @@ Rufen Sie `Plan > Importieren und Exportieren > Importieren > von MAGELLAN impor
 Melden Sie sich an der MAGELLAN-Verbindung an!
 
 
-![Haken Sie bitte nur den Punkt "Übernehme Fächer" an!](images/abgleich.02.png)
+![Haken Sie bitte nur den Punkt "Übernehme Fächer" an!](../images/abgleich.02.png)
 
 Bitte haken Sie nur den Punkt "Übernehme Fächer" an!
 
-![Stammdaten > Fächer > Extras > Weitere Aktionen > Stammdaten IDs löschen](images/abgleich.03.png)
+![Stammdaten > Fächer > Extras > Weitere Aktionen > Stammdaten IDs löschen](../images/abgleich.03.png)
 
 Es werden alle Fächer aus dem MAGELLAN-Verzeichnis Fächer übernommen. 
 

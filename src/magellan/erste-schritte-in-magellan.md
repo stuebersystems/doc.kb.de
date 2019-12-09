@@ -3,7 +3,8 @@
 Nach der Installation von MAGELLAN ist automatisch eine Beispieldatenbank hinterlegt, damit man sich anhand von Beispieldaten das Programm ansehen kann.
 Um in den Echtbetrieb zu wechseln werden der Reihe nach folgende Schritte ausgeführt, Ziel ist eine leere Datenbank mit den Bundeslandspezifischen Statistik-schlüsseln vorzubereiten.
 
-### Die Datenbank leeren
+## Die Datenbank leeren
+
 Starten Sie den MAGELLAN-Administrator und führen den Punkt ´Datenbankpflege > Datenbankinhalt´ löschen aus. Dabei bitte alles leeren, auch die angebotenen Häkchen für Verzeichnisse deaktivieren.
 
 ## Die IDs zurücksetzen

@@ -52,7 +52,7 @@ Sie haben Kollegen, die Stundenplaner, Vertretungsplaner und Looknutzer sind. Ei
 
 
 
-![Beispiel für vorbereitete Benutzergruppen](/images/explorer/explorer.05.png)
+![Beispiel für vorbereitete Benutzergruppen](../images/explorer/explorer.05.png)
 
 ## Verzeichnisse anlegen
 
@@ -60,18 +60,18 @@ Ganz grob gibt es die aktuelle Plandatei ("aktueller Plan"), vermutlich auch ein
 
 Wir empfehlen Ihnen als erstes unterhalb des Arbeitsbereiches zwei neue Verzeichnisse anzulegen, eins für die aktuelle und zukünftige Plandatei und ein zweites Verzeichnis, das als Archiv dient.
 
-![Verzeichnis für die aktuelle und zukünftige Plandatei](/images/explorer/explorer.00.png)
+![Verzeichnis für die aktuelle und zukünftige Plandatei](../images/explorer/explorer.00.png)
 
 Unterhalb des Archivverzeichnisses legen Sie pro Schuljahr weitere Unterordner an.
 
-![Verzeichnis für die archivierten Pläne](/images/explorer/explorer.01.png)
+![Verzeichnis für die archivierten Pläne](../images/explorer/explorer.01.png)
 
 ## Platzhalter
 
 Der DAVINCI ENTERPRISE Server verwaltet selbständig alle Plandateien in einem Verzeichnis auf Ihrem Server. Die dort abgelegten Dateien werden mit einer eindeutigen Zeichenfolge gekennzeichnet, der GUID. Diese eigentliche Plandatei ist mit dem im DAVINCI Explorer angelegten Platzhalter (zum Beispiel "aktueller Plan" oder "zukünftiger Plan") verknüpft.
 Legen Sie einen Platzhalter an, geht vor dem Speichern ein Fenster auf, es soll auf eine Plandatei verwiesen werden, eine Kopie dieser Datei wird im Server-Verzeichnis abgelegt und mit der eindeutigen Zeichenfolge benannt. Lädt man später eine neue Datei auf den Platzhalter hoch, wird der Inhalt der ersten Datei überschrieben, die Dateibenennung bleibt aber erhalten, genau diesen Effekt nutzen Sie fürs neue Schuljahr.
 
-![Hochladen einer Datei auf einen bestehenden Platzhalter](/images/explorer/explorer.06.png)
+![Hochladen einer Datei auf einen bestehenden Platzhalter](../images/explorer/explorer.06.png)
 
 > #### danger::Achtung!
 >
@@ -82,14 +82,14 @@ Legen Sie einen Platzhalter an, geht vor dem Speichern ein Fenster auf, es soll 
 
 In der nachfolgenden Abbildung sehen Sie auf der rechten Seite die vorbereiteten Platzhalter für die jeweils aktuelle Datei und für die jeweils zukünftige Datei. Wichtig an Stelle ist, diese Platzhalter richten Sie einmalig ein und "hängen" Ihre Rechteverwaltung daran, daher auch die allgemein gehaltenen Bezeichnungen. Sie werden zukünftig nur die immer die jeweils aktuelle Datei auf den gleichnamigen Platzhalter laden, damit müssen Sie keine neuen Rechte zuweisen usw.
 
-![angelegte Platzhalter für die Plandateien](/images/explorer/explorer.03.png)
+![angelegte Platzhalter für die Plandateien](../images/explorer/explorer.03.png)
 
 ### Verzeichnis "archivierte Pläne"
 
 Im Gegensatz zu den allgemeinen Benennungen der Platzhalter im vorstehenden Abschnitt, können Sie im Archivbereich die Platzhalter individuell nach dem Zeitabschnitt benennen. Der Unterschied hier hat mit den Zugriffsrechten zu tun:
 Es genügt sicherlich einfach auf das Verzeichnis "archivierte Pläne" Rechte zu vergeben, für die hier zugreifenden Nutzer wird in der Regel kein Unterschied nach dem einzelnen Plan gemacht, sondern der Nutzer darf archivierte Pläne einsehen oder er darf es nicht.
 
-![Unterverzeichnisse pro zu archiviertem Schuljahr](/images/explorer/explorer.04.png)
+![Unterverzeichnisse pro zu archiviertem Schuljahr](../images/explorer/explorer.04.png)
 
 ## Rechtevergabe
 
@@ -106,10 +106,10 @@ Ebene |Richtlinien für dieses Beispiel
 Arbeitsbereich| Hier werden für die Benutzergruppe Stundenplaner nur die Richtlinien für den INFOSERVER vergeben.
 Verzeichnis "aktueller und zukünftiger Plan"|hier werden nur die Richtlinien für die Nutzung von DAVINCI LOOK und DAVINCI definiert, die Richtlinien für den INFOSERVER werden geklammert dargestellt, daran können Sie erkennen, dass diese Richtlinien aus der höheren Ebene übernommen werden.
 
-![Richtlinien für Benutzergruppe "Stundenplaner" für den Arbeitsbereich](/images/explorer/explorer.09.png)
+![Richtlinien für Benutzergruppe "Stundenplaner" für den Arbeitsbereich](../images/explorer/explorer.09.png)
 
 
-![Richtlinien für Benutzergruppe "Stundenplaner" ein Verzeichnis, "geerbte" Rechte werden geklammert gezeigt](/images/explorer/explorer.09.png)
+![Richtlinien für Benutzergruppe "Stundenplaner" ein Verzeichnis, "geerbte" Rechte werden geklammert gezeigt](../images/explorer/explorer.09.png)
 
 
 
@@ -121,11 +121,11 @@ Der DAVINCI INFOSERVER verwaltet eine einzige Datei. Welche Datei das genau ist,
 
 Rufen Sie den Punkt wie folgt auf:
 
-![Richtlinien des Arbeitsbereichs aufrufen](/images/explorer/explorer.07.png)
+![Richtlinien des Arbeitsbereichs aufrufen](../images/explorer/explorer.07.png)
 
 Im aufgerufenen Dialog wechseln Sie auf die Karte `Benutzergruppen`und weisen die Gruppen zu.
 
-![Weisen Sie die Benutzergruppen zu und editieren anschließend die Richtlinien pro zugewiesener Benutzergruppe](/images/explorer/explorer.08.png)
+![Weisen Sie die Benutzergruppen zu und editieren anschließend die Richtlinien pro zugewiesener Benutzergruppe](../images/explorer/explorer.08.png)
 
 > #### danger::Achtung!
 >

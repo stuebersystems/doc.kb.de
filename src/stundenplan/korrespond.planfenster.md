@@ -8,9 +8,3 @@ Durch einen Klick auf das Kreuzchen oben links können Sie Pläne aus der Korres
 
 ![Der linke Plan ist aus der Korrespondenz ausgenommen](../images/stundenplan/sp_korrespond02.png)
 
-
-
-
-
-  
-
