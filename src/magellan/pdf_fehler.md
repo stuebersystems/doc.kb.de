@@ -11,7 +11,7 @@ Wenn Sie in MAGELLAN im Rahmen des Druckens von Crystal Reports Berichten
 *	aus der Vorschau heraus ins PDF-Format exportieren wollen
 können Sie die folgende Fehlermeldung erhalten: 
 
-![Fehlermeldung](../images/pdf_fehler00.png) 
+![Fehlermeldung](/images/pdf_fehler00.png) 
 
 ## Die Ursache
 
