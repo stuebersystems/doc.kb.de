@@ -110,4 +110,4 @@
 
 ## Support
 
-* [SchuelerLaufbahn korrigieren - Skripteditor ausführen](support/schuelerlaufbahn_korrigieren.md)
+* [Laufbahnkorrekturen - Skripteditor ausführen](support/schuelerlaufbahn_korrigieren.md)

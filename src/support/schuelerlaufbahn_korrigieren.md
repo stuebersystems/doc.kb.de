@@ -1,4 +1,4 @@
-# SchuelerLaufbahn korrigieren (MAGELLAN 7)
+# Laufbahnkorrekturen (MAGELLAN 7)
 
 Um das Problem zu lösen führen Sie bitte die folgenden Schritte aus:
 
@@ -37,8 +37,8 @@ Vorlage|eingetragene Beispieldaten
 const MagellanDatabase = 'Eintrag aus Dateipfad auf dem Server';|const MagellanDatabase = 'C:\Users\Public\Documents\Stueber Systems\Magellan 7\Datenbank\MAGELLAN7.fdb';
 const MagellanUserName = 'sysdba';|const MagellanUserName = 'sysdba';
 const MagellanPassword = 'Ihr Passwort';|const MagellanPassword = 'masterkey';
-const Server = 'Eintrag aus dem Feld Server';|const Server = 'localhost';<br/>const Server = 'Verwaltungsserver';
-const Protocol = 'TCP/IP';|
+const Server = 'Eintrag aus dem Feld Server';|const Server = 'localhost';<br/>oder, wenn das Skript nicht auf dem Serverrechner ausgeführt wird beispielsweise: <br/>const Server = 'Verwaltungsserver';
+const Protocol = 'TCP/IP';|const Protocol = 'TCP/IP';
 
 10. Sie lösen das Skript über das grüne Dreieck aus, das Skript überprüft die Schüler und meldet abschließend `Vorgang erfolgreich abgeschlossen`. Schließen Sie den Skripteditor, speichern ggfs. Ihre Angabe, schließen Sie den MAGELLAN Administrator und überprüfen in MAGELLAN das Ergebnis.
 
