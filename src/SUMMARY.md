@@ -48,7 +48,7 @@
 
 ## Crystal Reports
 
-* [Empfehlung Verknüpfung](cr/verknuepfung.md)
+* [Empfohlene Verknüpfungen](cr/verknuepfung.md)
 * [Drucksortierung der Datensätze in Berichten](cr/drucksortierung.md)
 * [Sortierung oder Gruppierung](cr/sortierung-und-gruppierung.md)
 * [Berichte für MAGELLAN 7 anpassen](cr/berichte_fuer_7_anpassen.md)
