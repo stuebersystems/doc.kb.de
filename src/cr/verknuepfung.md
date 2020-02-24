@@ -1,6 +1,6 @@
 # Empfohlene Verknüpfungen
 
-![neue Formel anlegen](/images/cr/05.png)
+![Beispiel für Verknüpfungen](/images/cr/05.png)
 
 Tabelle|Tabelle|anschließende Tabellen
 --|--|--
