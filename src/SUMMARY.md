@@ -48,6 +48,8 @@
 
 ## Crystal Reports
 
+* [Bei Tabellen, die bereits verknüpft sind, kann der Join-Typ nicht geändert werden](cr/auto.verknuepfung.md)
+* [Es werden mehr als die ausgewählten Datensätze gezeigt](cr/zuviele.datensaetze.md)
 * [Empfohlene Verknüpfungen](cr/verknuepfung.md)
 * [Drucksortierung der Datensätze in Berichten](cr/drucksortierung.md)
 * [Sortierung oder Gruppierung](cr/sortierung-und-gruppierung.md)
