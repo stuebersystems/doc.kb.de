@@ -1,6 +1,5 @@
 # Empfohlene Verknüpfungen
 
-Dieser Artikel bezieht sich beispielhaft auf Schülerberichte und Zeugnisse.
 
 ![Beispiel für Verknüpfungen](/images/cr/05.png)
 
