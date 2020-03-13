@@ -19,7 +19,7 @@
 
 ## MAGELLAN
 
-* [Serienmail: Mapi-Fehlermeldung](magellan/serienmail.md)
+* [Serienmail: Mapi-Fehlermeldung](magellan/mapi.md)
 * [Umlaute in der Druckvorschau](magellan/umlaute_druck.md)
 * [PLZ und Gemeinden aktualisieren](magellan/plz.aktualisieren.md)
 * [ABS: Neues Halbjahr, neues Schuljahr](magellan/neues-halbjahr-neues-schuljahr.md)
