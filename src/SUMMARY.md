@@ -17,9 +17,9 @@
 * [MAGELLAN und Linux](magellan/admin.linux.md)
 * [Probleme mit dem PDF-Export](magellan/pdf_fehler.md)
 
-## MAGELLAN Handhabung
+## MAGELLAN
 
-* [Serienmail: Mapi-Fehlermeldung](magellan/magellan-serienmail.md)
+* [Serienmail: Mapi-Fehlermeldung](magellan/serienmail.md)
 * [Umlaute in der Druckvorschau](magellan/umlaute_druck.md)
 * [PLZ und Gemeinden aktualisieren](magellan/plz.aktualisieren.md)
 * [ABS: Neues Halbjahr, neues Schuljahr](magellan/neues-halbjahr-neues-schuljahr.md)
@@ -31,14 +31,8 @@
 * [MAGELLAN und DAVINCI: Fächer abgleichen](magellan/abgleich.stammdaten.md)
 * [Fachwahlkarte](magellan/fachwahl.md)
 * [Tastaturkürzel](magellan/Shortcuts_Tastaturkuerzel.md)
-
-## MAGELLAN / Import und Export
-
 * [CSV-Dateien mit Texttrennzeichen speichern](magellan/import-csvdateien.md)
 * [Gemeindekennziffern nachträglich setzen](magellan/import-gemeindekennziffern_nachsetzen.md)
-
-## MAGELLAN Seriendruck
-
 * [Meldung: Makrospeicher konnte nicht geöffnet werden](magellan/makrospeicher.md)
 * [Word stellt Umlaute nicht korrekt dar](magellan/umlaute.md)
 
