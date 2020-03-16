@@ -43,6 +43,7 @@
 
 ## Crystal Reports
 
+* [Barcodes](cr/barcode.md)
 * [Bei Tabellen, die bereits verknüpft sind, kann der Join-Typ nicht geändert werden](cr/auto.verknuepfung.md)
 * [Es werden mehr als die ausgewählten Datensätze gezeigt](cr/zuviele.datensaetze.md)
 * [Empfohlene Verknüpfungen](cr/verknuepfung.md)
