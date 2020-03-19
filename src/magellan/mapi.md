@@ -1,6 +1,6 @@
 # Serienmails: Mapi-Fehler
 
-Es liegt nicht an MAGELLAN direkt,  sondern an einer falschen Konfiguration der MAPI-Schnittstelle von Microsoft:
+Es liegt nicht an MAGELLAN direkt, sondern an einer falschen Konfiguration der MAPI-Schnittstelle von Microsoft:
 
  Lösung: Eine Nachkonfiguration in der Registry ist erforderlich
 
