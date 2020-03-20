@@ -20,7 +20,7 @@
 ## MAGELLAN
 
 * [Serienmail: Mapi-Fehlermeldung](magellan/mapi.md)
-* [Welcher Maiclient wird aufgerufen](magellan/mapi2.md)
+* [Welcher Maiclient wird aufgerufen](sonstiges/mapi2.md)
 * [Umlaute in der Druckvorschau](magellan/umlaute_druck.md)
 * [PLZ und Gemeinden aktualisieren](magellan/plz.aktualisieren.md)
 * [ABS: Neues Halbjahr, neues Schuljahr](magellan/neues-halbjahr-neues-schuljahr.md)
@@ -77,7 +77,7 @@
 
 ## DAVINCI STUNDENPLAN
 
-* [Welcher Maiclient wird aufgerufen](magellan/mapi2.md)
+* [Welcher Maiclient wird aufgerufen](sonstiges/mapi2.md)
 * [Sortierung Stammdatenfenster](stundenplan/sort.stammdaten.md)
 * [Korrespondierende Pläne](stundenplan/korrespond.planfenster.md)
 * [Berechnungskonzepte in daVinci](stundenplan/berechnungskonzepte.md)
