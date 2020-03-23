@@ -19,4 +19,6 @@ Was können Sie tun? Tragen Sie als Schlüsselwert den gewünschten Mailclient u
 3. Doppelklicken Sie auf der rechten Seite auf den Schlüssel "Standard".
 4. Tragen Sie den gewünschten Wert ("Mozilla Thunderbird" oder "Microsoft Outlook ") ein oder löschen den enthaltenen Wert, um den Eintrag aus den Standard-Apps zu nutzen.
 
+!!! info "Hinweis"
 
+    Sollten die vorangegangenen Hinweisw nicht zum Ziel geführt haben, lesen Sie bitte den folgenden Blogeintrag: [https://blog.stueber.de/posts/troubleshooting-smapi/](https://blog.stueber.de/posts/troubleshooting-smapi/).
