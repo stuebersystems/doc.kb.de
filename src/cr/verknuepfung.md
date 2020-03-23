@@ -1,7 +1,8 @@
 # Empfohlene Verknüpfungen
 
+## Schülerberichte
 
-![Beispiel für Verknüpfungen](/images/cr/05.png)
+![Beispiel für einen Schülerbericht](/images/cr/05.png)
 
 Tabelle|Tabelle|anschließende Tabellen
 --|--|--
@@ -13,3 +14,11 @@ Tabelle|Tabelle|anschließende Tabellen
 **Schueler**<br/>Mandant<br/>ID|**SchuelerFoerderungen**<br/>Mandant<br/>Schueler|Beispiel: Behinderungsart<br/>Wichtig: Bitte im Detailbereich verwenden oder einen Unterbericht nutzen, das Ergebnis ist eine Liste von Werten
 **Schueler**<br/>Mandant<br/>ID|**SchuelerSorgeberechtigte**<br/>Mandant<br/>Schueler|Beispiel: Sorgeberechtigte
 **SchuelerZeitraeume**<br/>Mandant<br/>ID|**SchuelerZeugnisbemerkungen**<br/>Mandant<br/>SchuelerZeitraumID|--
+
+## Klassenberichte
+
+![Beispiel für einen Klassenbericht](/images/cr/08.png)
+
+Tabelle|Tabelle|anschließende Tabellen
+--|--|--
+**KlassenZeitraeume**<br/>Mandant<br/>ID|**SchuelerZeitraeume**<br/>Mandant<br/>KlassenZeitraumID|--
