@@ -20,7 +20,7 @@
 ## MAGELLAN
 
 * [Serienmail: Mapi-Fehlermeldung](magellan/mapi.md)
-* [Serienmail: Interface wird nicht unterstützt](magellan/interface.md)
+* [Serienmail: Interface nicht unterstützt](magellan/interface.md)
 * [Welcher Maiclient wird aufgerufen](sonstiges/mapi2.md)
 * [Umlaute in der Druckvorschau](magellan/umlaute_druck.md)
 * [PLZ und Gemeinden aktualisieren](magellan/plz.aktualisieren.md)
