@@ -46,7 +46,13 @@ const Server = 'Eintrag aus dem Feld Server';|const Server = 'localhost';<br/>od
 const Protocol = 'TCP/IP';|const Protocol = 'TCP/IP';
 
 10. Sie lösen das Skript über das grüne Dreieck aus, das Skript überprüft die Schüler und meldet abschließend `Vorgang erfolgreich abgeschlossen`. Schließen Sie den Skripteditor, speichern ggfs. Ihre Angabe, schließen Sie den MAGELLAN Administrator und überprüfen in MAGELLAN das Ergebnis.
-
+11. Prüfen oder Prüfen und Korrigieren: einige Skripte haben am Ende der *.int (also unter Inferface Emulation) noch die Option wählbar, ob nur geprüft oder geprüft und korrigiert werden soll. 
+Bitte wählen Sie mit `true` (nur Prüfen) oder `false` (Prüfen und Korrigieren) die gewünschte Aktion aus.
+    
+```
+// Wenn TRUE, dann nur prüfen, wenn FALSE dann prüfen und korrigieren
+const CheckOnly = true;
+```
 ![Skript auslösen](../images/support/skripteditor/08.png)
 
 ## Probleme
