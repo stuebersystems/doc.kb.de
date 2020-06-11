@@ -113,5 +113,4 @@
 
 ## Support
 
-* [Laufbahnkorrekturen - Skripteditor ausführen](support/schuelerlaufbahn_korrigieren.md)
-* [FixLaufbahn - Skripteditor ausführen](support/fixlaufbahn.md)
+* [Skripteditor ausführen](support/skripteditor.md)
