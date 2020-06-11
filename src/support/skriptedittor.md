@@ -3,9 +3,9 @@
 Es gibt für verschiedene Situationen Skripte, die Sie zur Korrektur innerhalb Ihrer Datenbank mit Hilfe des MAGELLAN-Skript-Editor ausführen können. Sie erhalten in diesem Fall einen Link zu einem Downloadpaket von unserem Support-Team.
 Laden Sie bitte das Paket über den Link herunter und führen dann bitte die nachfolgenden Schritte aus.
 
-!!! danger "Achtung"
-
-    Diese Anleitung ist eine allgemeine Beschreibung der nötigen Schritte, es kann sein, dass die Skriptdatieen in den Abbildungen abweichend benannt sind, dennoch sind die Schritte gültig und letztlich nur die Datenendungen verbindlich.
+> #### warning::Wichtig
+>
+> Diese Anleitung ist eine allgemeine Beschreibung der nötigen Schritte, es kann sein, dass die Skriptdatieen in den Abbildungen abweichend benannt sind, dennoch sind die Schritte gültig und letztlich nur die Datenendungen verbindlich.
 
 1. Laden Sie das Paket über den von unserem Supportteam in Ihrem Ticket übermittelten Link herunter.
 2. Entpacken Sie das Zippaket über `Rechtsklick > Extrahieren` und öffnen anschließend das Verzeichnis. Im Verzeichnis ist eine Datei mit der Endung `*.dws`, eine Datei mit der Endung `*.int`und eine Datei mit dem Namen `MagSkriptEditor.exe`.
