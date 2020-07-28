@@ -85,6 +85,7 @@
 * [Lehrer-Zeitkonten](stundenplan/lehrer-zeitkonten.md)
 * [Zeitschienen in DAVINCI](stundenplan/zeitschienen-in-davinci.md)
 * [Stammdaten importieren](stundenplan/stammdaten-importieren.md)
+* [Raumverplanung](stundenplan/raumverplanung.md)
 
 ## DAVINCI EXPLORER
 
