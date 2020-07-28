@@ -1,36 +1,39 @@
-# Laufbahnkorrekturen (MAGELLAN 7)
+# Korrekturen per Skript (MAGELLAN 7)
 
-Um das Problem zu lösen führen Sie bitte die folgenden Schritte aus:
+Es gibt für verschiedene Situationen Skripte, die Sie zur Korrektur innerhalb Ihrer Datenbank mit Hilfe des MAGELLAN-Skript-Editor ausführen können. Sie erhalten in diesem Fall einen Link zu einem Downloadpaket von unserem Support-Team.
+Laden Sie bitte das Paket über den Link herunter und führen dann bitte die nachfolgenden Schritte aus.
+
+> #### warning::Wichtig
+>
+> Diese Anleitung ist eine allgemeine Beschreibung der nötigen Schritte, es kann sein, dass die Skriptdatieen in den Abbildungen abweichend benannt sind, dennoch sind die Schritte gültig und letztlich nur die Datenendungen verbindlich.
 
 1. Laden Sie das Paket über den von unserem Supportteam in Ihrem Ticket übermittelten Link herunter.
-2. Entpacken Sie das Zippaket über Rechtsklick|Extrahieren und öffnen anschließend das Verzeichnis "Schuelerlaufbahn korrigieren".
+2. Entpacken Sie das Zippaket über `Rechtsklick > Extrahieren` und öffnen anschließend das Verzeichnis. Im Verzeichnis ist eine Datei mit der Endung `*.dws`, eine Datei mit der Endung `*.int`und eine Datei mit dem Namen `MagSkriptEditor.exe`.
 
-Inhalt des Verzeichnisses:
+![Beispielinhalt](../images/support/skripteditor/01.png)
 
-* Skripteditor.exe
-* FixLaufbahn.dws
-* FixLaufbahn.int
-
-3. In dem Verzeichnis befinden sich drei Dateien, starten Sie bitte per Doppelklick den MAGELLAN Skripteditor per Doppelklick auf die Datei "MagScriptEditor.exe".
+3. Starten Sie bitte per Doppelklick den MAGELLAN Skripteditor per Doppelklick auf die Datei "MagScriptEditor.exe".
 4. Im Programmfenster gehen Sie bitte auf `Öffnen`!
 
-![Öffnen](../images/support/schuelerlaufbahn_korrigieren/02.png)
+![Öffnen](../images/support/skripteditor/02.png)
 
-5. Wählen Sie bitte wie nachfolgend die Datei `"FixLaufbahn.dws"` aus und klicken anschließend auf `Öffnen`!
+5. Wählen Sie bitte wie nachfolgend die Datei mit der Endung `*.dws` aus und klicken anschließend auf `Öffnen`!
+
+![Skript auswählen und öffnen](../images/support/skripteditor/03.png)
 
 6. Klicken Sie in das Fensterchen in dem das Wort `Quellcode` steht und schalten bitte in der Liste auf `Interface-Emulation` um.
 
-![Auf Interface-Emulation umschalten](../images/support/schuelerlaufbahn_korrigieren/06.png)
+![Auf Interface-Emulation umschalten](../images/support/skripteditor/06.png)
 
 7. Als nächstes brauchen Sie den Pfad zur Datenbank und ggfs. den Servernamen. Starten Sie dazu parallel  den MAGELLAN Administrator. Im Anmeldefenster melden Sie sich als sysdba an oder wählen falls Sie diese Zugangsdaten nicht parat haben, einfach `<keine Anmeldung>` aus.
 
-![Administrator ggfs. ohne Anmeldung starten](../images/support/schuelerlaufbahn_korrigieren/04.png)
+![Administrator ggfs. ohne Anmeldung starten](../images/support/skripteditor/04.png)
 
 8.  Rufen Sie den Punkt `Datenbankverbindungen` auf und klicken bitte doppelt auf Ihre auf der rechten Seite angegebene Verbindung. Es öffnet sich das Fenster der Verbindungsdetails, Sie wählen die Unterkarte `Datenordner`.
-![Administrator ggfs. ohne Anmeldung starten](../images/support/schuelerlaufbahn_korrigieren/05.png)
+![Administrator ggfs. ohne Anmeldung starten](../images/support/skripteditor/05.png)
 9. Sie benötigen den Eintrag aus dem Feld `Server` und den Eintrag aus dem Feld `Dateipfad aus dem Server`. Übernehmen Sie die Daten und tragen es plus dem sysdba-Passwort bitte im Skripteditor wieder ein.
 
-![Eintragungen übernehmen](../images/support/schuelerlaufbahn_korrigieren/07.png)
+![Eintragungen übernehmen](../images/support/skripteditor/07.png)
 
 Nachstehend eingetragene Beispieldaten: 
 
@@ -43,8 +46,14 @@ const Server = 'Eintrag aus dem Feld Server';|const Server = 'localhost';<br/>od
 const Protocol = 'TCP/IP';|const Protocol = 'TCP/IP';
 
 10. Sie lösen das Skript über das grüne Dreieck aus, das Skript überprüft die Schüler und meldet abschließend `Vorgang erfolgreich abgeschlossen`. Schließen Sie den Skripteditor, speichern ggfs. Ihre Angabe, schließen Sie den MAGELLAN Administrator und überprüfen in MAGELLAN das Ergebnis.
-
-![Skript auslösen](../images/support/schuelerlaufbahn_korrigieren/08.png)
+11. Prüfen oder Prüfen und Korrigieren: einige Skripte haben am Ende der *.int (also unter Inferface Emulation) noch die Option wählbar, ob nur geprüft oder geprüft und korrigiert werden soll. 
+Bitte wählen Sie mit `true` (nur Prüfen) oder `false` (Prüfen und Korrigieren) die gewünschte Aktion aus.
+    
+```
+// Wenn TRUE, dann nur prüfen, wenn FALSE dann prüfen und korrigieren
+const CheckOnly = true;
+```
+![Skript auslösen](../images/support/skripteditor/08.png)
 
 ## Probleme
 
