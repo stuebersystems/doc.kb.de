@@ -11,6 +11,7 @@
 * [Installationsprobleme unter Citrix](magellan/citrixinstallation.md)
 * [Ihre MAGELLAN 7-Installation zieht auf einen neuen Serverrechner um?](magellan/admin-serverumzug7.md)
 * [Ihre MAGELLAN 6-Installation zieht auf einen neuen Serverrechner um?](magellan/admin-serverumzug6.md)
+* [Zwei Schuldatenbanken auf einem Server](magellan/2_db_ein_server.md)
 * [MAGELLAN ADMINISTRATOR im Silent-Mode starten](magellan/admin_silentmode.md)
 * [Pathsdatei: \*.lic, \*.evm, \*.opt zentral ablegen](magellan/pathsdatei.md)
 * [Regelmäßige Sicherung der DB per Taskplaner](magellan/admin_sicherung.taskplaner.md)
