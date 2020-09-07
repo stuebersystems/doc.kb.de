@@ -4,9 +4,9 @@ Sie können in DAVINCI Daten aus der Zwischenablage einfügen.
 
 Die Einträge aus der Zwischenablage können z.B. aus Microsoft Excel oder Microsoft Word stammen.
 
-!!! info "Hinweis"
-
-    Beim Kopieren aus der Windows-Zwischenablage müssen Sie darauf achten, dass die Spaltentitel in der Benennung und Reihenfolge die gleiche ist, wie in der DAVINCI Tabelle, in die Sie kopieren! Es können nur textbasierte Zellen kopiert werden, also z.B. keine Symbole, Farben, Optionsfelder usw. So können Sie z.B. vorab den Tabellenkopf für die Schülerliste aus DAVINCI Stammdaten > Schüler exportieren.
+> #### warning::Wichtig
+>
+> Beim Kopieren aus der Windows-Zwischenablage müssen Sie darauf achten, dass die Spaltentitel in der Benennung und Reihenfolge die gleiche ist, wie in der DAVINCI Tabelle, in die Sie kopieren! Es können nur textbasierte Zellen kopiert werden, also z.B. keine Symbole, Farben, Optionsfelder usw. So können Sie z.B. vorab den Tabellenkopf für die Schülerliste aus DAVINCI Stammdaten > Schüler exportieren.
 
 ![Export Tabellenkopf](../images/enbrea/../enbrea/Import Schueler.png)
 
