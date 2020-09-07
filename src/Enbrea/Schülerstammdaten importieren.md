@@ -17,11 +17,11 @@ So importieren Sie Schülerdaten aus Excel:
 
 ![Export Tabellenkopf](../images/Import Schueler1.png)
 
-1. Die Mindeseingaben sind die Spalten Vor- und Nachname und Klasse. Im Feld Klasse muss exakt das Klassenkürzel einre Klasse aus den DAVINCI Stammdaten eingegeben werden.
-2. Markieren Sie nun die Schüler in Excel ohne die Spaltenüberschriften.
-3. Kopieren Sie die markieren Felder durch strg+c oder einen ``Rechtsklick > Kopieren``
-4. Öffnen Sie das Stammdatenfenster "Schüler" in DAVINCI
+3. Die Mindeseingaben sind die Spalten Vor- und Nachname und Klasse. Im Feld Klasse muss exakt das Klassenkürzel einre Klasse aus den DAVINCI Stammdaten eingegeben werden.
+4. Markieren Sie nun die Schüler in Excel ohne die Spaltenüberschriften.
+5. Kopieren Sie die markieren Felder durch strg+c oder einen ``Rechtsklick > Kopieren``
+6. Öffnen Sie das Stammdatenfenster "Schüler" in DAVINCI
 5. Wählen Sie nun unter ``Start > Aus Zwischenablage einfügen``
-6. Die kopierten Daten werden nun in der Stammdatenliste Schüler hinzugefügt.
+7. Die kopierten Daten werden nun in der Stammdatenliste Schüler hinzugefügt.
 
 ![Export Tabellenkopf](../images/enbrea/Import Schueler2.png)
