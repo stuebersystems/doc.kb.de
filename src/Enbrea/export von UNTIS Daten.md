@@ -10,4 +10,3 @@ GPU005.TXT = Room data
 GPU006.TXT = Subject data
 GPU014.TXT = Substitutions data
 GPU018.TXT = Holiday data
-

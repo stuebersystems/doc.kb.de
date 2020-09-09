@@ -120,6 +120,6 @@
 ## ENBREA
 
 * [Schülerstammdaten importieren](enbrea/Schülerstammdaten importieren.md)
-* [Export von Schülerdaten aus edoosys](enbrea/export von Schülerdaten aus edoosys.md) 
-* [Export von UNTIS Daten](export von UNTIS Daten.md)
-* 
+* [Export von Schülerdaten aus edoosys](enbrea/export von Schülerdaten aus edoosys.md)
+* [Export von UNTIS Daten](enbrea/export von UNTIS Daten.md)
+  
