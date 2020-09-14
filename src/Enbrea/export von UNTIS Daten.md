@@ -2,11 +2,11 @@
 
 Es werden folgende Dateien benötigt:
 
-GPU001.TXT = Timetable data
-GPU002.TXT = Course data
-GPU003.TXT = Class data
-GPU004.TXT = Teacher data
-GPU005.TXT = Room data
-GPU006.TXT = Subject data
-GPU014.TXT = Substitutions data
-GPU018.TXT = Holiday data
+GPU001.TXT = Timetable data<br>
+GPU002.TXT = Course data<br>
+GPU003.TXT = Class data<br>
+GPU004.TXT = Teacher data<br>
+GPU005.TXT = Room data<br>
+GPU006.TXT = Subject data<br>
+GPU014.TXT = Substitutions data<br>
+GPU018.TXT = Holiday data<br>
