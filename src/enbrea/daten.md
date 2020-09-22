@@ -10,8 +10,8 @@ Senden Sie uns bitte eine **Sicherungskopie** (*.fbk) Ihrer MAGELLAN Datenbank, 
 
 Version|Vorgehen
 --|--
-MAGELLAN 6|Eine Sicherungskopie können Sie über den MAGELLAN -Administrator erstellen. Melden Sie sich bitte als sysdba (klappt aber auch ohne Anmeldung am Modul, Sie tragen die Anmeldung später beim Sichern ein) an und öffnen die Ansicht "Datensicherung". Tragen Sie die Anmeldungsdaten (sysdba und Passwort) ein und wählen einen Speicherort auf dem Serverrechner, der Name der Sicherung wird von MAGELLAN selbst vergeben.
-MAGELLAN 7|Eine Sicherungskopie können Sie über den MAGELLAN -Administrator erstellen. https://doc.magellan7.stueber.de/schulverwaltung/admin/admin.datenbankverbindungen/#datensicherung
+**6**|Eine Sicherungskopie können Sie über den MAGELLAN -Administrator erstellen. Melden Sie sich bitte als sysdba (klappt aber auch ohne Anmeldung am Modul, Sie tragen die Anmeldung später beim Sichern ein) an und öffnen die Ansicht "Datensicherung". Tragen Sie die Anmeldungsdaten (sysdba und Passwort) ein und wählen einen Speicherort auf dem Serverrechner, der Name der Sicherung wird von MAGELLAN selbst vergeben.
+**7**|Eine Sicherungskopie können Sie über den MAGELLAN -Administrator erstellen. https://doc.magellan7.stueber.de/schulverwaltung/admin/admin.datenbankverbindungen/#datensicherung
 
 ## DAVINCI Stundenplandatei
 
