@@ -2,7 +2,7 @@
 
 ## Übermitteln der Daten
 
-Bitte melden sich an der Weboberfläche (http://support.stueber.de) mit Benutzer (Ihre Mailadresse) und Passwort an, legen dort das Ticket mit dem Stichwort"ENBREA-Daten" im Titel an und laden die Daten direkt ins Ticket über die Schaltfläche "Durchsuchen". Auf diesem Weg können auch größere Dateien übermittelt werden, als es per Mail möglich wäre. 
+Bitte melden sich an der Weboberfläche (http://support.stueber.de) mit Benutzer (Ihre Mailadresse) und Passwort an, legen dort das Ticket mit dem Stichwort "ENBREA-Daten" im Titel an und laden die Daten direkt ins Ticket über die Schaltfläche "Durchsuchen". Auf diesem Weg können auch größere Dateien übermittelt werden, als es per Mail möglich wäre. 
 
 ## MAGELLAN Datenbank
 
