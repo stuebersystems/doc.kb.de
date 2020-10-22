@@ -12,9 +12,9 @@ Unsere Installationspakete finden Sie im  [Downloadbereich](https://davinci.stue
 
 Bitte führen Sie die gewünschten Installation aus, Anleitung dazu finden Sie hier: 
 
-[DAVINCI Server](https://doc.davinci6.stueber.de/davinci-server/#den-davinci-server-installieren).
-[DAVINCI](https://doc.davinci6.stueber.de/installation.html)
-[DAVINCI LOOK](https://doc.davinci6.stueber.de/davinci-look/#lookinstallation)
+[DAVINCI Server](https://doc.davinci6.stueber.de/06.enterprise/01.installation/).
+[DAVINCI](https://doc.davinci6.stueber.de/00.allgemein/installation/)
+[DAVINCI LOOK](https://doc.davinci6.stueber.de/05.look/01.installation/)
 
 Soll der DAVINCI INFOSERVER wieder eingerichtet werden, finden Sie die Anleitung von der Einrichtung des Webservers bis zur WEBBOX im Abschnitt [Live-DAten im Internet](https://doc.davinci6.stueber.de/internet-publication/).
 
