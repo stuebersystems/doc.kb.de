@@ -116,7 +116,7 @@
 ## Support
 
 * [Skripteditor ausführen](support/skripteditor.md)
-* [Ticketaccount anlegen](suppoert/ticket_anlegen.md)
+* [Ticketaccount anlegen](support/ticket_anlegen.md)
 
 ## ENBREA
 
