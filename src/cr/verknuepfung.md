@@ -1,5 +1,7 @@
 # Empfohlene Verknüpfungen
 
+Nachstehend die Empfehlungen für **Klassenberichte** und einen **Schülerberichte**.
+
 ## Schülerberichte
 
 ![Beispiel für einen Schülerbericht](/images/cr/05.png)
