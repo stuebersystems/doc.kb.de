@@ -1,10 +1,10 @@
 # Empfohlene Verknüpfungen
 
-Nachstehend die Empfehlungen für **Klassenberichte** und einen **Schülerberichte**.
+Nachstehend die Empfehlungen für **Klassenberichte** und einen **Zeugnisse und Schülerberichte**.
 
-## Schülerberichte
+## Zeugnisse und Schülerberichte
 
-![Beispiel für einen Schülerbericht](/images/cr/05.png)
+![Beispiel für ein Zeugnis](/images/cr/05.png)
 
 Tabelle|Tabelle|anschließende Tabellen
 --|--|--
