@@ -34,6 +34,7 @@ Die Anleitung und das Exportformat hat Herr Müller von der BBS Ahrweiler erstel
 
 Nutzen Sie zur Stundenplanung Untis, benötigen wir bitte folgende Daten:
 
+* den XML-Export (*.xml)
 * GPU001.TXT = Timetable data
 * GPU002.TXT = Course data
 * GPU003.TXT = Class data
