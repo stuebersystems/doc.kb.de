@@ -46,6 +46,7 @@
 
 ## Crystal Reports
 
+* [Sorgeberechtigte und Nebenschüler](cr/nebenschueler.sb.md)
 * [Barcodes](cr/barcode.md)
 * [Bei Tabellen, die bereits verknüpft sind, kann der Join-Typ nicht geändert werden](cr/auto.verknuepfung.md)
 * [Es werden mehr als die ausgewählten Datensätze gezeigt](cr/zuviele.datensaetze.md)
