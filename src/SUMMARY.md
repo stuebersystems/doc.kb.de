@@ -12,7 +12,6 @@
 * [Ihre MAGELLAN 7-Installation zieht auf einen neuen Serverrechner um?](magellan/admin-serverumzug7.md)
 * [Ihre MAGELLAN 6-Installation zieht auf einen neuen Serverrechner um?](magellan/admin-serverumzug6.md)
 * [Zwei Schuldatenbanken auf einem Server](magellan/2_db_ein_server.md)
-* [MAGELLAN ADMINISTRATOR im Silent-Mode starten](magellan/admin_silentmode.md)
 * [Pathsdatei: \*.lic, \*.evm, \*.opt zentral ablegen](magellan/pathsdatei.md)
 * [Regelmäßige Sicherung der DB per Taskplaner](magellan/admin_sicherung.taskplaner.md)
 * [MAGELLAN und Linux](magellan/admin.linux.md)
@@ -97,8 +96,9 @@
 
 * [Automatischer Start voreingestellten Ansicht](look/autostart.md)
 
-## DAVINCI / Sonstiges
+## Sonstiges
 
+* [Silent-Mode-Parameter](sonstiges/silentmode.md)
 * [Umzug auf einen neuen Server](sonstiges/umzug.auf.neuen.server.md)
 * [Schuljahreswechsel](sonstiges/schuljahreswechsel.md)
 * [Plandatei aufräumen](sonstiges/plandatei.aufraeumen.md)
