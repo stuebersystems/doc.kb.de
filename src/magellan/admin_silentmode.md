@@ -18,7 +18,7 @@ Der Magellan-Administrator erlaubt folgende Aufgaben im Silent-Mode zu erledigen
 
 Diese Punkte werden ausführlich in den kommenden Punkten erläutert.
 
-### Datenbank-Anmeldung
+### MAGELLAN Datenbank-Anmeldung
 
 Sie haben die Möglichkeit den MAGELLAN ADMIMINISTRATOR direkt ohne Eingabe von Benutzernamen, Passwort und Auswahl der Datenbank zu starten, wenn Sie diese Informationen einfach als Parameter angeben.
 
@@ -35,7 +35,7 @@ Parameter:
 > Jegliche weitere Silent-Mode Funktion hängt von diesen Parametern ab. Das bedeutet diese Parameter sind Pflichtangaben für alle weiteren Silent-Mode Aufgaben.
 Die Parameter der Datenbank-Anmeldung sind die einzigen Parameter die mit anderen Silent-Mode Funktionen kombinierbar sind.
 
-## Benutzerrechte synchronisieren
+## MAGELLAN Benutzerrechte synchronisieren
 
 Eine oft wiederkehrende Aufgabe ist das Synchronisieren der Benutzerrechte. Zusätzlich zu den Parametern der Datenbank-Anmeldung müssen folgende Parameter angegeben werden.
 
@@ -43,7 +43,7 @@ Eine oft wiederkehrende Aufgabe ist das Synchronisieren der Benutzerrechte. Zus�
 |-----|-----------|
 | 1.  | /UserSync |
 
-## Import über das Magellan-Importformat
+## Import über das MAGELLAN-Importformat
 
 Der Import von Daten ist größtenteils ein einmaliger Import zum Hinzufügen von Fremddaten nach Magellan. Für Schüler- und Lehrerdaten gibt es aber die Möglichkeit, die Stammdaten zu aktualisieren.
 Voraussetzung für eine solche Aktualisierung ist, dass die Fremddaten mit einer externen GUID importiert wurden und die Aktualisierung anhand dieses Feldes Externe GUID (Feld GUIDExtern) zur nachträglichen Wiedererkennung der Datensätze, aktualisiert werden. Zusätzlich zu den Parametern der Datenbank-Anmeldung müssen folgende Parameter angegeben werden.
@@ -75,8 +75,6 @@ C:\Programme\Stüber Systems\MagAdmin.exe /Login=SYSDBA
 ## Installation per Silent-Setup-Parameter
 
 Grundsätzlich basiert unsere Installation auf der MSI-Technologie. Mit dieser MSI-Technologie wird beispielsweise auch MS Office installiert.
-
-Folgenden Parameter sind möglich: 
 
 ### Silent-Setup für MAGELLAN
 
