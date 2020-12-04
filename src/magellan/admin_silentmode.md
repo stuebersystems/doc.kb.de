@@ -4,7 +4,7 @@
 
 Mit Silent-Mode benennt STÜBER SYSTEMS den Aufruf der Anwendung durch Parameter zur Durchführung von bestimmten Funktionalitäten, ohne dass ein Programmfenster geöffnet oder eine Programmeingabe vom Benutzer erwartet wird. Alle wichtigen Informationen zur Durchführung werden durch die Parameter bestimmt.
 
-Zweck des Silent-Mode ist es, die Anwendung durch z.B. den Taskmanager von Windows im Hintergrund wiederkehrende Aufgaben erledigen zu lassen, ohne dass sich ein Benutzer darum kümmern müsste, also zur Automatisierung bestimmter Aufgaben. 
+Zweck des Silent-Mode ist es, die Anwendung durch z.B. den Taskmanager von Windows im Hintergrund wiederkehrende Aufgaben erledigen zu lassen, ohne dass sich ein Benutzer darum kümmern müsste, also zur Automatisierung bestimmter Aufgaben.
 
 ## MAGELLAN ADMINISTRATOR im Silent-Mode starten
 
@@ -13,7 +13,7 @@ Zweck des Silent-Mode ist es, die Anwendung durch z.B. den Taskmanager von Windo
 Der Magellan-Administrator erlaubt folgende Aufgaben im Silent-Mode zu erledigen:
 
 *	Datenbank-Anmeldung
-*	Benutzerrechte synchronisieren 
+*	Benutzerrechte synchronisieren
 *	Import über das Magellan-Importformat
 
 Diese Punkte werden ausführlich in den kommenden Punkten erläutert.
