@@ -43,3 +43,9 @@ Nutzen Sie zur Stundenplanung Untis, benötigen wir bitte folgende Daten:
 * GPU006.TXT = Subject data
 * GPU014.TXT = Substitutions data
 * GPU018.TXT = Holiday data
+
+## LUSD
+
+Nutzen Sie zur die LUSD, benötigen wir bitte folgende Daten:
+
+* CSV-Exportdatei
