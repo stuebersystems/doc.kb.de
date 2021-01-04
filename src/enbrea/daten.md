@@ -36,7 +36,7 @@ Nutzen Sie zur Stundenplanung Untis, benötigen wir bitte folgende Daten:
 
 * XML-Export (*.xml)
 * GPU012.txt
-* GPU013.txt
+* GPU013.txt [optional nötig, enthält Abwesenheitsgründe und Fehlzeiten der Lehrer]
 * GPU014.txt
 
 ## LUSD
