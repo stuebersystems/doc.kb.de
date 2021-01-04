@@ -121,8 +121,4 @@
 
 ## ENBREA
 
-* [Welche Daten benötigen wir?](enbrea/daten.md)
-* [Schülerstammdaten importieren](enbrea/schuelerstammdaten_davinci.md)
-* [Export von Schülerdaten aus edoosys](enbrea/export_von_schuelerdaten_aus_edoosys.md)
-* [Export von UNTIS Daten](enbrea/untis_daten.md)
-  
+* [Welche Daten benötigen wir?](enbrea/daten.md)  
