@@ -19,6 +19,7 @@
 
 ## MAGELLAN
 
+* [PDF-Skalierung aus CR](magellan/skalierung.cr.md)
 * [Serienmail: Mapi-Fehlermeldung](magellan/mapi.md)
 * [Serienmail: Interface nicht unterstützt](magellan/interface.md)
 * [Welcher Maiclient wird aufgerufen](sonstiges/mapi2.md)
