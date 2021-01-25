@@ -5,13 +5,15 @@ Dieses Problem besteht innerhalb der Runtimeversion von Crystal Reports und kann
 
 Im Internet wird ein Workaround beschrieben, bei dem zwei zusätzliche Registrywerte je Arbeitsplatz gesetzt werden (insgesamt an zwei Stellen, zweiter Pfad ist unter den Abbildungen).
 
-So gehen Sie vor:
+Stellen zum Ändern des Schlüssels:
 
-Öffnen Sie den Registrierungseditor Ihres Arbeitsplatzes und wechseln auf:
+```HKEY_CURRENT_USER\SOFTWARE\SAP BusinessObjects\Suite XI 4.0\Crystal Reports\Export\PDF```
 
-```
-HKEY_CURRENT_USER\SOFTWARE\SAP BusinessObjects\Suite XI 4.0\Crystal Reports\Export\PDF
-```
+```HKEY_CURRENT_USER\SOFTWARE\SAP BusinessObjects\Crystal Reports für .NET Framework 4.0\Crystal Reports\Export\PDF```
+
+Beispiel für das Anlegen des Schlüssels`ForceLargerFonts` mit dem Wert `1` gehen Sie vor:
+
+Öffnen Sie den Registrierungseditor Ihres Arbeitsplatzes und wechseln auf den ersten der oben genannten Pfade:
 
 Klicken Sie jeweils auf der rechten Seite auf eine freie Stelle mit der rechten Maustaste und wählen `Neu > Zeichenfolge`.
 
@@ -23,8 +25,4 @@ Benennen Sie den neuen Wert um in `ForceLargerFonts` und tragen als Wert bitte `
 
 ![Schlüssel ist eingetragen](/images/magellan/01.png)
 
-Wiederholen Sie die Schritte bitte für:
-
-```
-HKEY_CURRENT_USER\SOFTWARE\SAP BusinessObjects\Crystal Reports für .NET Framework 4.0\Crystal Reports\Export\PDF
-```
+Wiederholen Sie die Schritte bitte für die zweite Stelle.
