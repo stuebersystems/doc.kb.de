@@ -1,37 +1,55 @@
 # Erste Schritte in MAGELLAN - Beispieldatenbank für den Echtbetrieb vorbereiten
 
-Nach der Installation von MAGELLAN ist automatisch eine Beispieldatenbank hinterlegt, damit man sich anhand von Beispieldaten das Programm ansehen kann.
-Um in den Echtbetrieb zu wechseln werden der Reihe nach folgende Schritte ausgeführt, Ziel ist eine leere Datenbank mit den Bundeslandspezifischen Statistik-schlüsseln vorzubereiten.
+Stand Januar 2021
 
-## Die Datenbank leeren
+Nach der Installation von MAGELLAN sind automatisch zwei Datenbanken hinterlegt.
+Eine Beispieldatenbank, damit man sich anhand von Beispieldaten das Programm ansehen kann.
+Und eine leere Datenbank mit der man in den Echtbetrieb wechseln kann.
+Nachfolgend werden die Schritte beschrieben, die nötig sind um in den Echtbetrieb zu wechseln.
 
-Starten Sie den MAGELLAN-Administrator und führen den Punkt ´Datenbankpflege > Datenbankinhalt´ löschen aus. Dabei bitte alles leeren, auch die angebotenen Häkchen für Verzeichnisse deaktivieren.
+## Verbindung zur leeren Datenbank anlegen
 
-## Die IDs zurücksetzen
+Rufen Sie das Modul MAGELLAN ADMINISTRATOR auf. Um eine neue Verbindung anzulegen melden Sie sich als sysdba im Anmeldefenster an oder wählen im Anmeldefenster unter `Datenbank` `keine Anmeldung` aus. Mit dieser Anmeldung kann man die Verbindungsdaten einrichten oder korrigieren, falls versehentlich verkehrte Angaben vorgenommen wurden. Alle anderen Funktionen können ohne Anmeldung im MAGELLAN ADMINISTRATOR so nicht genutzt werden.
 
-Führen Sie den Punkt ´Datenbankpflege > Datenbank überprüfen > Generatoren synchronisieren´ aus, um die in der Beispieldatenbank bereits verwendeten IDs wieder für Ihren MAGELLAN-Einsatz freizugeben. Damit würde der erste Schüler dann auch wieder die ID 1 erhalten.
+Der Unterschied zwischen der Beispielanbindung und dieser Anbindung ist letztlich vermutlich nur die Datenbank, insofern kann man die Beispielanbindung kopieren und anpassen. Wechseln Sie hierfür auf den Punkt `Datenbankverbindungen`, markieren die Beispielverbindung, klicken mit rechter Maustaste auf die Verbindung und wählen `Verbindung kopieren`.
+
+![Verbindung kopieren](/images/magellan/04.png)
+
+Passen Sie im nächsten Schritt den Namen des `Alias` an, diese Bezeichnung wird Ihnen später im MAGELLAN-Anmeldefenster gezeigt.
+
+Anschließend wechseln Sie auf die Unterkarte `Datenbank` und passen den Datenbankpfad auf an. Bei einer Beispielverbindung wurde auf die Datenbank `Magellan8_Beispiel.fdb` verwiesen. Die leere Datenbank befindet sich im Datenbankverzeichnis neben dieser Datenbank und heißt `Magellan8.fdb`. Sie müssen also nur den Dateinamen von `Magellan8_Beispiel.fdb` auf `Magellan8.fdb` anpassen.
+
+![Datenbanknamen anpassen](/images/magellan/05.png)
 
 ## Postleitzahlen importieren
 
-Wählen Sie bitte unter ´Datenimporte > Postleitzahlen importieren´ die Auswahl ´Deutschland´. Sie erhalten ein vollständiges Postleitzahlverzeichnis für Deutschland, inklusive der Gemeindekennziffern u.a., das für statistische Erhebungen später wichtig ist.
-Berliner Schulen importieren bitte das Postleitzahlverzeichnis ´Berlin´, da hier zusätzlich die Berliner Stadtbezirke hinterlegt wurden. Für Schweizer Schulen steht ebenfalls ein Verzeichnis zur Verfügung.
+Wählen Sie bitte unter `Datenaustausch > Postleitzahlen importieren` die Auswahl `Deutschland`. Sie erhalten ein vollständiges Postleitzahlverzeichnis für Deutschland, inklusive der Gemeindekennziffern u.a., das für statistische Erhebungen später wichtig ist.
+Berliner Schulen importieren bitte das Postleitzahlverzeichnis `Berlin`, da hier zusätzlich die Berliner Stadtbezirke hinterlegt wurden. Für Schweizer Schulen steht ebenfalls ein Verzeichnis zur Verfügung.
 
 ## Schlüsselverzeichnisse importieren
 
-Die Schlüsselverzeichnisse (zum Beispiel Fächer, Staatsangehörigkeiten, Noten u.a.) können unter dem Punkt ´Datenimporte > Schlüsselverzeichnisse importieren´ in die leere Datenbank eingelesen werden.
-Bitte wählen Sie: Ihr Bundesland, wählen ob Sie Schlüssel für allgemeinbildende oder berufsbildende Schulen einlesen möchten, Ihre Schule und wählen bitte ´alle Kataloge´.
+Die Schlüsselverzeichnisse (zum Beispiel Fächer, Staatsangehörigkeiten, Noten u.a.) können unter dem Punkt `Datenaustausch > Schlüsselverzeichnisse importieren` in die leere Datenbank eingelesen werden.
+Bitte wählen Sie: Ihre Region, wählen ob Sie Schlüssel für allgemeinbildende oder berufsbildende Schulen einlesen möchten, Ihre Schule und wählen bitte `alle Kataloge`.
 Gibt es für Ihre Region kein Angebot, wählen Sie bitte als Wert `Deutschland`aus, damit werden die mindestens für MAGELLAN-Abläufe wichtigen Verzeichnisse gefüllt.
 
 ## Schulen importieren
 
 In MAGELLAN können für Schüler Herkunftsschulen oder auch bei Abgängern die neue Schule vermerkt werden. Für einige Bundesländer gibt es auch eine vordefinierte Liste der Schulen, die nach MAGELLAN eingelesen werden kann.
-Rufen Sie den Punkt ´MAGELLAN-Administrator >  Datenim-porte > Daten über MAGELLAN-Importformat importieren´ auf. Auf der zweiten Karte wählen Sie den Single-Import und geben als Pfad den Pfad zu Ihrem Verzeichnis `MAGELLAN 7 > Importe > Ihr Bundesland` an und wählen dort die Datei ´Schulen.csv´ aus.
+Rufen Sie den Punkt `Datenaustausch > Daten über MAGELLAN-Importformat importieren` auf. Klicken Sie auf das Plus, wählen im der Verzeichnisstruktur Ihren Bundeslandunterordner aus (Standardpfad auf dem Server wäre `C:\Users\Public\Documents\Stueber Systems\Magellan 8\Importe`) und verweisen auf die Schulen.csv, die eingelesen werden soll. 
+Definieren Sie die Datei in der Spalte `Importart` mit dem Wert `Schulen` und lesen die Datei ein.
+
+![Schulen importieren](/images/magellan/06.png)
+
+Steht für Ihre Region keine Schulendatei zur Verfügung, können Sie auch eine eigene Schulenliste auf diesem Weg einlesen. Wie diese Datei aufgebaut sein muss, beschreiben wir hier: [https://doc.magellan-toolbox.stueber.de/importe/MagImp/schnittstellenformat_schulenimportcsv/](https://doc.magellan-toolbox.stueber.de/importe/MagImp/schnittstellenformat_schulenimportcsv/).
 
 ## Zeiträume anlegen
 
-Starten Sie MAGELLAN und wechseln zum Einrichten eines Zeitraumes bitte auf `Verzeichnisse > Zeiträume`. Klicken Sie auf die Schaltfläche ´Schuljahre anlegen´ und stellen die Anzahl der zu erstellenden Schuljahre ein und klicken auf OK.
+Starten Sie MAGELLAN und wechseln zum Einrichten eines Zeitraumes bitte auf `Extras > Schlüsselverzeichnisse > Zeiträume`. Klicken Sie auf die Schaltfläche `Schuljahre anlegen` und stellen die Anzahl der zu erstellenden Schuljahre ein und klicken auf `OK`.
 
 ## Ihre Schuldaten eintragen
 
-Wechseln Sie bitte in das Menü Mandanten, markieren die vorhandene Zeile und wechseln auf die Karte Daten. Bitte ändern Sie die Daten unserer Beispieldatenbank auf Ihre eigenen Daten ab. Fertig!
-Sie können jetzt beginnen Ihre Schülerdaten eintragen. Wenn Sie Daten importieren möchten, können Sie dazu unser MAGELLAN-Importformat nutzen, die notwendigen Schritte beschreiben wir [Dokument MAGELLAN Import](https://doc.magellan6-import.stueber.de/).
+Wechseln Sie bitte in das Menü `Mandanten` und erzeugen über `STRG+N` oder über das Plus in der Menüleiste einen neuen Mandanten. Tragen Sie die mindestens ein Kürzel ein und klicken auf `OK`. Das Programm wechselt auf die Karte `Daten`, hier können Sie ausführlichere Schulinformationen erfassen.
+
+## Daten erfassen
+
+Sie können jetzt beginnen Ihre Schülerdaten einzutragen. Alternativ können Sie auch Daten aus entsprechend aufbereiteten csv-Dateien importieren., die notwendigen Schritte beschreiben wir im Dokument [https://doc.magellan-toolbox.stueber.de/](https://doc.magellan-toolbox.stueber.de/) Abschnitt [MAGELLAN-Importformat](https://doc.magellan-toolbox.stueber.de/importe/).
