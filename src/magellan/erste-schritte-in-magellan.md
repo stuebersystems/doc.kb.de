@@ -1,6 +1,6 @@
-# Erste Schritte in MAGELLAN - Beispieldatenbank für den Echtbetrieb vorbereiten
+# Erste Schritte in MAGELLAN - leere Datenbank für den Echtbetrieb vorbereiten
 
-Stand Januar 2021
+``Stand Februar 2021``
 
 Nach der Installation von MAGELLAN sind automatisch zwei Datenbanken hinterlegt.
 Eine Beispieldatenbank, damit man sich anhand von Beispieldaten das Programm ansehen kann.
