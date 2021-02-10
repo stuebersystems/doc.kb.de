@@ -66,4 +66,4 @@ Wenn Ihr bisheriger Server auf für die Webpublikation per Webserver und DAVINCI
 
 Auf den Clientrechnern muss die Serververbindung auf den neuen Schulserver angepasst werden. Starten Sie dazu DAVINCI, wenn das Programm versucht sich mit dem DAVINCI SERVER zu verbinden, klicken Sie bitte auf `Abbrechen`. DAVINCI öffnet sich, wechseln Sie bitte auf `Plan > Server verwalten`und öffnen im folgenden Fenster per Doppelklick auf Ihre Server-Verbindung die Eigenschaften. Passen Sie die Angaben in den Feldern `Netzwerkadresse`und ggfs. auch die `Port-Nummer`an.
 
-Diese Angaben müssen bitte für alle DAVINCI Clients wiederholt werden, alternativ kann man diese Angaben auch zentral verwalten, bitte lesen Sie dazu den Abschnitt [Die Pathsdatei](https://doc.davinci6-kb.stueber.de/sonstiges/pathsdatei.html).
+Diese Angaben müssen bitte für alle DAVINCI Clients wiederholt werden, alternativ kann man diese Angaben auch zentral verwalten, bitte lesen Sie dazu den Abschnitt [Die Pathsdatei](https://doc.davinci6.stueber.de/00.allgemein/pathdatei/).
