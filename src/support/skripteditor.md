@@ -8,11 +8,11 @@ Laden Sie bitte das Paket über den Link herunter und führen dann bitte die nac
 > Diese Anleitung ist eine allgemeine Beschreibung der nötigen Schritte, es kann sein, dass die Skriptdatieen in den Abbildungen abweichend benannt sind, dennoch sind die Schritte gültig und letztlich nur die Datenendungen verbindlich.
 
 1. Laden Sie das Paket über den von unserem Supportteam in Ihrem Ticket übermittelten Link herunter.
-2. Entpacken Sie das Zippaket über `Rechtsklick > Extrahieren` und öffnen anschließend das Verzeichnis. Im Verzeichnis ist eine Datei mit der Endung `*.dws`, eine Datei mit der Endung `*.int`und eine Datei mit dem Namen `MagSkriptEditor.exe`.
+2. Entpacken Sie das Zippaket über `Rechtsklick > Extrahieren` und öffnen anschließend das Verzeichnis. Im Verzeichnis ist eine Datei mit der Endung `*.dws` und eine Datei mit der Endung `*.int`.
 
 ![Beispielinhalt](../images/support/skripteditor/01.png)
 
-3. Starten Sie bitte per Doppelklick den MAGELLAN Skripteditor per Doppelklick auf die Datei "MagScriptEditor.exe".
+3. Starten Sie bitte per Doppelklick den MAGELLAN Skripteditor (Teil der MAGELLAN-Installation und unter `C:\Program Files (x86)\Stueber Systems\Magellan 7 zu finden`) per Doppelklick auf die Datei "MagScriptEditor.exe".
 4. Im Programmfenster gehen Sie bitte auf `Öffnen`!
 
 ![Öffnen](../images/support/skripteditor/02.png)
