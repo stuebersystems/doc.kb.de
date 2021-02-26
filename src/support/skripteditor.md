@@ -5,7 +5,14 @@ Laden Sie bitte das Paket über den Link herunter und führen dann bitte die nac
 
 > #### warning::Wichtig
 >
-> Diese Anleitung ist eine allgemeine Beschreibung der nötigen Schritte, es kann sein, dass die Skriptdatieen in den Abbildungen abweichend benannt sind, dennoch sind die Schritte gültig und letztlich nur die Datenendungen verbindlich.
+> Diese Anleitung ist eine allgemeine Beschreibung der nötigen Schritte, es kann sein, dass die Skriptdateien in den Abbildungen abweichend benannt sind, dennoch sind die Schritte gültig und letztlich nur die Datenendungen verbindlich.
+
+> #### warning::Wichtig
+>
+> Einige der Korrekturen benötigen mehrere Stunden zum Durchlauf, daher sollte das Skript auf einem Rechner gestartet werden, der eingeschaltet bleiben kann, am besten auf Ihrem Serverrechner.
+Sie können während der Korrekturen weiter in MAGELLAN arbeiten, allerdings dürfen bitte keine Änderungen der Schülerlaufbahnen vorgenommen werden, also Anlegen,Importieren oder Löschen von Schülern sollte nicht vorgenommen werden. Ebenso sollten für die Zeit, die die Korrektur benötigt bitte keine Schüler gewechselt, fortgeschrieben, versetzt oder korrigiert werden.
+
+So gehen Sie vor:
 
 1. Laden Sie das Paket über den von unserem Supportteam in Ihrem Ticket übermittelten Link herunter.
 2. Entpacken Sie das Zippaket über `Rechtsklick > Extrahieren` und öffnen anschließend das Verzeichnis. Im Verzeichnis ist eine Datei mit der Endung `*.dws` und eine Datei mit der Endung `*.int`.
