@@ -7,10 +7,11 @@ Wir möchten Ihnen in diesem Artikel eine Übersicht bieten, an was alles zu den
 
 Laden Sie die beiden Installationspakete herunter:
 
-* [Firebird](ftp://ftp.stueber.de/pub/bin/de/magellan/v7/Firebird-2.5.8.27089_0_Win32.exe)
-* [MAGELLAN](ftp://ftp.stueber.de/pub/bin/de/magellan/v7/magellan7.msi)
+* [Firebird](https://download.stueber.de/bin/de/firebird/Firebird-2.5.8.27089_0_Win32.exe)
+* [MAGELLAN](https://download.stueber.de/bin/de/magellan/v7/magellan7.msi)
 
 Eine Installationsanleitung finden Sie hier:
+
 [Installationsanleitung Firebird](https://doc.magellan7.stueber.de/schulverwaltung/installation/Installation_Firebird/)
 [Installationsanleitung MAGELLAN](https://doc.magellan7.stueber.de/schulverwaltung/installation/server.installlieren/)
 

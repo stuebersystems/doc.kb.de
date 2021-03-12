@@ -7,8 +7,8 @@ Wir möchten Ihnen in diesem Artikel eine Übersicht bieten, an was alles zu den
 
 Laden Sie die beiden Installationspakete herunter:
 
-* [Firebird](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/Firebird-2.5.8.26089_0_Win32.exe)
-* [MAGELLAN](ftp://ftp.stueber.de/pub/bin/de/magellan/v6/magellan6.msi)
+* [Firebird](https://download.stueber.de/bin/de/firebird/Firebird-2.5.8.27089_0_Win32.exe)
+* [MAGELLAN](https://download.stueber.de/bin/de/magellan/v6/magellan6.msi)
 
 Eine Installationsanleitung finden Sie hier: [Installationsanleitung](https://doc.magellan6.stueber.de/installation/)
 
