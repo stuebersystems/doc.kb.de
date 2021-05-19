@@ -1,5 +1,7 @@
 # Korrekturen per Skript 
 
+>Diese Anleitung bezieht sich nicht auf MAGELLAN 6, sondern auf MAGELLAN 7 oder 8.
+
 Es gibt für verschiedene Situationen Skripte, die Sie zur Korrektur innerhalb Ihrer Datenbank mit Hilfe des MAGELLAN-Skript-Editor ausführen können. Sie erhalten in diesem Fall einen Link zu einem Downloadpaket von unserem Support-Team.
 Laden Sie bitte das Paket über den Link herunter und führen dann bitte die nachfolgenden Schritte aus.
 
