@@ -1,4 +1,4 @@
-# Korrekturen per Skript (MAGELLAN 7)
+# Korrekturen per Skript 
 
 Es gibt für verschiedene Situationen Skripte, die Sie zur Korrektur innerhalb Ihrer Datenbank mit Hilfe des MAGELLAN-Skript-Editor ausführen können. Sie erhalten in diesem Fall einen Link zu einem Downloadpaket von unserem Support-Team.
 Laden Sie bitte das Paket über den Link herunter und führen dann bitte die nachfolgenden Schritte aus.
@@ -46,7 +46,7 @@ Nachstehend eingetragene Beispieldaten:
 
 Vorlage|eingetragene Beispieldaten
 --|--
-const MagellanDatabase = 'Eintrag aus Dateipfad auf dem Server';|const MagellanDatabase = 'C:\Users\Public\Documents\Stueber Systems\Magellan 7\Datenbank\MAGELLAN7.fdb';
+const MagellanDatabase = 'Eintrag aus Dateipfad auf dem Server';|const MagellanDatabase = 'C:\Users\Public\Documents\Stueber Systems\Magellan 7\Datenbank\MAGELLAN7.fdb';<br/>'C:\Users\Public\Documents\Stueber Systems\Magellan 8\Datenbank\MAGELLAN8.fdb';
 const MagellanUserName = 'sysdba';|const MagellanUserName = 'sysdba';
 const MagellanPassword = 'Ihr Passwort';|const MagellanPassword = 'masterkey';
 const Server = 'Eintrag aus dem Feld Server';|const Server = 'localhost';<br/>oder, wenn das Skript nicht auf dem Serverrechner ausgeführt wird beispielsweise: <br/>const Server = 'Verwaltungsserver';
