@@ -6,6 +6,10 @@ Es gibt für verschiedene Situationen Skripte, die Sie zur Korrektur innerhalb I
 Laden Sie bitte das Paket über den Link herunter und führen dann bitte die nachfolgenden Schritte aus.
 
 > #### warning::Wichtig
+
+    Bevor Sie Korrekturen per Skipteditor vornehmen, machen Sie bitte in jedem Fall eine Backup ihrer Datenbank. Folgen Sie den Anweisungen [hier](https://doc.magellan.stueber.de/schulverwaltung/admin/sicherung/#sicherungskopie-erstellen)
+
+> #### warning::Wichtig
 >
 > Diese Anleitung ist eine allgemeine Beschreibung der nötigen Schritte, es kann sein, dass die Skriptdateien in den Abbildungen abweichend benannt sind, dennoch sind die Schritte gültig und letztlich nur die Datenendungen verbindlich.
 
