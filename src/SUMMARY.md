@@ -29,6 +29,7 @@
 * [BBS: Neues Halbjahr, neues Schuljahr](magellan/bbs-neues-halbjahr-neues-schuljahr-was-ist-zu-tun.md)
 * [Schlüsselverzeichnisse hinter Feldern](magellan/Schluesselverzeichnisse.md)
 * [Positionen für den Zeugnisdruck nachträglich zuweisen](magellan/mag_positionen_nachpflegen.md)
+* [Fachlehrer den Schülerfachdaten zuweisen](magellan/mag_lehrer_nachtraeglich_zuweisen.md)
 * [MAGELLAN und Untis](magellan/import_mag.untis.md)
 * [Jahrgangsübergreifende Klassen](magellan/jahrgangsubergreifende-klassen-in-magellan.md)
 * [MAGELLAN und DAVINCI: Fächer abgleichen](magellan/abgleich.stammdaten.md)
