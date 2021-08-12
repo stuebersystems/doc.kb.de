@@ -5,8 +5,7 @@
 [3]:/assets/images/Magellan/09.png
 [4]:/assets/images/Magellan/10.png
 
-
-Den unterrichtenden Lehrer je belegtem Schülerfach (Schüler > Zeugnis > Fächer) benötigt man beispielsweise um Kurslisten mit der Angabe des Lehrers zu drucken oder um lehrerbezogene MyMAGELLAN-Dateien erstellen zu können.
+Den unterrichtenden Lehrer je belegtem Schülerfach (`Schüler > Zeugnis > Fächer`) benötigt man beispielsweise um Kurslisten mit der Angabe des Lehrers zu drucken oder um lehrerbezogene MyMAGELLAN-Dateien erstellen zu können.
 
 ## Zuordnungsvarianten
 
@@ -58,3 +57,7 @@ Markieren Sie die Schüler und klicken auf `Weiter`. Wählen Sie auf der nächst
 Klicken Sie auf "Weiter" und auf "Fertigstellen", die Fachlehrer werden ggfs. zugewiesen.
 
 [![Ergebnis][4][4]
+
+> #### primary::Hinweis
+>  
+> Anders als beispielsweise mit DAVINCI sind so nicht alle Lehrer auf Anhieb zuweisbar: Gibt es mehr als ein Kurs je Kombination, also beispielsweise mehr als einen Mathe-Grundkurs, können Sie diese Zuweisung nicht vollständig über die vorstehend beschriebenen Schritte abbilden. Aber zumindest gelingt so eine grobe Vorbelegung, auf deren Grundlage dann weiter manuell angepasst werden kann.
