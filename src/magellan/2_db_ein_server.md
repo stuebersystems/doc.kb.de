@@ -1,6 +1,6 @@
 # Zwei Datenbanken auf einen Server ablegen
 
-Wenn Sie die Datenbanken zweier Schulen auf einem Server zusammen ablegen wollen, sollten Sie die folgenden Punkte beachten. 
+Wenn Sie die Datenbanken zweier Schulen auf einem Server zusammen ablegen wollen, sollten Sie die folgenden Punkte beachten.
 
 ## Version
 
@@ -17,7 +17,7 @@ Wenn beide Schulverwaltungsdatenbanken (MAGELLAN7.fdb) übertragen wurde, melden
 
 ### sysdba
 
-Der sysdba gilt als Administrator über alle Datenbanken auf dem Server, also in Ihrem Fall jetzt für beide Schulen, das Passwort sollten Sie ändern (MAGELLAN Administrator|Benutzerverwaltung|Administratoren) und den Schulen nicht mehr zur Verfügung stellen.
+# Der sysdba gilt als Administrator über alle Datenbanken auf dem Server, also in Ihrem Fall jetzt für beide Schulen, das Passwort sollten Sie ändern (`MAGELLAN Administrator > Benutzerverwaltung > Administratoren`) und den Schulen nicht mehr zur Verfügung stellen.
 
 ### dbadmin
 
@@ -31,19 +31,19 @@ Unsere Empfehlung wäre folgende Konstellation, es sind aber sicher noch andere 
 
 Muss je Schule existieren:
 
-"C:\Users\Public\Documents\Stueber Systems\Magellan 7\Dokumente"
+"C:\Users\Public\Documents\Stueber Systems\Magellan 8\Dokumente"
 
 Sollten je Schule existieren:
 
-"C:\Users\Public\Documents\Stueber Systems\Magellan 7\Berichte"
+"C:\Users\Public\Documents\Stueber Systems\Magellan 8\Berichte"
 
-"C:\Users\Public\Documents\Stueber Systems\Magellan 7\Vorlagen"
+"C:\Users\Public\Documents\Stueber Systems\Magellan 8\Vorlagen"
 
 Können gemeinsam genutzt werden:
 
-"C:\Users\Public\Documents\Stueber Systems\Magellan 7\Skripte"
+"C:\Users\Public\Documents\Stueber Systems\Magellan 8\Skripte"
 
-"C:\Users\Public\Documents\Stueber Systems\Magellan 7\Importe"
+"C:\Users\Public\Documents\Stueber Systems\Magellan 8\Importe"
 
 Unser Vorschlag hier wäre auf dem Server die Standardinstallation auszuführen und die Verzeichnis auch an der Stelle zu lassen. Für die schulindividuellen Verzeichnisse erstellen Sie bitte eine Kopie der Verzeichnisse ujnd legen diese doppelt ab. Erstellen Sie jeweils Freigaben für die beiden Schulen.
 Bei Updates werden diese drei Verzeichnisse so nicht erreicht, was für die Verzeichnisse Dokumente und Vorlagen aber auch nicht nötig ist. Der Ordner Berichte sollte allerdings schon aktualisiert werden. Hier würden wir vorschlagen, dass Sie sich ein Tool zur Synchronisation des Verzeichnisses einrichten und nach dem Update neue oder geänderte Berichtsdateien aus dem Standardordner in die schulindividuellen Ordner zu übertragen.
