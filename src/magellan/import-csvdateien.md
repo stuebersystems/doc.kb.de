@@ -22,3 +22,10 @@ Anschließend erscheint folgendes Fenster, hier stellen Sie Folgendes ein:
 Bestätigen mit OK. Fertig!
 
 ![Wählen Sie Feld- und Texttrenner!](../images/csv3.png)
+
+## Dateiformat umstellen
+
+Wenn das Zeichenformat der Datei ändern müssen, gehen Sie bitte wie folgt vor:
+1. Öffnen Sie dazu den Editor der automatisch bei jeder Windows Installation mitinstalliert wird. 
+2. Öffnen Sie die betroffene CSV Datei im Editor und klicken Sie auf Datei -> Speichern unter.
+3. Wählen Sie z.B. die Codierung ANSI und speichern Sie die Datei ab.
