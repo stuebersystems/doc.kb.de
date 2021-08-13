@@ -19,7 +19,7 @@ Es liegt nicht an MAGELLAN direkt, sondern an einer falschen Konfiguration der M
 
 `HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows Messaging Subsystem`
 
- 4. Unter WIndows 64-bit muss man folgenden Einstellung vornehmen - Wenn der Schlüssel MAPI dort nicht existiert \(das müsste bei Ihnen der Fall sein\), müsen Sie diesen wie folgt manuell anlegen.
+ 4. Unter WIndows 64-bit muss man folgenden Einstellung vornehmen - Wenn der Schlüssel MAPI dort nicht existiert \(das müsste bei Ihnen der Fall sein\), müssen Sie diesen wie folgt manuell anlegen.
 
 5. Gehen Sie über die rechte Maustaste im rechten Fenster auf "Neu", wählen Sie hier "Zeichenfolge" und benennen diese
 
