@@ -66,7 +66,7 @@
 
 ## DAVINCI INFOSERVER
 
-* [Einrichtung] (infoserver/einrichtung.md)
+* [Einrichtung](infoserver/einrichtung.md)
 * [Fachfarben in der WEBBOX und APP](infoserver/farben.md)
 * [Eigene CSS-Datei für CONFIRE SHOWTIME-Vertretungsapp](infoserver/css.showtime.md)
 * [Vertretungsliste soll flippen](infoserver/vertretungsliste-flippen.md)
