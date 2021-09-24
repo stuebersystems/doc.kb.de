@@ -17,7 +17,7 @@ Prüfen Sie bitte, ob in Ihrem Schulnetzwerk (Serverrechner und Arbeitsplatzrech
 Öffnen Sie anschließend bitte im MAGELLAN Administrator den Punkt `Datenimporte > Postleitzahlverzeichnis importieren`. 
 Wählen Sie im Assistenten für `für folgendes Land` den Wert `Deutschland` aus und für `importiere folgenden Katalog` bitte `alle Kataloge`. Starten Sie den Assistenten über die Schaltfläche `Fertigstellen`.
 
-### Importieren in MAGELLAN 7
+### Importieren in MAGELLAN 7 und 8
 
 Öffnen Sie anschließend bitte im MAGELLAN Administrator den Punkt `Datenaustausch > Postleitzahlen und Banken importieren`. 
 Wählen Sie im Assistenten für `für folgendes Land` den Wert `Deutschland` aus und für `importiere folgenden Katalog` bitte `alle Kataloge`. Starten Sie den Assistenten über die Schaltfläche `Fertigstellen`.
@@ -39,7 +39,7 @@ Die Aktion wird ausgeführt für:
 * Lehrer
 * Schulen
 
-### MAGELLAN 7
+### MAGELLAN 7 und 8
 
 `MAGELLAN Administrator > Datenbankpflege > Datenbank überprüfen > Gemeindekennziffern synchronisieren`
 
