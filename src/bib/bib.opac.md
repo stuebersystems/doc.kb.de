@@ -12,7 +12,7 @@ Soweit Sie in den Optionen von MAGELLAN BIBLIOTHEK die Online-Recherche aktivier
  
 Beim ersten Start von OPAC-Research landen Sie auf der Registerkarte zum Verwalten der OPAC-Server. Über die Schaltfläche 1 (siehe Bild) können Sie die von uns bereits getesteten OPAC-Server direkt hinzufügen. Aktuell handelt es sich um den Server der Deutschen Nationalbibliothek (Weiterhin DNB genannt.). In den meisten Fällen werden Sie eine Anmeldung/Registrierung bei den jeweiligen Serverbetreibern benötigen. 
 
-Die Deutsche Nationalbibliothek erfordert z. B. eine [Registrierung](https://portal.dnb.de/myAccount/register.htm?method=showRegisterFormExtern&view=redirect%3A%2FmyAccount%2Fregister.htm&dodServiceUrl=https%3A%2F%2Fportal.dnb.de%2Fdod), da neben den kostenfreien Abfragen auf ihre Server auch kostenpflichtige Abfragen möglich sind und diese über das Kundenkonto abgerechnet werden können. Die neue Technik erlaubt uns Anmeldungen an die jeweiligen Server durchzuführen. Im Falle der DNB benötigen Sie einen „Zugriffstoken“, den Sie nach der Registrierung im Portal anfragen können. 
+Die Deutsche Nationalbibliothek erfordert z. B. keine Registrierung. In anderen Fällen könnten Sie einen „Zugriffstoken“benötigen, den Sie nach der Registrierung im Portal anfragen können. 
  
 ![Auf der Registerkarte „Authentifizierung“ können Sie den Zugriffstoken einfügen.](../images/opac02.png) 
  
