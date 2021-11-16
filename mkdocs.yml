@@ -1,0 +1,56 @@
+# Project information
+site_name: Knowledge Base
+site_description: 'Sammlung von Tipps und Tricks rund um beide Software-Produkte.'
+site_author: 'STÜBER SYSTEMS GmbH'
+site_url: 'https://doc.kb.stueber.de'
+
+# Copyright
+copyright: © 2021 STÜBER SYSTEMS GmbH
+
+# Repository
+repo_name: 'Auf GitHub'
+repo_url: 'https://github.com/stuebersystems/doc.kb.de'
+
+# Theming
+theme: 
+    name: material
+    custom_dir: overrides
+    language: de
+    features:
+        - navigation.tabs
+        - navigation.instant
+    palette:
+        primary: 'blue'
+        accent: 'deep orange'
+    font: false
+    favicon: assets/logos/favicon.ico
+    logo: 'assets/logos/logo.svg'
+    include_search_page: false
+    search_index_only: true
+    static_templates:
+      - 404.html
+
+# Legal links
+extra:
+  legal:
+    - label: Impressum
+      link: https://www.stueber.de/imprint.php
+    - label: Datenschutz
+      link: https://legal.stueber.de/privacy.php
+
+# Customization
+extra_css:
+    - assets/css/custom.css
+
+# Plugins    
+plugins:
+    - search
+    
+# Extensions    
+markdown_extensions:
+    - admonition
+  
+# Navigation  
+nav:
+- Überblick:
+   - Einführung: index.md

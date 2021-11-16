@@ -1,34 +1,32 @@
-trigger:
-- master
 pool:
   vmImage: 'windows-2019'
+    
 steps:
-- task: UseNode@1
-  displayName: 'Prepare Node.js ecosystem'
+- task: UsePythonVersion@0
   inputs:
-    version: '12.18.2'
-    checkLatest: true
-- task: CmdLine@2
-  displayName: 'Install gitbook-cli'
+    versionSpec: '3.x'
+    addToPath: true
+    architecture: 'x64'
+- task: PowerShell@2
+  displayName: Install MkDocs
   inputs:
-    script: 'npm install -g gitbook-cli'
+    targetType: 'inline'
+    script: |
+      pip install mkdocs mkdocs-material --disable-pip-version-check
     failOnStderr: true
-- task: CmdLine@2
-  displayName: 'Prepare Gitbook ecosystem'
+    workingDirectory: '$(Build.SourcesDirectory)'
+- task: PowerShell@2
+  displayName: Build with MkDocs
   inputs:
-    script: gitbook install
-    workingDirectory: 'src'
+    targetType: 'inline'
+    script: |
+      mkdocs build -q
     failOnStderr: true
-- task: CmdLine@2
-  displayName: 'Build Gitbook'
-  inputs:
-    script: 'gitbook build'
-    workingDirectory: 'src'
-    failOnStderr: true  
+    workingDirectory: '$(Build.SourcesDirectory)'
 - task: ArchiveFiles@2
   displayName: 'Create Zip archive'
   inputs:
-    rootFolderOrFile: 'src/_book'
+    rootFolderOrFile: 'site'
     includeRootFolder: false
     archiveType: 'zip'
     archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
