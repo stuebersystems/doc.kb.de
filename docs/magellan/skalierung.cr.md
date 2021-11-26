@@ -17,12 +17,12 @@ Hier ein Beispiel für das Anlegen des Schlüssels`ForceLargerFonts` mit dem Wer
 
 Klicken Sie jeweils auf der rechten Seite auf eine freie Stelle mit der rechten Maustaste und wählen `Neu > Zeichenfolge`.
 
-![](/images/magellan/02.png)
+![](/assets/images/magellan/02.png)
 
 Benennen Sie den neuen Wert um in `ForceLargerFonts` und tragen als Wert bitte `1` ein.
 
-![](/images/magellan/03.png)
+![](/assets/images/magellan/03.png)
 
-![Schlüssel ist eingetragen](/images/magellan/01.png)
+![Schlüssel ist eingetragen](/assets/images/magellan/01.png)
 
 Wiederholen Sie die Schritte bitte für die zweite Stelle.

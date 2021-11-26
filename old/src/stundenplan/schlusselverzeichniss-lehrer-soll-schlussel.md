@@ -1,2 +1,0 @@
-# Berechnungskonzepte in daVinci
-

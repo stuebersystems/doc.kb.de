@@ -10,5 +10,5 @@ Um das von vornherein auszuschließen sollten Sie in Ihren Berichten bitte folge
 1. Starten Sie den Bericht mit Crystal Reports!
 2. Öffnen Sie `Datei > Seite einrichten > Druckeroptionen` und setzen bitte das Häkchen für `Kein Drucker (für die Bildschirmanzeige optimieren)`! 
 
-![Wählen Sie diese Option um immer den Standarddrucker für den Druck zu verwenden!](../images/cr-drucker.png)
+![Wählen Sie diese Option um immer den Standarddrucker für den Druck zu verwenden!](/assets/images/cr-drucker.png)
 

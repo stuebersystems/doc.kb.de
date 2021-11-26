@@ -5,16 +5,12 @@
 Es gibt für verschiedene Situationen Skripte, die Sie zur Korrektur innerhalb Ihrer Datenbank mit Hilfe des MAGELLAN-Skript-Editor ausführen können. Sie erhalten in diesem Fall einen Link zu einem Downloadpaket von unserem Support-Team.
 Laden Sie bitte das Paket über den Link herunter und führen dann bitte die nachfolgenden Schritte aus.
 
-> #### warning::Wichtig
+> Bevor Sie Korrekturen per Skipteditor vornehmen, machen Sie bitte in jedem Fall eine Backup ihrer Datenbank. Folgen Sie den Anweisungen [hier](https://doc.magellan.stueber.de/schulverwaltung/admin/sicherung/#sicherungskopie-erstellen)
 
-    Bevor Sie Korrekturen per Skipteditor vornehmen, machen Sie bitte in jedem Fall eine Backup ihrer Datenbank. Folgen Sie den Anweisungen [hier](https://doc.magellan.stueber.de/schulverwaltung/admin/sicherung/#sicherungskopie-erstellen)
 
-> #### warning::Wichtig
->
 > Diese Anleitung ist eine allgemeine Beschreibung der nötigen Schritte, es kann sein, dass die Skriptdateien in den Abbildungen abweichend benannt sind, dennoch sind die Schritte gültig und letztlich nur die Datenendungen verbindlich.
 
-> #### warning::Wichtig
->
+
 > Einige der Korrekturen benötigen mehrere Stunden zum Durchlauf, daher sollte das Skript auf einem Rechner gestartet werden, der eingeschaltet bleiben kann, am besten auf Ihrem Serverrechner.
 Sie können während der Korrekturen weiter in MAGELLAN arbeiten, allerdings dürfen bitte keine Änderungen der Schülerlaufbahnen vorgenommen werden, also Anlegen,Importieren oder Löschen von Schülern sollte nicht vorgenommen werden. Ebenso sollten für die Zeit, die die Korrektur benötigt bitte keine Schüler gewechselt, fortgeschrieben, versetzt oder korrigiert werden.
 
@@ -23,30 +19,30 @@ So gehen Sie vor:
 1. Laden Sie das Paket über den von unserem Supportteam in Ihrem Ticket übermittelten Link herunter.
 2. Entpacken Sie das Zippaket über `Rechtsklick > Extrahieren` und öffnen anschließend das Verzeichnis. Im Verzeichnis ist eine Datei mit der Endung `*.dws` und eine Datei mit der Endung `*.int`.
 
-![Beispielinhalt](../images/support/skripteditor/01.png)
+![Beispielinhalt](/assets/images/support/skripteditor/01.png)
 
 3. Starten Sie bitte per Doppelklick den MAGELLAN Skripteditor (Teil der MAGELLAN-Installation und unter `C:\Program Files (x86)\Stueber Systems\Magellan 7 zu finden`) per Doppelklick auf die Datei "MagScriptEditor.exe".
 4. Im Programmfenster gehen Sie bitte auf `Öffnen`!
 
-![Öffnen](../images/support/skripteditor/02.png)
+![Öffnen](/assets/images/support/skripteditor/02.png)
 
 5. Wählen Sie bitte wie nachfolgend die Datei mit der Endung `*.dws` aus und klicken anschließend auf `Öffnen`!
 
-![Skript auswählen und öffnen](../images/support/skripteditor/03.png)
+![Skript auswählen und öffnen](/assets/images/support/skripteditor/03.png)
 
 6. Klicken Sie in das Fensterchen in dem das Wort `Quellcode` steht und schalten bitte in der Liste auf `Interface-Emulation` um.
 
-![Auf Interface-Emulation umschalten](../images/support/skripteditor/06.png)
+![Auf Interface-Emulation umschalten](/assets/images/support/skripteditor/06.png)
 
 7. Als nächstes brauchen Sie den Pfad zur Datenbank und ggfs. den Servernamen. Starten Sie dazu parallel  den MAGELLAN Administrator. Im Anmeldefenster melden Sie sich als sysdba an oder wählen falls Sie diese Zugangsdaten nicht parat haben, einfach `<keine Anmeldung>` aus.
 
-![Administrator ggfs. ohne Anmeldung starten](../images/support/skripteditor/04.png)
+![Administrator ggfs. ohne Anmeldung starten](/assets/images/support/skripteditor/04.png)
 
 8.  Rufen Sie den Punkt `Datenbankverbindungen` auf und klicken bitte doppelt auf Ihre auf der rechten Seite angegebene Verbindung. Es öffnet sich das Fenster der Verbindungsdetails, Sie wählen die Unterkarte `Datenbank`.
-![Administrator ggfs. ohne Anmeldung starten](../images/support/skripteditor/05.png)
+![Administrator ggfs. ohne Anmeldung starten](/assets/images/support/skripteditor/05.png)
 9. Sie benötigen den Eintrag aus dem Feld `Server` und den Eintrag aus dem Feld `Dateipfad aus dem Server`. Übernehmen Sie die Daten und tragen es plus dem sysdba-Passwort bitte im Skripteditor wieder ein.
 
-![Eintragungen übernehmen](../images/support/skripteditor/07.png)
+![Eintragungen übernehmen](/assets/images/support/skripteditor/07.png)
 
 Nachstehend eingetragene Beispieldaten: 
 
@@ -66,7 +62,7 @@ Bitte wählen Sie mit `true` (nur Prüfen) oder `false` (Prüfen und Korrigieren
 // Wenn TRUE, dann nur prüfen, wenn FALSE dann prüfen und korrigieren
 const CheckOnly = true;
 ```
-![Skript auslösen](../images/support/skripteditor/08.png)
+![Skript auslösen](/assets/images/support/skripteditor/08.png)
 
 ## Probleme
 

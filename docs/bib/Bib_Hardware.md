@@ -6,7 +6,7 @@ Alle hier gemachten Aussagen repräsentieren den aktuellen Stand der Entwicklung
 
 ## Systemvoraussetzungen
 
-MAGELLAN BIBLIOTHEK kommt mit den gleichen Systemvoraussetzungen aus, wie auch die [MAGELLAN Schulverwaltung](https://doc.magellan7.stueber.de/installation/systemvoraussetzungen.html). 
+MAGELLAN BIBLIOTHEK kommt mit den gleichen Systemvoraussetzungen aus, wie auch die [MAGELLAN Schulverwaltung](https://doc.magellan.stueber.de/installation/systemvoraussetzungen.html). 
 
 Damit Sie MAGELLAN BIBLIOTHEK optimal einsetzen können, empfehlen wir Ihnen zusätzlich folgende Hardware:
 

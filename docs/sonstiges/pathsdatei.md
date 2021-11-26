@@ -6,8 +6,6 @@ In diesen Dateien werden die Pfade für bestimmte Optionsdateien festgelegt. daV
 
 ## Beispiel für eine PATH-Datei
 
-
-
 ```
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Preferences>
@@ -22,8 +20,6 @@ In diesen Dateien werden die Pfade für bestimmte Optionsdateien festgelegt. daV
 </Preferences>
 ```
 
-> #### primary::Hinweis
->
 > Bitte beachten Sie, dass anders als bei MAGELLAN, der Verweispfad jeweils mit dem Dateinamen enden muss.
 
 
@@ -36,8 +32,6 @@ daVinciDataFolder	|daVinciLookDataFolder
 daVinciCommonDataFolder	|daVinciLookCommonDataFolder
 
 
-> #### primary::Hinweis
->
 > Die vollständige Pfadangabe zur aktuell verwendeten PATHS-Datei können Sie dem Eintrag „daVinciCustomPathsFile“ im Fenster `Hilfe > System-Informationen` entnehmen.
 
 Die PATH-Datei kann die Pfadangaben für folgende Dateien festlegen:
@@ -52,8 +46,6 @@ daVinciPrintFormatFile|daVinci.pfm|Druckformate
 daVinciConfigurationFile|daVinci.cfg|Aktuelle Login-Daten
 daVinciSiteFile	|daVinci.site|Standortdaten (Schulname, Adresse, etc.)
 daVinciServerListFile|daVinci.servers|Serververbindung und Startdatei
-
-
 
 **daVinciLook.paths**
 

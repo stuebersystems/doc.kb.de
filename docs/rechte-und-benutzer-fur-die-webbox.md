@@ -30,12 +30,10 @@ Die Vergabe der Benutzernamen kann auch alternativ durch DAVINCI automatisch erf
 
 * Wählen Sie dann die rechte Maustaste und dort den Menüpunkt `Benutzernamen vorbesetzen` und bestätigen Sie die Sicherheitsabfrage mit `OK`.
 
-![Benutzer generieren](images/infoserver/benutzer_generieren.jpg)
+![Benutzer generieren](/assets/images/infoserver/benutzer_generieren.jpg)
 
 * Die zuvor markierten Lehrer erhalten jetzt das Lehrerkürzel als Benutzername.
 
-> #### danger::Achtung!
->
 > Bitte beachten Sie, dass Benutzernamen keine Umlaute enthalten dürfen. Wenn Sie die Kürzel der Lehrer als Benutzer für die Anmeldung an der Webbox verwenden möchten, muss bitte für den Benutzernamen aus "Müller" "Mueller" werden.
 
 Analog zu den Lehrern können Sie in den Stammdaten der Klassen bzw. Schüler auch die Spalte `Benutzername` füllen.
@@ -53,13 +51,12 @@ Für jeden in der DAVINCI-Plandatei zuvor definierten Benutzernamen muss nun im 
 Dazu können Sie die aus DAVINCI exportierten Benutzerdaten importieren oder Benutzer manuell anlegen.  
 Passworte für die Benutzer können Sie einzeln vergeben oder für mehrere Benutzer automatisch erzeugen lassen. Markieren Sie dazu die Benutzer in der Übersicht und wählen dann in der Menüleiste den Punkt `Kennungen erzeugen` aus.
 
-![Kennungen erzeugen](images/infoserver/Kennungen_erzeugen.jpg)
+![Kennungen erzeugen](/assets/images/infoserver/Kennungen_erzeugen.jpg)
 
 
 Um die automatischen Kennwörter den Nutzern mitzuteilen finden Sie die Option `Exportieren` in der Menüleiste. Es wird eine Textdatei erzeugt, die die persönlichen Zugangsdaten enthält.
 
-![Kennungen exportieren](images/infoserver/Kennungen_exportieren.jpg)
-
+![Kennungen exportieren](/assets/images/infoserver/Kennungen_exportieren.jpg)
 
 
 Weitere Information hierzu finden Sie in dem Abschnitt [Benutzerverwaltung](https://doc.davinci6.stueber.de/davinci-explorer/#benutzer-im-davinci-explorer-verwalten) des DAVINCI-EXPLORERS.
@@ -89,7 +86,7 @@ Erzeugen Sie im DAVINCi-EXPLORER auf der Unterkarte `Benutzergruppen`über die S
 
 Wählen Sie auf der Unterkarte `Plandateien` die Plandatei aus, auf die die Benutzer zugreifen sollen und klicken dann auf die Schaltfläche  `Richtlinien` in der Menüleiste. Auf der Unterkarte `Benutzer` fügen Sie Ihren "Webuser" hinzu, auf der Unterkarte `Benutzergruppen` fügen Sie Ihre angelegten Benutzergruppen hinzu.
 
-![Benutzer zuordnen](images/infoserver/Benutzer_zuordnen.jpg)
+![Benutzer zuordnen](/assets/images/infoserver/Benutzer_zuordnen.jpg)
 
 !!! info "Hinweis"
 
@@ -99,7 +96,7 @@ Wählen Sie auf der Unterkarte `Plandateien` die Plandatei aus, auf die die Benu
 
 Im DAVINCI-EXPLORER können Sie für den "Webuser" und die  Benutzergruppen unter den "Richtlinien für DAVINCI INFOSERVER”  bestimmen, welche Rechte der Benutzer für die betreffende Plandatei erhalten soll.
 
-![Richtlinien Infoserver](images/infoserver/richtlinien_infoserver.jpg)
+![Richtlinien Infoserver](/assets/images/infoserver/richtlinien_infoserver.jpg)
 
 ### Daten exportieren
 
@@ -173,15 +170,14 @@ In Abhängigkeit von den Rechten, die im DAVINCI-EXPLORER eingestellt worden sin
     Wenn Sie für den Webuser unter "Stundenpläne anzeigen" den Wert "Nicht erlaubt" wählen, verwenden Sie bitte den Parameter "account=private" in Ihrer URL, damit nicht die Fehlermeldung "901: Forbidden (error)" gezeigt wird.
 
 
-
 ```
 http://Ihr Server/davinci-timetable.html?**account=private**
 ```
 
-![Start der WEBBOX ohne den Parameter account=private](images/infoserver/wb.ohne.parameter.png)
+![Start der WEBBOX ohne den Parameter account=private](/assets/images/infoserver/wb.ohne.parameter.png)
 
 
-![Start der WEBBOX mit dem Parameter account=private](images/infoserver/wb.mit.parameter.png)
+![Start der WEBBOX mit dem Parameter account=private](/assets/images/infoserver/wb.mit.parameter.png)
 
 ## Kollegen und Schulleitung
 

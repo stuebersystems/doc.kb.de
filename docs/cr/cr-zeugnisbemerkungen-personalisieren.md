@@ -44,7 +44,7 @@ Platzhalter     | füllt das Feld in CR mit folgendem Wert
 
 Zuerst müssen Sie bitte die Tabelle „Schüler“ mit der Tabelle „SchuelerZeugnisbemerkungen“ oder „SchuelerABIZeugnisbemerkungen“  verknüpfen – die Verknüpfungsoption muss `Linke äußere Verknüpfung` sein – siehe Abbildung:
 
-![Der Datenbank-Assistent in Crystal Reports](../images/cr-schuelerzeugnisbemerkungen.jpg)
+![Der Datenbank-Assistent in Crystal Reports](/assets/images/cr-schuelerzeugnisbemerkungen.jpg)
 
  
 Nun müssen Sie das Feld „SchuelerZeugnisbemerkungen.Bemerkung“ oder „SchuelerABIZeugnisbemerkungen.Bemerkung“ durch folgende Formel ersetzen:

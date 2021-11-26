@@ -10,5 +10,5 @@ Generell empfiehlt es sich diese Option auszuführen wenn:
 * Es werden doppelte Änderungselemente gelöscht, die durch Fehler entstanden sind.
 * Es werden durch Fehler entstandene Inkonsistenzen, z.B. fehlende Attribute (z.B. Attribut „Änderung fällt aus" setzen, weil Entfallgrund zwar vorhanden ist, aber dieser zwingend zugehörige Attributwert  nicht gesetzt ist, ergänzt soweit möglich, um einen konsistenten Zustand zu erreichen. 
 
-![Plandatei aufräumen ](../images/sonstiges/sonst_aufraeumen01.png)
+![Plandatei aufräumen ](/assets/images/sonstiges/sonst_aufraeumen01.png)
 

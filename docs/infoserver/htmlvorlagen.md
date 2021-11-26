@@ -10,7 +10,7 @@
 >
 > Der DAVINCI-Server übergibt dem Infoserver die Daten. Wie diese Daten aufbereitet sein sollen, entscheidet man mit der Auswahl der HTML-Vorlagen. Dabei gibt es Vorlagen mit "local" oder mit "main" im Dateinamen. Diese Bezeichnung unterscheidet von welcher Stelle weitere Informationen für die Anzeige abgeholt werden.
  
-![DAVINCI > Publizieren > HTML-Pläne exportieren > HTML-Exportformate](../images/html_plaene_exportieren.png)
+![DAVINCI > Publizieren > HTML-Pläne exportieren > HTML-Exportformate](/assets/images/html_plaene_exportieren.png)
 
 
 Folgende Dateien sind für die Ausgaben des Infoservers gedacht:

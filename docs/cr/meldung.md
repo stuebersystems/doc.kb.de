@@ -4,7 +4,7 @@ Problem:
 
 Auf einem Rechner  wird in der MAGELLAN-Berichtsvorschau die folgende Meldung gezeigt:
 
-![Fehlermeldung](/images/cr/17.png)
+![Fehlermeldung](/assets/images/cr/17.png)
 
 Ursache:
 

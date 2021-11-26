@@ -9,7 +9,7 @@ Jede Ihrer Klassen existiert nur zwei Halbjahre lang und anschließend wird eine
 
 Bitte legen Sie unter `Verzeichnisse > Zeiträume` ein neues Schuljahr an. Dazu verwenden Sie die Schaltfläche `Schuljahre anlegen`.
 
-![Schaltfläche zum Anlegen eines neuen Schuljahres](../images/dialog-zeitraeumeverz-neu.png)
+![Schaltfläche zum Anlegen eines neuen Schuljahres](/assets/images/dialog-zeitraeumeverz-neu.png)
 
 ### Klassen
 

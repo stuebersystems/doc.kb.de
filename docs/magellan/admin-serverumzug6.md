@@ -116,7 +116,7 @@ Alle zu finden unter:
 
 Mit dem neuen Server müssten sich auch die Zugriffsinformationen von den Clients auf den Server ändern. Öffnen Sie nach erfolgter Übernahme von einem Client aus den MAGELLAN-Administrator ohne Anmeldung.
 
-![Wählen Sie im Feld `Datenbank`den Wert `Keine Anmeldung`.](../images/admin.ohne.anmeldung.png)
+![Wählen Sie im Feld `Datenbank`den Wert `Keine Anmeldung`.](/assets/images/admin.ohne.anmeldung.png)
 
 Wechseln auf `Server-Verwaltung > Verbindungen verwalten > Starten > markieren Ihre Verbindung` und passen auf den Karten `Datenbank` und `Datenordner` die Pfadinformationen an.
 
@@ -132,4 +132,4 @@ Diese Einstellungen müssten jetzt auf jedem weiteren MAGELLAN-Client vorgenomme
 
 Eine Anleitung dafür finden Sie im Abschnitt [Die Pathsdatei](https://doc.magellan6.stueber.de/installation/die-pathsdatei.html).
 
-![Sichern Sie diese drei Dateien](../images/pathsdateien.png)
+![Sichern Sie diese drei Dateien](/assets/images/pathsdateien.png)

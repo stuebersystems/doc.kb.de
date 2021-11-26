@@ -4,7 +4,7 @@ Nachstehend die Empfehlungen für **Klassenberichte** und einen **Zeugnisse und 
 
 ## Zeugnisse und Schülerberichte
 
-![Beispiel für ein Zeugnis](/images/cr/05.png)
+![Beispiel für ein Zeugnis](/assets/images/cr/05.png)
 
 Tabelle|Tabelle|anschließende Tabellen
 --|--|--
@@ -19,7 +19,7 @@ Tabelle|Tabelle|anschließende Tabellen
 
 ## Klassenberichte
 
-![Beispiel für einen Klassenbericht](/images/cr/08.png)
+![Beispiel für einen Klassenbericht](/assets/images/cr/08.png)
 
 Tabelle|Tabelle|anschließende Tabellen
 :--|:--|:--

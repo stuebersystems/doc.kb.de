@@ -4,7 +4,7 @@
 Auf der rechten Seite finden Sie unter `Design` die beiden Punkte `Eigene CSS` und `Eigenes Javaskript`.
 Kopieren Sie den den Inhalt Ihrer angepassten CSS-Datei und fügen ihn unter `Eigene CSS` ein.
 
-![Tragen Sie Ihre Änderungen unter Design in den Bereichen `Eigene CSS` und `Eigenes Javaskript` ein!](../images/infoserver/showt01.png)
+![Tragen Sie Ihre Änderungen unter Design in den Bereichen `Eigene CSS` und `Eigenes Javaskript` ein!](/assets/images/infoserver/showt01.png)
 
 Damit der Inhalt Ihrer CSS-Datei gelesen und geladen wird, kopieren Sie anschließend den nachfolgenden Text und fügen ihn unter `Eigenes Javaskript` ein.
 
@@ -25,4 +25,4 @@ davinciElement.one("sht_element_destroy", onElementDestroy);
 
 Starten Sie anschließend die Vorschau, Ihre Anpassungen sind nun auch in SHOWTIME sichtbar.
 
-![Die grün gefärbte Leiste ergibt sich durch die Angaben unter `Eigene CSS` und `Eigenes Javaskript`!](../images/infoserver/showt02.png)
+![Die grün gefärbte Leiste ergibt sich durch die Angaben unter `Eigene CSS` und `Eigenes Javaskript`!](/assets/images/infoserver/showt02.png)

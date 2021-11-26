@@ -4,7 +4,7 @@
 
 Die Spalte „Schiene“ in der Veranstaltungsliste zeigt die Zeitschiene an, auf der eine Veranstaltung angesiedelt ist. Standardmäßig ist hier die Zeitschiene **A** hinterlegt. Darüber hinaus stehen die Zeitschienen **B**,** C, D, E**, **X** sowie **Y** zur Verfügung. Durch die Platzierung von Veranstaltungen auf unterschiedliche Zeitschienen können Sie der Setzautomatik differenzierte Vorgaben machen, welche Veranstaltungen sich im Plan überschneiden dürfen und welche nicht.
 
-![Veranstaltungsliste, Auswahl f. Zeitschienen](../images/Zeitschienen01.png)
+![Veranstaltungsliste, Auswahl f. Zeitschienen](/assets/images/Zeitschienen01.png)
 
 Dabei gelten folgende Regeln:
 

@@ -30,8 +30,6 @@ Parameter:
 | 2.  | /Keyword=Passwort           |
 | 3.  | /Connection=Datenbank-Alias |
 
-> #### warning::Wichtig!
->
 > Jegliche weitere Silent-Mode Funktion hängt von diesen Parametern ab. Das bedeutet diese Parameter sind Pflichtangaben für alle weiteren Silent-Mode Aufgaben.
 Die Parameter der Datenbank-Anmeldung sind die einzigen Parameter die mit anderen Silent-Mode Funktionen kombinierbar sind.
 
@@ -68,8 +66,6 @@ C:\Programme\Stüber Systems\MagAdmin.exe /Login=SYSDBA
 /Connection=Magellan /Import=“C:\Import\schueler.import.csv“ /Mandant=1
 ```
 
-> #### warning::Wichtig!
->
 > Achten Sie bitte darauf, dass in Windows ein parametrisierter Aufruf nicht länger als 260 Zeichen sein darf.
 
 ## Installation per Silent-Setup-Parameter

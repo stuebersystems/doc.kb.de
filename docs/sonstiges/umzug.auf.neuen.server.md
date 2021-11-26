@@ -2,8 +2,6 @@
 
 Für den Fall, dass Sie einen neuen Serverrechner anschaffen, finden Sie nachstehend eine Übersicht, der notwendigen Schritte.
 
-> #### warning::Wichtig!
->
 > Bitte aktualisieren Sie vorab auch bitte den alten DAVINCI auf die Version, mit der Sie Ihren neuen Server bespielen. Damit stellen Sie sicher, dass Daten, die übertragen werden gleich aktuell sind. 
 
 ## Installation des neuen Servers
@@ -24,8 +22,6 @@ Wenn Sie nur den DAVINCI SERVER einrichten möchten, ist keine Lizenz auf dem Se
 
 ## Übernahme von Daten des alten Servers
 
-> #### warning::Wichtig!
->
 > Bevor Sie Daten auf den neuen Server übertragen, vergewissern Sie sich bitte, dass der "alte" DAVINCI SERVER-Dienst gestoppt wurde! Den Dienst können Sie unter `Systemsteuerung (klassische Ansicht) > DAVINCI Server Control > Unterkarte Dienst` stoppen.
 
 ### Verzeichnis Arbeitsbereich
@@ -33,7 +29,6 @@ Wenn Sie nur den DAVINCI SERVER einrichten möchten, ist keine Lizenz auf dem Se
 Speicherort: `C:\Users\Public\Documents\Stueber Systems\daVinci 6\Arbeitsbereich`
 
 Der Arbeitsbereich enthält die vom DAVINCI SERVER verwalteten Plandateien, mitunter Backup-Dateien und die DAVINCI.users-Datei, die die Benutzerverwaltung und die Plandateienstruktur des DAVINCI EXPLORERs.
- 
 
 Sollten Sie sich nicht sicher sein, an welcher Stelle sich Ihr Arbeitsbereichverzeichnis befindet, können Sie in dem Control (`Systemsteuerung (klassische Ansicht) > DAVINCI Server Control > Unterkarte Dienst`) auch auf der Unterkarte `Arbeitsbereich`nachsehen.
 
@@ -51,7 +46,6 @@ Speicherorte:
 An den vorgenannten Speicherorten können sich verschiedene Unterverzeichnisse befinden. War auf dem alten Server auch eine DAVINCI Clientinstallation oder eine DAVINCI LOOK, gibt es deutlich mehr Verzeichnisse.
 Übertragen Sie diese Verzeichnisse bitte anstelle der gleichnamigen Verzeichnisse an die identischen Stellen auf dem neuen Server.
 
-
 ### Daten für den DAVINCI INFOSERVER 
 
 Speicherort:
@@ -60,7 +54,6 @@ Speicherort:
 
 
 Wenn Ihr bisheriger Server auf für die Webpublikation per Webserver und DAVINCI INFOSERVER verwendet wurde, denken Sie bitte daran zusätzlich noch diese Daten zu sichern. Wenn Sie keine eigenen Anpassungen an den Vorlagen vorgenommen haben, können Sie aber auch problemlos neue WEBBOX-Dateien auf dem neuen Server ablegen. Ein aktelles zip-Archiv mit den WEBBOX-Dateien finden Sie auf der Webseite [https://davinci-webbox.stueber.de/](https://davinci-webbox.stueber.de/).
-
 
 ## Anpassungen für die DAVINCI Clients
 

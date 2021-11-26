@@ -55,26 +55,24 @@ nav:
 - Überblick: index.md
 - MAGELLAN:
   - Installation:
-    - Erste Schritte in MAGELLAN: magellan/erste-schritte-in-magellan.md
-    - Installationsprobleme unter Citrix: magellan/citrixinstallation.md
-    - Introduction: README.md
-    - MAGELLAN und Linux: magellan/admin.linux.md
+    - Erste Schritte: magellan/erste-schritte-in-magellan.md
+    - Citrix: magellan/citrixinstallation.md
+    - Linux: magellan/admin.linux.md
     - Pathsdatei: magellan/pathsdatei.md
-    - Server Voraussetzungen (Hardware): magellan/system-requirements.md
-    - Sicherung der DB per Taskplaner: magellan/admin_sicherung.taskplaner.md
-    - V6-Neuen Serverrechner: magellan/admin-serverumzug6.md
-    - V7-Neuen Serverrechner: magellan/admin-serverumzug7.md
-    - Zwei Schuldatenbanken auf einem Server: magellan/2_db_ein_server.md
+    - Voraussetzungen (Hardware): magellan/system-requirements.md
+    - Sicherung per Taskplaner: magellan/admin_sicherung.taskplaner.md
+    - V6 Neuer Serverrechner: magellan/admin-serverumzug6.md
+    - V7 Neuer Serverrechner: magellan/admin-serverumzug7.md
+    - Zwei Datenbanken auf einem Server: magellan/2_db_ein_server.md
   - Schulverwaltung:
     - ABS Neues Halbjahr, neues Schuljahr: magellan/neues-halbjahr-neues-schuljahr.md
     - BBS Neues Halbjahr, neues Schuljahr: magellan/bbs-neues-halbjahr-neues-schuljahr-was-ist-zu-tun.md
     - CSV-Dateien mit Texttrennzeichen speichern: magellan/import-csvdateien.md
     - Fachlehrer den Schülerfachdaten zuweisen: magellan/mag_lehrer_nachtraeglich_zuweisen.md
     - Fachwahlkarte: magellan/fachwahl.md
-    - Gemeindekennziffern nachträglich setzen: magellan/import-gemeindekennziffern_nachsetzen.md
     - Jahrgangsübergreifende Klassen: magellan/jahrgangsubergreifende-klassen-in-magellan.md
-    - MAGELLAN und DAVINCI "Fächer abgleichen": magellan/abgleich.stammdaten.md
-    - MAGELLAN und Untis: magellan/import_mag.untis.md
+    - Fächer abgleichen mit daVinci: magellan/abgleich.stammdaten.md
+    - Abgleich mit Untis: magellan/import_mag.untis.md
     - PDF-Skalierung aus CR: magellan/skalierung.cr.md
     - PLZ und Gemeinden aktualisieren: magellan/plz.aktualisieren.md
     - Positionen für den Zeugnisdruck nachträglich zuweisen: magellan/mag_positionen_nachpflegen.md
@@ -86,12 +84,12 @@ nav:
     - Mapi-Fehlermeldung: magellan/mapi.md
     - Welcher Maiclient wird aufgerufen: sonstiges/mapi2.md
   - Druck, Seriendruck:
-    - Meldung "Makrospeicher konnte nicht geöffnet werden": magellan/makrospeicher.md
+    - Makrospeicher konnte nicht geöffnet werden: magellan/makrospeicher.md
     - Umlaute in der Druckvorschau: magellan/umlaute_druck.md
     - Word stellt Umlaute nicht korrekt dar: magellan/umlaute.md
   - Bibliothek:
-    - Optimale Hardware: bib/Bib_Hardware.md)
-    - OPAC Unterstützung: bib/bib.opac.md)
+    - Optimale Hardware: bib/Bib_Hardware.md
+    - OPAC Unterstützung: bib/bib.opac.md
 - Crystal Reports:
   - Allgemein:
     - Barcodes: cr/barcode.md
@@ -120,7 +118,6 @@ nav:
     - Schuljahreswechsel: sonstiges/schuljahreswechsel.md
     - Plandatei aufräumen: sonstiges/plandatei.aufraeumen.md
     - Pathsdatei: sonstiges/pathsdatei.md
-  - Mit MAGELLAN Fächer abgleichen: sonstiges/abgleich.dav.mag.md  
   - Infoserver:
     - Eigene CSS-Datei für CONFIRE SHOWTIME-Vertretungsapp: infoserver/css.showtime.md
     - Einrichtung: infoserver/einrichtung.md
@@ -136,21 +133,26 @@ nav:
     - Google-Token löschen: kalender/google.token.loeschen.md
   - Stundenplan:
     - Berechnungskonzepte in daVinci: stundenplan/berechnungskonzepte.md
+    - Verrechnungsarten: stundenplan\verrechnungsarten.md
     - Korrespondierende Pläne: stundenplan/korrespond.planfenster.md
     - Lehrer-Zeitkonten: stundenplan/lehrer-zeitkonten.md
-    - Raumverplanung: stundenplan/raumverplanung.md
     - Sortierung Stammdatenfenster: stundenplan/sort.stammdaten.md
     - Stammdaten importieren: stundenplan/stammdaten-importieren.md
     - Welcher Maiclient wird aufgerufen: sonstiges/mapi2.md
     - Zeitschienen in DAVINCI: stundenplan/zeitschienen-in-davinci.md
+  - Vertretungsplan:
+    - Veröffentlichung: veroeffentlichung\veroeffentlichung.md
   - Explorer:
     - Plandateienstruktur und Rechtevergabe: explorer/plandateienstruktur.im.explorer.md
   - Look:
     - Automatischer Start voreingestellten Ansicht: look/autostart.md
+  - Statistik:
+    - WinLD und ASV: statistik\winld_asv.md
 - ENBREA:
     - Welche Daten benötigen wir?: enbrea/daten.md
 - Support:
     - Skripteditor ausführen: support/skripteditor.md
     - Ticketaccount anlegen: support/ticket_anlegen.md
+    - Ticket anlegen: support/ticketsystem.md
 
   

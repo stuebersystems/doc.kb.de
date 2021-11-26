@@ -26,8 +26,7 @@ Der Faktor 0,5 ergibt sich, falls bei der "Veranstaltung > Zeitdetails" die Opti
   * aus dem Quotienten aus Anzahl der Unterrichtswochen dieser Veranstaltung und dem Wochenfaktor (siehe "Plan > Einstellungen > Statistik > Wochenfaktor").
       Unterrichtswochen sind dabei die rechnerischen Wochen, die bei "Wochenbezogene Summen" unter "Plan > Einstellungen > Statistik" markiert wurden.	  
 
-> #### info::Tipp
->
+
 > Problematisch wird es bei dieser Verrechnungsart, wenn auch einmalige Termine verrechnet werden sollen. Bei der Unterrichtsplanung sind beispielsweise zusätzlich 10 Tage "Praxis" geplant.
 Solange nicht klar ist, ob die 10 Termine über zwei oder mehrere Wochen verteilt stattfinden, kann kein Wochenmittel bestimmt werden. In diesem Fall muss auf "Automatisch berechnen" des Faktors verzichtet werden und stattdessen der entsprechende Faktor manuell eingegeben werden, z.B. 2/40 = 0,5 (falls Wochenfaktor = 40, siehe "Plan > Einstellungen > Statistik > Wochenfaktor").
 

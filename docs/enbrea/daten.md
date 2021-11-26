@@ -15,7 +15,7 @@ Senden Sie uns bitte eine **Sicherungskopie** (*.fbk) Ihrer MAGELLAN Datenbank, 
 Version|Vorgehen
 --|--
 **6**|Eine Sicherungskopie können Sie über den MAGELLAN -Administrator erstellen. Melden Sie sich bitte als sysdba (klappt aber auch ohne Anmeldung am Modul, Sie tragen die Anmeldung später beim Sichern ein) an und öffnen die Ansicht "Datensicherung". Tragen Sie die Anmeldungsdaten (sysdba und Passwort) ein und wählen einen Speicherort auf dem Serverrechner, der Name der Sicherung wird von MAGELLAN selbst vergeben.
-**7**|Eine Sicherungskopie können Sie über den MAGELLAN -Administrator erstellen. https://doc.magellan7.stueber.de/schulverwaltung/admin/admin.datenbankverbindungen/#datensicherung
+**7**|Eine Sicherungskopie können Sie über den MAGELLAN -Administrator erstellen. https://doc.magellan.stueber.de/schulverwaltung/admin/admin.datenbankverbindungen/#datensicherung
 
 ## DAVINCI Stundenplandatei
 
@@ -49,17 +49,17 @@ Anleitung:
 
 1. Rufen Sie den `Abfrageassistent` auf!
 
-![](/images/enbrea/lusd01.png) 
+![](/assets/images/enbrea/lusd01.png) 
 
 1. Wählen Sie `Datenquelle > Kurse` aus! Klicken Sie auf `Hinzufügen` und vergeben Sie einen Namen für Ihre Abfrage.
 
-![](/images/enbrea/lusd02.png) 
+![](/assets/images/enbrea/lusd02.png) 
  
 2. Fügen Sie Felder für Ihre Abfrage hinzu.
  
-![](/images/enbrea/lusd03.png) 
+![](/assets/images/enbrea/lusd03.png) 
 
 3. Über die Lupe oben rechts im Fenster können Sie alle Schüler der Abfrage hinzufügen (`Auswählen > gewünschte Schulformen > Alle Übernehmen`)
 6. Klicken Sie unten rechts im Fenster auf `Excel` um den Report aufzurufen.
  
-![](/images/enbrea/lusd04.png) 
+![](/assets/images/enbrea/lusd04.png) 

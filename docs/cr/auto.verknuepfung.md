@@ -8,4 +8,4 @@ Dann bitte diese Haken deaktivieren:
 
 `Bericht > Optionen > Datenbank > Automatisch intelligente Verknüpfung`
 
-![Bericht > Optionen > Datenbank](/images/cr/07.png)
+![Bericht > Optionen > Datenbank](/assets/images/cr/07.png)

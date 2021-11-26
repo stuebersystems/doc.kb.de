@@ -8,11 +8,11 @@ Texte müssen für den korrekten Import in Anführungszeichen stehen, bei einige
 
 Aus OpenOffice gehen Sie auf `Datei > Speichern unter > Dateityp CSV` und setzen den Haken für `Filtereinstellungen bearbeiten`.
 
-![Filtereinstellungen bearbeiten bitte anhaken!](../images/csv1.png)
+![Filtereinstellungen bearbeiten bitte anhaken!](/assets/images/csv1.png)
 
 Klicken Sie auf `Speichern`! Sollte die Nachfrage erscheinen, ob das Format beibehalten werden soll, bestätigen Sie es bitte.
 
-![Aktuelles Format beibehalten!](../images/csv2.png)
+![Aktuelles Format beibehalten!](/assets/images/csv2.png)
 
 Anschließend erscheint folgendes Fenster, hier stellen Sie Folgendes ein:
 * als `Feldtrenner` Semikolon ein
@@ -21,7 +21,7 @@ Anschließend erscheint folgendes Fenster, hier stellen Sie Folgendes ein:
 
 Bestätigen mit OK. Fertig!
 
-![Wählen Sie Feld- und Texttrenner!](../images/csv3.png)
+![Wählen Sie Feld- und Texttrenner!](/assets/images/csv3.png)
 
 ## Dateiformat umstellen
 

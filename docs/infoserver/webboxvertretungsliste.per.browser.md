@@ -21,13 +21,13 @@ Für die Anzeige im Browser muss folgendes vorbereitet werden:
 Wir empfehlen Ihnen einen Benutzer anzulegen, der nur für die Anzeige der Vertretungslisten im Browser verwendet wird. 
 Melden Sie sich bitte mit Administrationsrechten am DAVINCI EXPLORER an und legen einen neuen Benutzer (ohne Administrationsrechte) an.
  
-![Legen Sie einen neuen Benutzer an](../images/infoserver/infoserver.10.png)
+![Legen Sie einen neuen Benutzer an](/assets/images/infoserver/infoserver.10.png)
 
 ## Benutzer dem Arbeitsbereich zuordnen und Richtlinien definieren
 
 Ordnen Sie diesen Benutzer bitte auf der Karte `Plandateien` dem Arbeitsbereich zu und vergeben bitte die Richtlinien für den INFOSERVER entsprechend Ihrer Vorstellungen. Für die Anzeige des Vertretungsplans empfehlen wir folgende Angaben:
 
-![Ordnen Sie den Benutzer dem Arbeitsbereich zu und vergeben die Richtlinien](../images/infoserver/infoserver.11.png)
+![Ordnen Sie den Benutzer dem Arbeitsbereich zu und vergeben die Richtlinien](/assets/images/infoserver/infoserver.11.png)
 
 > #### primary::Hinweis
 >

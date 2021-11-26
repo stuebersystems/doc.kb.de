@@ -1,9 +1,9 @@
 # Schülerfächern den unterrichtenden Lehrer zuweisen
 
-[1]:/images/Magellan/07.png
-[2]:/images/Magellan/08.png
-[3]:/images/Magellan/09.png
-[4]:/images/Magellan/10.png
+[1]:/assets/images/Magellan/07.png
+[2]:/assets/images/Magellan/08.png
+[3]:/assets/images/Magellan/09.png
+[4]:/assets/images/Magellan/10.png
 
 Den unterrichtenden Lehrer je belegtem Schülerfach (`Schüler > Zeugnis > Fächer`) benötigt man beispielsweise um Kurslisten mit der Angabe des Lehrers zu drucken oder um lehrerbezogene MyMAGELLAN-Dateien erstellen zu können.
 
@@ -40,8 +40,7 @@ Eine Mathezeile für einen Grundkurs, eine Mathezeile für den Leistungskurs mit
 
 [![Fachtafeleinträge][1]][1]
 
-> #### primary::Hinweis
->  
+
 > Diese Fachtafel kann dann jedes Jahr nur hinsichtlich der unterrichtenden Lehrer angepasst und wiederverwendet werden.
 
 **Zweiter Schritt:**

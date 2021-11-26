@@ -1,7 +1,7 @@
 # Serienmails: Mapi-Fehler
 
-[1]:/images/Magellan/11.png
-[2]:/images/Magellan/12.png
+[1]:/assets/images/Magellan/11.png
+[2]:/assets/images/Magellan/12.png
 
 Es liegt nicht an MAGELLAN direkt, sondern an einer falschen Konfiguration der MAPI-Schnittstelle von Microsoft:
 

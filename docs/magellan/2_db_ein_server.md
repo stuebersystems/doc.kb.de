@@ -17,7 +17,7 @@ Wenn beide Schulverwaltungsdatenbanken (MAGELLAN7.fdb) übertragen wurde, melden
 
 ### sysdba
 
-# Der sysdba gilt als Administrator über alle Datenbanken auf dem Server, also in Ihrem Fall jetzt für beide Schulen, das Passwort sollten Sie ändern (`MAGELLAN Administrator > Benutzerverwaltung > Administratoren`) und den Schulen nicht mehr zur Verfügung stellen.
+Der sysdba gilt als Administrator über alle Datenbanken auf dem Server, also in Ihrem Fall jetzt für beide Schulen, das Passwort sollten Sie ändern (`MAGELLAN Administrator > Benutzerverwaltung > Administratoren`) und den Schulen nicht mehr zur Verfügung stellen.
 
 ### dbadmin
 

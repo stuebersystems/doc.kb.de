@@ -6,4 +6,4 @@ Eine mögliche Ursache kann folgender Punkt sein:
 
 CR optimiert vor dem Aufruf des Berichtes selbständig (und nicht unterdrückbar) die Abfrage. Gerade bei sehr einfachen Berichten kann das eigenständige Optimieren zu merkwürdigen Nebeneffekten führen. Was hilft, ist ein Feld (wir verwenden das Feld`Benutzer` aus der verwendeten Auswahltabelle) im oberen Bereich des Berichtes einzufügen und dann zu unterdrücken.
 
-![Feld einfügen und ausblenden](/images/cr/06.png)
+![Feld einfügen und ausblenden](/assets/images/cr/06.png)

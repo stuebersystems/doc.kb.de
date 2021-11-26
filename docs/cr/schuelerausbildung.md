@@ -8,6 +8,5 @@ Sollte Ihnen der Feldexplorer in Crystal Reports noch das Feld `Ausbilder` zeige
 
 Bitte entfernen Sie die Tabelle aus Ihrem Bericht, fügen sie wieder neu ein und setzen die Verknüpfungen wieder wie zuvor.
 
-
 Die Datenstrukturbeschreibung für MAGELLAN 6 finden Sie unter [https://doc.magellan6-ds.stueber.de/](https://doc.magellan6-ds.stueber.de/)
-Die Datenstrukturbeschreibung für MAGELLAN 7 finden Sie unter [https://doc.magellan7-toolbox.stueber.de/datenstruktur/](https://doc.magellan7-toolbox.stueber.de/datenstruktur/).
+Die Datenstrukturbeschreibung für MAGELLAN finden Sie unter [https://doc.magellan-toolbox.stueber.de/datenstruktur/](https://doc.magellan-toolbox.stueber.de/datenstruktur/).
