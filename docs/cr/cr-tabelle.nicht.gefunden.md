@@ -2,11 +2,12 @@
 
 Gibt Ihr Bericht beim Aufrufen in MAGELLAN die Meldung "Tabelle '' konnte nicht gefunden werden" aus, wenn Sie nicht als SYSDBA angemeldet sind? 
 
-> Wenn dieser Bericht einer unserer Originalberichte (bitte nennen Sie uns den genauen Dateinamen) ist, [lassen Sie es uns bitte wissen](http://support.stueber.de), wir korrigieren es.
+!!! warning "Wichtig!"
 
-Ist es Ihr selbst erstellter oder ein von Ihnen angepasster Bericht, starten Sie den Bericht bitte mit Crystal Reports und öffnen bitte den Punkt `Datei > Berichtsoptionen`. 
-Hier darf das Häkchen für `Beim ersten Regenerieren überprüfen` nicht gesetzt sein. Wichtig ist, dass Sie diese Option für den Hauptbericht und für alle Unterberichte überprüfen.
- 
+    Wenn dieser Bericht einer unserer Originalberichte (bitte nennen Sie uns den genauen Dateinamen) ist, [lassen Sie es uns bitte wissen](http://support.stueber.de), wir korrigieren es.
 
+Ist es Ihr selbst erstellter oder ein von Ihnen angepasster Bericht, starten Sie den Bericht bitte mit Crystal Reports und öffnen bitte den Punkt `Datei > Berichtsoptionen`.
+
+Hier darf das Häkchen für `Beim ersten Regenerieren überprüfen` nicht gesetzt sein. Wichtig ist, dass Sie `diese Option für den Hauptbericht und für alle Unterberichte überprüfen`.
 
 ![Dieses Häkchen darf für weder für den Bericht, noch für einen Unterbericht gewählt sein ](/assets/images/cr.beim.ersten.regenerieren.png)

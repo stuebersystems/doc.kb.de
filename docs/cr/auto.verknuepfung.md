@@ -2,7 +2,7 @@
 
 Man fügt neue Tabellen hinzu und die neuen Tabellen sind automatisch verknüpft, beim Speichern erscheint die Meldung:
 
-Datenbank-Connector-Fehler: Bei Tabellen, die bereits verknüpft sind, kann der Join-Typ nicht geändert werden."
+`Datenbank-Connector-Fehler: Bei Tabellen, die bereits verknüpft sind, kann der Join-Typ nicht geändert werden.`
 
 Dann bitte diese Haken deaktivieren: 
 

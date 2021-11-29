@@ -1,6 +1,6 @@
 # ODBC-Anbindung unter Windows 64 bit
 
-Mit der Installation von MAGELLAN wird für 32 Bit Betriebssysteme bereits eine ODBC-Anbindung eingerichtet, die Sie für den Zugriff des Reportgenerators Crystal Reports auf die MAGELLAN-Datenbank verwenden können. Für 64 Bit Betriebssysteme kann es sein, dass diese Anbindung manuell eingerichtet werden muss. 
+Mit der Installation von MAGELLAN wird für 32 Bit Betriebssysteme bereits eine ODBC-Anbindung eingerichtet, die Sie für den Zugriff des Reportgenerators Crystal Reports auf die MAGELLAN-Datenbank verwenden können. Für 64 Bit Betriebssysteme kann es sein, dass diese Anbindung manuell eingerichtet werden muss.
 
 Bitte führen Sie folgende Schritte aus:
 

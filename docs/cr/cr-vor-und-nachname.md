@@ -39,6 +39,3 @@ end if
 ' Abschließend am bisherigen Ergebnis Nachnamen anhängen
 formula = formula + " " + {Schueler.Nachname}
 ```
-
-
-

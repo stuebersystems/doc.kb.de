@@ -24,7 +24,7 @@ Für MAGELLAN BIBLIOTHEK benötigen Sie kein spezielles Gerät. Unsere Erfahrung
 
 ## Etiketten-Drucker und hochwertige Etiketten
 
-Beim Druck von Medien-Etiketten und Ausleiherausweisen liegen die Hauptqualitätsmerkmale auf der Haltbar-keit, der guten Lesbarkeit und der Dokumentenechtheit der Ausdrucke, auch nach ständigem und langem Gebrauch durch Ausleihvorgänge.
+Beim Druck von Medien-Etiketten und Ausleiherausweisen liegen die Hauptqualitätsmerkmale auf der Haltbarkeit, der guten Lesbarkeit und der Dokumentenechtheit der Ausdrucke, auch nach ständigem und langem Gebrauch durch Ausleihvorgänge.
 Diese Qualität bieten übliche Tintenstrahldrucker oder Laserdrucker nicht. Auch der Bondrucker oder die einfachen Thermodrucker für Etiketten reichen für den besonderen Anspruch der Dokumentenechtheit nicht aus.
 Hierfür benötigen Sie einen Thermotransferdrucker in Kombination mit entsprechenden Farbbändern und hochwertigen Etiketten.
 
