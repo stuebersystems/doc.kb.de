@@ -9,7 +9,7 @@ Man kann diese Zeugnisbemerkungen über Platzhalter auch personalisieren, die Um
 ## Beispiel
 
 `<<Name>>` hat sich ehrenamtlich engagiert. Wir möchten uns bei `<<ihm_ihr>> ` für die tolle Arbeit bedanken.
-`Hans Herbert von Müller `hat sich ehrenamtlich engagiert. Wir möchten uns bei `ihm `für die tolle Arbeit bedanken.
+`Hans Herbert von Müller `hat sich ehrenamtlich engagiert. Wir möchten uns bei `ihm` für die tolle Arbeit bedanken.
 
 Möglich sind:
 
