@@ -2,6 +2,7 @@
 
 Wir möchten Ihnen in diesem Artikel eine Übersicht bieten, an was alles zu denken ist beim Servertausch, damit die Weiterarbeit möglichst reibungslos erfolgen kann.
 
+`Stand Februar 2022`
 
 ## MAGELLAN und Firebird auf dem neuen Server installieren
 
