@@ -30,9 +30,7 @@ Das ist die Datenbank, in der Ihre gesamten Schulverwaltungsdaten gespeichert si
 | Win10              | C:\Users\Public\Documents\Stueber Systems\Magellan 9\Datenbank\Magellan9.fdb |
 
 
-> #### warning::Wichtig!
->
-> Sollten Sie sich nicht sicher sein, wo genau sich diese Datenbank befindet, können Sie den genauen Pfad auch im Magellan 9 Administratormodul nachsehen. Sie finden den genauen Ablageort unter: `Datenbankverbindungen > Doppelklick auf die Verbindung> Unterpunkt Datenbank`.
+**Sollten Sie sich nicht sicher sein, wo genau sich diese Datenbank befindet, können Sie den genauen Pfad auch im Magellan 9 Administratormodul nachsehen. Sie finden den genauen Ablageort unter: `Datenbankverbindungen > Doppelklick auf die Verbindung> Unterpunkt Datenbank`.**
 
 
 ### security2.fdb
@@ -52,9 +50,7 @@ Bei dieser Aktion werden die beiden Datenbanken, also die security2.fdb (Passwor
 
 Beim Installieren von Firebird auf dem neuen Server wird an der selben Stelle wieder eine security2.fdb angelegt. Sie ersetzen diese durch die gesicherte und führen dann anschließend das "Synchronisieren der Zugriffsrechte aus". Sie finden diesen Punkt unter `MAGELLAN Administrator > Benutzerverwaltung > Start > Zugriffsrechte synchronisieren`.
 
-> #### primary::Hinweis
->
-> Sichern Sie diese Datenbank nicht, kann sich kein Nutzer unter seinen gewohnten Zugangsdaten an der MAGELLAN-Datenbank auf Ihrem neuen Server anmelden!
+**Sichern Sie diese Datenbank nicht, kann sich kein Nutzer unter seinen gewohnten Zugangsdaten an der MAGELLAN-Datenbank auf Ihrem neuen Server anmelden!**
 
 ### Datenordner
 
@@ -101,9 +97,7 @@ Mit dem neuen Server müssten sich auch die Zugriffsinformationen von den Client
 
 Wechseln auf `Server-Verwaltung > Verbindungen verwalten > Starten > markieren Ihre Verbindung` und passen auf den Karten `Datenbank` und `Datenordner` die Pfadinformationen an.
 
-> #### warning::Wichtig!
->
-> Bitte denken Sie daran, das der Pfad aus Sicht des Servers erwartet wird, also bitte dort keinen Netzwerkpfad eingeben.
+**Bitte denken Sie daran, das der Pfad aus Sicht des Servers erwartet wird, also bitte dort keinen Netzwerkpfad eingeben.**
 
 Wenn die Verbindung des ersten Arbeitsplatzrechners fertig angepasst ist, rufen Sie bitte MAGELLAN auf und prüfen, ob Sie die Druckvorschau für einen Bericht sehen können. Weisen Sie zum Test einem Schüler etwas per Sammelzuweisung zu, im Anschluss löschen Sie den Eintrag wieder. Diese beiden Aktionen sollen letztlich nur bestätigen, ob die Pfadangaben korrekt waren. 
 
