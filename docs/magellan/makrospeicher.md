@@ -15,3 +15,7 @@ Um die geschützte Ansicht auszuschalten, nach dem Start des Programms auf `Date
 In der Spalte links nun zum Abschnitt `Geschützte Ansicht` schalten. Auf der rechten Seite lässt sich die geschützte Ansicht einzeln für heruntergeladene Dateien, Dateien in unsicheren Orten und E-Mail-Anlagen ein- oder ausschalten. Änderungen nun durch einen Klick auf `OK` bestätigen.
 
 Eventuell könnten Sie auch im Abschnitt  `Zugriffsschutzeinstellungen` die passenden Dateitypen bei Öffnen demarkieren, falls diese markiert sind.
+
+!!! warning "Wichtig!"    
+
+    Sollten Dateien mit der Endung `*.doc` davon betroffen sein, kann auch das erneute Abspeichern im aktuellen Format `*.docx` mit einer aktuellen Ausgabe von MS Word die Lösung sein.
