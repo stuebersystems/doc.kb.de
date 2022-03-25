@@ -14,7 +14,7 @@ Bitte führen Sie die gewünschten Installation aus, Anleitung dazu finden Sie h
 [DAVINCI](https://doc.davinci6.stueber.de/00.allgemein/installation/)
 [DAVINCI LOOK](https://doc.davinci6.stueber.de/05.look/01.installation/)
 
-Soll der DAVINCI INFOSERVER wieder eingerichtet werden, finden Sie die Anleitung von der Einrichtung des Webservers bis zur WEBBOX im Abschnitt [Live-DAten im Internet](https://doc.davinci6.stueber.de/internet-publication/).
+Soll der DAVINCI INFOSERVER wieder eingerichtet werden, finden Sie die Anleitung von der Einrichtung des Webservers bis zur WEBBOX im Abschnitt [Live-DAaten im Internet](https://doc.davinci6.stueber.de/09.infoserver/allgemeines/).
 
 ## Lizenzierung
 
@@ -34,7 +34,6 @@ Sollten Sie sich nicht sicher sein, an welcher Stelle sich Ihr Arbeitsbereichver
 
 Dieses Verzeichnis legen Sie auf dem neuen Rechner nach der Installation unter dem Standardpfad ab, währenddessen muss der DAVINCI SERVER Dienst auf dem neuen Server gestoppt werden. Starten Sie ihn anschließend bitte wieder.
 
-
 ### weitere Verzeichnisses
 
 Speicherorte: 
@@ -51,7 +50,6 @@ An den vorgenannten Speicherorten können sich verschiedene Unterverzeichnisse b
 Speicherort:
 
 * `C:\inetpub\wwwroot`
-
 
 Wenn Ihr bisheriger Server auf für die Webpublikation per Webserver und DAVINCI INFOSERVER verwendet wurde, denken Sie bitte daran zusätzlich noch diese Daten zu sichern. Wenn Sie keine eigenen Anpassungen an den Vorlagen vorgenommen haben, können Sie aber auch problemlos neue WEBBOX-Dateien auf dem neuen Server ablegen. Ein aktelles zip-Archiv mit den WEBBOX-Dateien finden Sie auf der Webseite [https://davinci-webbox.stueber.de/](https://davinci-webbox.stueber.de/).
 
