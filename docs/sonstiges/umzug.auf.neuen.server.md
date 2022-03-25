@@ -14,7 +14,7 @@ Bitte führen Sie die gewünschten Installation aus, Anleitung dazu finden Sie h
 [DAVINCI](https://doc.davinci6.stueber.de/00.allgemein/installation/)
 [DAVINCI LOOK](https://doc.davinci6.stueber.de/05.look/01.installation/)
 
-Soll der DAVINCI INFOSERVER wieder eingerichtet werden, finden Sie die Anleitung von der Einrichtung des Webservers bis zur WEBBOX im Abschnitt [Live-DAaten im Internet](https://doc.davinci6.stueber.de/09.infoserver/allgemeines/).
+Soll der DAVINCI INFOSERVER wieder eingerichtet werden, finden Sie die Anleitung von der Einrichtung des Webservers bis zur WEBBOX im Abschnitt [Live-Daten im Internet](https://doc.davinci6.stueber.de/09.infoserver/allgemeines/).
 
 ## Lizenzierung
 
