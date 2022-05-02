@@ -12,9 +12,10 @@ Wenn bei einer Installation Probleme auftreten, kann die Logdatei der Installati
 
 [![Ausführen aufrufen][1]
 
-5. Fügen Sie die Zeile `msiexec /i C:\Users\Benutzername\Desktop\07.Installationspakete\magellan9.msi /l*v MeinInstallerLog.txt` ein und drücken auf OK!
+5. Fügen Sie die nachfolgende Zeile ein und drücken auf OK!
+`msiexec /i C:\Installationspakete\magellan9.msi /l*v log.txt` 
 
 [![Ausführen][2]
 
-6. Bitte durchlaufen Sie die Schritte der Installation. 
-7. Nach der Installation ist die `log.txt` gefüllt, bitte senden Sie diese Datei als Ticketanhang mit, vielen Dank!
+1. Bitte durchlaufen Sie die Schritte der Installation. 
+2. Nach der Installation ist die `log.txt` gefüllt, bitte senden Sie diese Datei als Ticketanhang mit, vielen Dank!
