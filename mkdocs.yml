@@ -58,6 +58,7 @@ nav:
     - Erste Schritte: magellan/erste-schritte-in-magellan.md
     - Citrix: magellan/citrixinstallation.md
     - Linux: magellan/admin.linux.md
+    - Logdatei: magellan/log.md
     - Pathsdatei: magellan/pathsdatei.md
     - Voraussetzungen (Hardware): magellan/system-requirements.md
     - Sicherung per Taskplaner: magellan/admin_sicherung.taskplaner.md
