@@ -18,9 +18,11 @@ Das von Ihrer MAGELLAN-Instanz verwendete Skripte-Verzeichnis finden Sie auf fol
 5. Schließen Sie ohne Veränderung das Verbindungsfenster und den `MAGELLAN Administrator`!
 6. Öffnen Sie ein beliebiges Ordnerfenster (`Windows-Taste+E`) und fügen den kopierten Pfad in die Adressleiste des Fensters (`STRG+V`).
 7. Drücken Sie die `Entertaste`, es öffnet sich das Skripteverzeichnis auf dem Schulserver.
-8. Entpacken Sie ggfs. die Zip-Datei und kopieren jetzt die enthaltene Skriptdatei oder die Dateien in die Zwischenablage (`STRG+C`)
+8. Entpacken Sie ggfs. die Zip-Datei und kopieren jetzt die enthaltene Skriptdatei oder die Dateien in die Zwischenablage (`STRG+C`) und fügen die Datei entweder direkt ins Skriptverzeichnis (Allgemeines Skript) oder in ein regionales Unterverzeichnis (Berechnungsskript) ein. Die genaue Ablage ist wichtig, bitte lesen Sie den nachstehenden Abschnitt.
 
 ## Allgemeines Skript oder regionales Skript
 
-Wenn es sich um ein allgemeines Skript handelt (bspsw. `Schüler einschulen.dws`), dann ersetzen Sie damit bitte die gleichnamige Datei direkt im Skripteverzeichnis. 
-Wenn es sich beispielsweise um ein Berechnungsskript (beginnend mit einem Regionalkürzel, bspsw. `SAC-BG-APO-2021.dws`) handelt, dann muss die Datei in den jeweiligen Regionalordner abgelegt werden, in diesem Beispiel in das Verzeichnis `Sachsen`.
+Skripttyp|Ablage
+--|--
+Allgemeines Skript | Wenn es sich um ein allgemeines Skript handelt (bspsw. `Schüler einschulen.dws`), dann ersetzen Sie damit bitte die gleichnamige Datei direkt im Skripteverzeichnis. 
+Berechnungsskript|Wenn es sich beispielsweise um ein Berechnungsskript (beginnend mit einem Regionalkürzel, bspsw. `SAC-BG-APO-2021.dws`) handelt, dann muss die Datei in den jeweiligen Regionalordner abgelegt werden, in diesem Beispiel in das Verzeichnis `Sachsen`.
