@@ -10,11 +10,11 @@ Sie kopieren die gewünschten Konfigurationdateien von einem eingerichteten Syst
 Die fertige Datei benennen Sie dann je nach Vorlage in `daVinciLook.paths` oder `daVinci.paths`, bitte achten Sie darauf, dass die Dateiendung auch `*.paths` ist, und nicht versehentlich durch ausgeblendete Dateierweiterungen noch `*.txt` lautet. 
 Im Abschnitt "Ablagepfade für daVinci.paths und davinciLook.paths" werden die Stellen aufgezählt, an denen die Dateien erkennen würde. 
 
-Ein Beispiel:<br/> Sie legen Ihre angepasste `daVinci.paths` parallel zur `daVinci.exe` unter `C:\Program Files (x86)\Stueber Systems\daVinci 6` ab. Beim Programmstart erkennt die DAVINCI die Datei anhand des Dateinames und liest erst die Pfade aus der Datei aus, im Anschluss die die Inhalte der Konfigurationsdateinen. 
+Ein Beispiel:<br/> Sie legen Ihre angepasste `daVinci.paths` parallel zur `daVinci.exe` unter `C:\Program Files (x86)\Stueber Systems\daVinci 6` ab. Beim Programmstart erkennt die DAVINCI die Datei anhand des Dateinames und liest erst die Pfade aus der Datei aus, im Anschluss die Inhalte der Konfigurationsdateien. 
 
 ## Vorlagen 
 
-Die nachfolgenden Beispiele können Sie als Vorlage in eine Textdatei kopieren und dann den Pfad 
+Die nachfolgenden Beispiele können Sie als Vorlage in eine Textdatei kopieren und dann den Pfad auf Ihr selbst angelegtes und freigegebenes Serververzeichnis anpassen - nicht benötigte Zeilen löschen Sie.
 
 ### für DAVINCI
 
