@@ -152,8 +152,6 @@ nav:
     - Automatischer Start voreingestellten Ansicht: look/autostart.md
   - Statistik:
     - WinLD und ASV: statistik\winld_asv.md
-- ENBREA:
-    - Welche Daten benötigen wir?: enbrea/daten.md
 - Support:
     - Skriptdatei tauschen: support/skript_tauschen.md
     - Bericht/Zeugnis einfügen: support/bericht.einfuegen.md
