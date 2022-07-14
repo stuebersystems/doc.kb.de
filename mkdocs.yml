@@ -155,6 +155,7 @@ nav:
 - Support:
     - Skriptdatei tauschen: support/skript_tauschen.md
     - Bericht/Zeugnis einfügen: support/bericht_einfuegen.md
+    - Programmdatei tauschen: support/exe_tauschen.md
     - Skripteditor ausführen: support/skripteditor.md
     - Ticketaccount anlegen: support/ticket_anlegen.md
     - Ticket anlegen: support/ticketsystem.md
