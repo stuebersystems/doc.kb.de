@@ -2,9 +2,9 @@
 
 In der [ChangeLog-Datei](https://doc.magellan.stueber.de/changelog/changelog/) im MAGELLAN-Handbuch oder auch per Newsletter dokumentieren wir die Änderungen, die bereits per Update veröffentlicht wurden oder bereits fertiggestellt, aber noch nicht veröffentlicht wurde. Dabei können auch bereits vorab Programmdateien (bspsw. Magellan.exe) zum Download angeboten, die man ohne Update der MAGELLAN-Installationen einfügen und nutzen kann.
 
-## Kann die MAGELLAN.exe getauscht werden?
+## Kann die Programmdatei getauscht werden?
 
-Bitte vergleichen Sie an Ihrem Arbeitsplatz innerhalb von MAGELLAN unter `Hilfe > Version und Lizenz` die angegebene Versionsnummer mit der, die in der Changelog-Datei angegeben ist.
+Bitte vergleichen Sie an Ihrem Arbeitsplatz innerhalb von MAGELLAN unter `Hilfe > Version und Lizenz` die angegebene Versionsnummer mit der, die in der [Changelog-Datei](https://doc.magellan.stueber.de/changelog/changelog/) angegeben ist.
 
 !!! warning "Wichtig!"
 
@@ -18,13 +18,13 @@ Programmversion|Datenbankversion
 --:|--:
 9.0.4|**901**
 
-Wird in der Changelog-Datei ein Download für eine Programmdatei angeboten, vergleichen Sie bitte die angebene Versionsnummer mit der bei Ihnen lokal eingesetzten Nummer. Läuft auf Ihrem Arbeitsplatz die `9.0.3 901` und in der Changelog-Datei ist die `9.0.4 901` angeboten, ist der Tausch möglich, entscheidend ist hierbei die Übereinstimmung der `...901`, also der der identischen Datenbankversion.
+Wird in der [Changelog-Datei](https://doc.magellan.stueber.de/changelog/changelog/) ein Download für eine Programmdatei angeboten, vergleichen Sie bitte die angebene Versionsnummer mit der bei Ihnen lokal eingesetzten Nummer. Läuft auf Ihrem Arbeitsplatz die `9.0.3 901` und in der Changelog-Datei ist die `9.0.4 901` angeboten, ist der Tausch möglich, entscheidend ist hierbei die Übereinstimmung der `...901`, also der der identischen Datenbankversion.
 
 ## Datei einfügen
 
-So fügen Sie die Datei ein:
+Sollte nichts gegen den Tausch sprechen, siehe vorangegangener Abschnitt, fügen Sie wie folgt die Datei ein:
 
-1. Bitte folgen Sie dem Link und laden die gewünschte Datei herunter, die Datei befindet sich anschließend in der Regel im Downloadverzeichnis Ihres Rechners.
+1. Bitte folgen Sie dem Link in der Changelog-Datei und laden die gewünschte Datei herunter, die Datei befindet sich anschließend in der Regel im Downloadverzeichnis Ihres Rechners.
 2. Schließen Sie lokal die MAGELLAN-Module, kopieren Sie die Datei in die Zwischenablage, indem Sie sie markieren und STRG+C drücken.
 3. Wechseln Sie nach `C:\Program Files (x86)\Stueber Systems\Magellan 9`.
 4. Benennen Sie die gleichnamige bereits vorhandene Datei um und fügen anschließend die Datei aus der Zwischenablage ein.
