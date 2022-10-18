@@ -26,9 +26,8 @@ Klicken Sie auf `Weiter >`. Geben Sie nun an, ob es sich um einen Plan für das 
 
 ![Geben Sie an, ob es sich um einen Plan für das neue Schuljahre oder um einen Planwechsel innerhalb des Schuljahres handelt](/assets/images/schuljahreswechsel03.png)
 
-> #### primary::Hinweis
->
-> Die Klassenbezeichnungen bei Berufsbildenden Schulen bleibt davon unverändert. Generell gilt: Die Klassenstufe wird erhöht, die Klassen-IDs (falls vorhanden) werden gelöscht. Achten Sie bitte darauf, dass die zugewiesene Stundentafel, Klassenlehrer und Klassenraum unverändert bleiben. Dies müssen Sie in der neuen Plandatei entsprechend aktualisieren bzw. neu zuweisen.
+!!! info
+    Die Klassenbezeichnungen bei Berufsbildenden Schulen bleibt davon unverändert. Generell gilt: Die Klassenstufe wird erhöht, die Klassen-IDs (falls vorhanden) werden gelöscht. Achten Sie bitte darauf, dass die zugewiesene Stundentafel, Klassenlehrer und Klassenraum unverändert bleiben. Dies müssen Sie in der neuen Plandatei entsprechend aktualisieren bzw. neu zuweisen.
 
 Klicken Sie auf `Weiter `.
 
@@ -50,15 +49,13 @@ Nachdem Sie nun eine dieser Optionen gewählt haben, klicken Sie auf `Weiter `. 
 
 Über diese Schaltfläche gelangen Sie zu den Plan-Eigenschaften. Ändern Sie im Register „Zeitraum“ das Anfangs- und Enddatum für Ihren neuen Plan und bearbeiten Sie gegebenenfalls die Registerkarte „Statistik“ die Wochen. 
 
-> #### primary::Hinweis
->
-> In der Registerkarte "Zeitraum" können Sie als Startdatum das Datum des ersten Schultages und als Enddatum das Datum des letzten Schultages eingeben. Sie können es aber auch allgemein wie in unserem Beispiel halten. Durch den späteren Import des Ferienkalenders Ihres Bundeslandes wird Ihnen in der Plandatei der erste und letzte Schultag korrekt angezeigt.
+!!! info:
+    In der Registerkarte "Zeitraum" können Sie als Startdatum das Datum des ersten Schultages und als Enddatum das Datum des letzten Schultages eingeben. Sie können es aber auch allgemein wie in unserem Beispiel halten. Durch den späteren Import des Ferienkalenders Ihres Bundeslandes wird Ihnen in der Plandatei der erste und letzte Schultag korrekt angezeigt.
 
 ![Plan-Eigenschaften, Register "Zeitraum"](/assets/images/schuljahreswechsel06.png)
 
-> #### primary::Hinweis
->
-> In der Registerkarte "Statistik" nehmen Sie bitte im Bereich "Wochen" die Wochen heraus, in denen kein Unterricht stattfinden wird. Beachten Sie, dass hier nur ganze unterrichtsfreie Wochen ausgenommen werden dürfen. Der Import des Ferienkalenders hat auf die Markierung/Demarkierung der Kalenderwochen keinen Einfluss. Die Demarkierung der unterrichtfreien Wochen ist für die spätere Definition von Wochenbezügen (Perioden in DAVINCI) gedacht. Unterrichtsfreie Wochen werden somit standardmäßig mit jeder neuen Perioden, die Sie im Stammdatenfenster "Perdioden" definieren, voreingestellt.
+!!! info:
+    In der Registerkarte "Statistik" nehmen Sie bitte im Bereich "Wochen" die Wochen heraus, in denen kein Unterricht stattfinden wird. Beachten Sie, dass hier nur ganze unterrichtsfreie Wochen ausgenommen werden dürfen. Der Import des Ferienkalenders hat auf die Markierung/Demarkierung der Kalenderwochen keinen Einfluss. Die Demarkierung der unterrichtfreien Wochen ist für die spätere Definition von Wochenbezügen (Perioden in DAVINCI) gedacht. Unterrichtsfreie Wochen werden somit standardmäßig mit jeder neuen Perioden, die Sie im Stammdatenfenster "Perdioden" definieren, voreingestellt.
 
 ![Plan-Eigenschaften, Register "Statistik"](/assets/images/schuljahreswechsel07.png)
 
@@ -78,9 +75,8 @@ Standardmäßig gibt es einen Hauptzeitrahmen und einen Zeitrahmen für die Aufs
 ![Zeitrahmen](/assets/images/schuljahreswechsel09.png)
 
 
-> #### warning::Wichtig!
->
-> Bitte ändern Sie den Zeitrahmen nicht im Nachhinein an einem gesetzten Plan. Eine Änderung des Zeitrahmens hat keine Auswirkung auf verplante Termine, da diese mit Uhrzeit verplant werden.
+!!! warning: Wichtig
+    Bitte ändern Sie den Zeitrahmen nicht im Nachhinein an einem gesetzten Plan. Eine Änderung des Zeitrahmens hat keine Auswirkung auf verplante Termine, da diese mit Uhrzeit verplant werden.
 
 **4. Stammdatenfenster...**
 

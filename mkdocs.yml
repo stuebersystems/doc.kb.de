@@ -152,6 +152,8 @@ nav:
     - Automatischer Start voreingestellten Ansicht: look/autostart.md
   - Statistik:
     - WinLD und ASV: statistik\winld_asv.md
+  - Datenaustausch:
+    - Sdui: datenaustausch/sdui.md
 - Support:
     - Skriptdatei tauschen: support/skript_tauschen.md
     - Bericht/Zeugnis einfügen: support/bericht_einfuegen.md

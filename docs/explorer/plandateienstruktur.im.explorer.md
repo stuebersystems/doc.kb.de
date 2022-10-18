@@ -37,16 +37,16 @@ Im DAVINCI Explorer kann man Benutzergruppen anlegen, die erst einmal nur eine S
 
 Hinsichtlich der DAVINCI-Nutzung gibt es meist Masterplaner (zum Beispiel für die Schulleitung, die auf alle Bereiche zugreifen können soll) Look-Nutzer, Stundenplaner, Stunden- und Vertretungsplaner, Kursplaner und vielleicht auch Kombination? Bitte überlegen Sie sich, wie viele unterschiedliche Rollen es an Ihrer Schule gibt. 
 
-> In einer Benutzergruppe werden Nutzer zusammengefasst, die identische Rechte erhalten.
+In einer Benutzergruppe werden Nutzer zusammengefasst, die identische Rechte erhalten.
 
 Beispiel:
 Sie haben Kollegen, die Stundenplaner, Vertretungsplaner und Looknutzer sind. Einer dieser Kollegen bereitet aber zusätzlich noch Kursplanung vor. Dann benötigen Sie für dieses Beispiel zwei Benutzergruppen.
 Benutzergruppe1: Stundenplaner, Vertretungsplaner, Appnutzer und Looknutzer
 Benutzergruppe2: Stundenplaner, Vertretungsplaner, Appnutzer, Looknutzer und Kursplaner
 
-> Jeder Kollege soll nur in einer einzigen Benutzergruppe enthalten sein.
->
-> Die im Explorer angezeigten Benutzergruppen sind lediglich Vorschläge, bitte passen Sie die Bezeichnung und Beschreibung der Benutzergruppen an.
+Jeder Kollege soll nur in einer einzigen Benutzergruppe enthalten sein.
+
+Die im Explorer angezeigten Benutzergruppen sind lediglich Vorschläge, bitte passen Sie die Bezeichnung und Beschreibung der Benutzergruppen an.
 
 ![Beispiel für vorbereitete Benutzergruppen](/assets/images/explorer/explorer.05.png)
 
@@ -69,7 +69,8 @@ Legen Sie einen Platzhalter an, geht vor dem Speichern ein Fenster auf, es soll 
 
 ![Hochladen einer Datei auf einen bestehenden Platzhalter](/assets/images/explorer/explorer.06.png)
 
-> Es ist wichtig, dass Sie bitte nie direkt im Verzeichnis Arbeitsbereich des DAVINCI Enterprise Servers (Pfad im DAVINCI Server Control in der Systemsteuerung des Serverrechners) arbeiten, sondern bitte alle strukturellen oder Änderungen der Richtlinien über die Oberfläche des DAVINCI Explorers vornehmen.
+!!! warning: Wichtig
+    Es ist wichtig, dass Sie bitte nie direkt im Verzeichnis Arbeitsbereich des DAVINCI Enterprise Servers (Pfad im DAVINCI Server Control in der Systemsteuerung des Serverrechners) arbeiten, sondern bitte alle strukturellen oder Änderungen der Richtlinien über die Oberfläche des DAVINCI Explorers vornehmen.
 
 ### Verzeichnis "aktueller und zukünftiger Plan"
 
@@ -115,7 +116,7 @@ Im aufgerufenen Dialog wechseln Sie auf die Karte `Benutzergruppen`und weisen di
 
 ![Weisen Sie die Benutzergruppen zu und editieren anschließend die Richtlinien pro zugewiesener Benutzergruppe](/assets/images/explorer/explorer.08.png)
 
-> Werden Benutzergruppen auf mehreren Ebenen zugewiesen, können Reche "vererbt" werden. Wichtig ist dabei, dass die Vererbung nur funktioniert, wenn mehrfach dieselbe Rechtegruppe zugewiesen wird! Alles rund um die Benutzerverwaltung für den DAVINCI INFOSERVER finden Sie gleichnamigen Abschnitt [Benutzerverwaltung](https://doc.davinci6.stueber.de/internet-publication/user-management.html) der DAVINCI Dokumentation.
+Werden Benutzergruppen auf mehreren Ebenen zugewiesen, können Reche "vererbt" werden. Wichtig ist dabei, dass die Vererbung nur funktioniert, wenn mehrfach dieselbe Rechtegruppe zugewiesen wird! Alles rund um die Benutzerverwaltung für den DAVINCI INFOSERVER finden Sie gleichnamigen Abschnitt [Benutzerverwaltung](https://doc.davinci6.stueber.de/internet-publication/user-management.html) der DAVINCI Dokumentation.
 
 ### Rechte für die Arbeit in DAVINCI (Vertretungsplan, Stundenplan, LOOK, Kursplan)
 
