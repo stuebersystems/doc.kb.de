@@ -11,4 +11,6 @@ Fehler|Bedeutung
 [Error] Socketfehler (Fehlercode: 10051).Network is unreachable: |Bitte überprüfen Sie den in der json.Datei eingetragenen Servernamen
 [Error] '{dfh}' is not a valid GUID value: |Bitte überprüfen Sie die eingetragenen GUID der eingetragenen DAVINCI Serverdatei
 [Error] Cannot open DAVINCI file. No access rights.: |Bitte überprüfen Sie die Benutzerrechte, des in der json.Datei hinterlegten DAVINCI Benutzers
-[Error] Error sending data: (12029) Die Serververbindung konnte nicht hergestellt werden: |Bitte überprüfen Sie 
+[Error] Error sending data: (12029) Die Serververbindung konnte nicht hergestellt werden: |-
+[Error] [Sdui] Keine Davinci Datei gefunden| -
+[Error] [Sdui] Der hochgeladene Stundenplan stimmt mit dem aktuellen Plan nicht überein. Den Konflikt bitte unter "Perioden" im Admin Panel lösen.|Bitte wenden Sie sich direkt an SDUI
