@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'windows-2019'
+  vmImage: 'windows-2022'
     
 steps:
 - task: UsePythonVersion@0
@@ -13,7 +13,7 @@ steps:
     targetType: 'inline'
     script: |
       pip install mkdocs mkdocs-material --disable-pip-version-check
-    failOnStderr: true
+    failOnStderr: false
     workingDirectory: '$(Build.SourcesDirectory)'
 - task: PowerShell@2
   displayName: Build with MkDocs
