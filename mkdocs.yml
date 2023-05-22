@@ -153,6 +153,7 @@ nav:
   - Statistik:
     - WinLD und ASV: statistik\winld_asv.md
   - Datenaustausch:
+    - MAGELLAN - DAVINCI: datenaustausch/magellan-davinci.md
     - Sdui: datenaustausch/sdui.md
     - ENBREA: datenaustausch/enbrea.md
 - Support:

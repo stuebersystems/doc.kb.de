@@ -14,3 +14,4 @@ Fehler|Bedeutung
 [Error] Error sending data: (12029) Die Serververbindung konnte nicht hergestellt werden: |-
 [Error] [Sdui] Keine Davinci Datei gefunden| -
 [Error] [Sdui] Der hochgeladene Stundenplan stimmt mit dem aktuellen Plan nicht überein. Den Konflikt bitte unter "Perioden" im Admin Panel lösen.|Bitte wenden Sie sich direkt an SDUI
+[ERROR] Error sending data: (12002) Das Zeitlimit für den Vorgang wurde erreicht | Bitte prüfen Sie in den Proxy-Einstellungen "Einstellungen automatisch erkennen"  ein Haken gesetzt ist und entfernen Sie diesen ggf.
