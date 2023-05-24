@@ -63,6 +63,7 @@ nav:
     - Pathsdatei: magellan/pathsdatei.md
     - Voraussetzungen (Hardware): magellan/system-requirements.md
     - Sicherung per Taskplaner: magellan/admin_sicherung.taskplaner.md
+    - V10 Neuer Serverrechner: magellan/admin-serverumzug10.md
     - V9 Neuer Serverrechner: magellan/admin-serverumzug9.md
     - V7 Neuer Serverrechner: magellan/admin-serverumzug7.md
     - V6 Neuer Serverrechner: magellan/admin-serverumzug6.md
