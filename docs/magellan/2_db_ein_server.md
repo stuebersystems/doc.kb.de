@@ -2,6 +2,8 @@
 
 Wenn Sie die Datenbanken mehrerer Schulen auf einem Server zusammen ablegen wollen, sollten Sie die folgenden Punkte beachten.
 
+**Sollten die nachstehenden Punkte dennoch Fragen offen lassen, können Sie uns für eine genauere Beratung beauftragen. Bitte wenden Sie sich für ein Angebot an unsere Office-Team unter `office@stueber.de`.**
+
 ## Version
 
 Bitte stellen Sie sicher, dass beide Schulen die selbe Version von MAGELLAN und von Firebird einsetzen.
