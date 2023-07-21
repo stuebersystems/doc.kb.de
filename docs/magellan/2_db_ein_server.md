@@ -1,4 +1,4 @@
-# Zwei Datenbanken auf einen Server ablegen
+# Mehrere Datenbanken auf einem Server
 
 Wenn Sie die Datenbanken mehrerer Schulen auf einem Server zusammen ablegen wollen, sollten Sie die folgenden Punkte beachten.
 
