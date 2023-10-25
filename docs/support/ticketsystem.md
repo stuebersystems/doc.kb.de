@@ -1,7 +1,7 @@
 # STÜBER SYSTEMS TICKETSYSTEM
 
 Nachstehend beschreiben wir die Registrierung am Ticketsystem auf Deutsch und auf Englisch. 
-<br/>For a user guide in English please click [here](#en).
+<br/>For a user guide in English please click [here](https://doc.kb.stueber.de/support/ticketsystem/#registration-ticket-system).
 
 ## Anmeldung
 
