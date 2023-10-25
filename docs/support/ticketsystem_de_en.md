@@ -1,17 +1,20 @@
-## STÜBER SYSTEMS TICKETSYSTEM
+# STÜBER SYSTEMS TICKETSYSTEM
 
-For a user guide in English please click [here](#en).
+Nachstehend beschreiben wir die Registrierung am Ticketsystem auf Deutsch und auf Englisch. 
+<br/>For a user guide in English please click [here](#en).
+
+## Anmeldung
 
 Um Support von STÜBER SYSTEMS zu erhalten, können Sie jederzeit Kontakt mit unserem Support-Team aufnehmen. Dazu steht Ihnen im Internet unser Ticketsystem zur Verfügung. Dieses Ticketsystem ermöglicht Ihnen eine genaue, nachvollziehbare und schnelle Kommunikation mit unserem Support Team. Ein von Ihnen erstelltes Ticket wird von einem Support-Mitarbeiter so schnell wie möglich bearbeitet. Der Support-Mitarbeiter kann sich ggf. entscheiden, mit Ihnen per Telefon direkt zu sprechen. Jeder Benutzer des Ticketsystems ist über die Kundennummer einem Kunden bzw. einer Institution zugeordnet (z.B. einer Schule). Sie haben somit nicht nur Zugriff auf Ihre eigenen Tickets sondern gleichzeitig auch auf alle anderen Tickets Ihrer Institution
 
-### Ticketsystem starten
+## Ticketsystem starten
 
 So starten Sie das Ticketsystem: 
 
 1. Öffnen Sie Ihren Internet-Browser und tippen Sie dort [http://support.stueber.de](http://support.stueber.de) ein.
 2. Sie können sich nun am Ticketsystem anmelden oder neu registrieren.
 
-### Einmalige Registrierung
+## Einmalige Registrierung
 
 Bevor Sie mit dem Ticketsystem arbeiten können, müssen Sie sich einmalig registrieren: 
 
@@ -20,7 +23,7 @@ Bevor Sie mit dem Ticketsystem arbeiten können, müssen Sie sich einmalig regis
 3. Füllen Sie bitte auch die anderen Felder aus. 
 4. Klicken Sie anschließend auf `Erstellen`. Daraufhin wird Ihr Konto erstellt und Sie erhalten umgehend eine Bestätigungsmail. Sie können sich nun am Ticketsystem anmelden, und Ihr erstes Ticket erstellen.
 
-### Am Ticketsystem anmelden
+## Am Ticketsystem anmelden
 
 Um eine neues Ticket zu erstellen oder bestehende Tickets einzusehen, gehen Sie wie folgt vor:
 
@@ -35,7 +38,7 @@ Wenn Sie ein neues Ticket erstellen, beachten Sie bitte folgende Hinweise:
 
 ### Was passiert nach dem Erstellen eines neuen Tickets?
 
-Wenn Sie ein Ticket neu erstellt haben, bekommen Sie automatisch eine Benachrichtigungs-E-Mail gesendet, welche den Eingang des Tickets bestätigt und den Vorgang mit einer eindeutigen Ticket-nummer verknüpft. Unser Support-Team wird sich umgehend mit diesem Ticket beschäftigen. Sobald sich der Status des Tickets ändert (z.B. weil esbeantwortet wurde), werden Sie wieder automatisch per E-Mail darüber benachrichtigt.Generell haben Sie jederzeit die Möglichkeit, auf Fragen oder Antworten des Support-Teams zu reagieren, indem Sie sich entweder am Ticketsystem anmelden oder aber ganz einfach auf die Benachrichtigungs-E-Mail antworten (bitte die Betreffzeile dabei nicht manuell ändern).
+Wenn Sie ein Ticket neu erstellt haben, bekommen Sie automatisch eine Benachrichtigungs-E-Mail gesendet, welche den Eingang des Tickets bestätigt und den Vorgang mit einer eindeutigen Ticketnummer verknüpft. Unser Support-Team wird sich umgehend mit diesem Ticket beschäftigen. Sobald sich der Status des Tickets ändert (z.B. weil es beantwortet wurde), werden Sie wieder automatisch per E-Mail darüber benachrichtigt. Generell haben Sie jederzeit die Möglichkeit, auf Fragen oder Antworten des Support-Teams zu reagieren, indem Sie sich entweder am Ticketsystem anmelden oder aber ganz einfach auf die Benachrichtigungs-E-Mail antworten (bitte die Betreffzeile dabei nicht manuell ändern).
 
 ### Kommunikation per E-Mail
 
