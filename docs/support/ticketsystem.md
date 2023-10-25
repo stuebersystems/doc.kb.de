@@ -1,4 +1,4 @@
-# STÜBER SYSTEMS TICKETSYSTEM
+## STÜBER SYSTEMS TICKETSYSTEM
 
 For a user guide in English please click [here](#en).
 
