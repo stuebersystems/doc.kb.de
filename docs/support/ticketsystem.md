@@ -44,7 +44,7 @@ Wenn Sie ein Ticket neu erstellt haben, bekommen Sie automatisch eine Benachrich
 
 Sie können neue Tickets auch per E-Mail erstellen. Voraussetzung dafürist, dass Sie sich einmalig unter Verwendung der entsprechenden E-Mail-Adresseam Ticketsystem registriert haben.Auch die weitere Kommunikation zu einem bestimmten Ticket kann per E-Mailerfolgen, Sie müssen lediglich die Betreffzeile unverändertlassen, damit das Ticketsystem Ihre Antwort dem passenden Ticket zuordnen kann(andernfalls wird ein neues Ticket erstellt)
 
-## Registration TICKET SYSTEM
+## Ticket System Registration
 
 To receive support from STÜBER SYSTEMS, you can always contact our support team. Our ticket system is available on the internet for this purpose. This ticket system enables you to have precise, traceable, and fast communication with our support team. A ticket created by you will be processed as quickly as possible by a support staff member. The support staff member may choose to speak with you directly over the phone if necessary. Each user of the ticket system is associated with a customer or institution through a customer number (e.g., a school). This means you not only have access to your own tickets but also to all the other tickets of your institution.
 
