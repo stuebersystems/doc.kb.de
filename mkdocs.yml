@@ -96,6 +96,7 @@ nav:
     - OPAC Unterstützung: bib/bib.opac.md
 - Crystal Reports:
   - Allgemein:
+    - Bestellinformationen: cr/bestellung.md
     - Bewerberberichte mit Sorgeberechtigten: cr/sb.md
     - Barcodes: cr/barcode.md
     - Berichte für V7/V8 anpassen: cr/berichte_fuer_7_anpassen.md
