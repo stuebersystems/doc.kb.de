@@ -3,9 +3,22 @@
 [1]:/assets/images/admin.ohne.anmeldung.png "ohne Anmeldung starten"
 [2]:/assets/images/skriptepfad.png "Skriptepfad kopieren"
 
-Eine Skriptdatei kann in der Regel auch ohne Update getauscht werden, dafür muss mindestens die eingesetzte Versionsnummer stimmen. Beispielsweise kann ein MAGELLAN 9-Skript nicht mit MAGELLAN 6 eingesetzt werden um umgekehrt.
+!!! warning Wichtig
+
+    Eine Skriptdatei kann in der Regel auch ohne Update getauscht werden, dafür muss mindestens die eingesetzte Versionsnummer stimmen. Beispielsweise kann ein MAGELLAN 9-Skript nicht mit MAGELLAN 6 eingesetzt werden oder umgekehrt.
 
 Skripte liegen in der Regel auf dem Schulserver, nicht auf dem lokalen Clientrechner des Nutzers. Durch Freigaben kann dieses Verzeichnis aber auch von den Arbeitsplätzen der Nutzer aus erreicht werden, Sie müssen also nicht direkten Zugriff auf den Serverrechner haben.
+
+## Allgemeines Skript oder regionales Skript?
+
+Es gibt allgemeine Skripte, die in das Verzeichnis "Skripte" gehören oder regionale Skripte, die in das Verzeichnis "Skripte/"Meine Region" gehören.
+
+Skripttyp|Ablage
+--|--
+Allgemeines Skript | Wenn es sich um ein allgemeines Skript handelt (bspsw. `Schüler einschulen.dws`), dann ersetzen Sie damit bitte die gleichnamige Datei direkt im Skripteverzeichnis. 
+Berechnungsskript|Wenn es sich beispielsweise um ein Berechnungsskript (beginnend mit einem Regionalkürzel, bspsw. `SAC-BG-APO-2021.dws`) handelt, dann muss die Datei in den jeweiligen Regionalordner abgelegt werden, in diesem Beispiel in das Verzeichnis `Sachsen`.
+
+## Austausch
 
 Das von Ihrer MAGELLAN-Instanz verwendete Skripte-Verzeichnis finden Sie auf folgende Weise:
 
@@ -20,9 +33,3 @@ Das von Ihrer MAGELLAN-Instanz verwendete Skripte-Verzeichnis finden Sie auf fol
 7. Drücken Sie die `Entertaste`, es öffnet sich das Skripteverzeichnis auf dem Schulserver.
 8. Entpacken Sie ggfs. die Zip-Datei und kopieren jetzt die enthaltene Skriptdatei oder die Dateien in die Zwischenablage (`STRG+C`) und fügen die Datei entweder direkt ins Skriptverzeichnis (Allgemeines Skript) oder in ein regionales Unterverzeichnis (Berechnungsskript) ein. Die genaue Ablage ist wichtig, bitte lesen Sie den nachstehenden Abschnitt.
 
-## Allgemeines Skript oder regionales Skript
-
-Skripttyp|Ablage
---|--
-Allgemeines Skript | Wenn es sich um ein allgemeines Skript handelt (bspsw. `Schüler einschulen.dws`), dann ersetzen Sie damit bitte die gleichnamige Datei direkt im Skripteverzeichnis. 
-Berechnungsskript|Wenn es sich beispielsweise um ein Berechnungsskript (beginnend mit einem Regionalkürzel, bspsw. `SAC-BG-APO-2021.dws`) handelt, dann muss die Datei in den jeweiligen Regionalordner abgelegt werden, in diesem Beispiel in das Verzeichnis `Sachsen`.
