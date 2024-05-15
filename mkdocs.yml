@@ -158,8 +158,8 @@ nav:
     - MAGELLAN - DAVINCI: datenaustausch/magellan-davinci.md
     - Sdui: datenaustausch/sdui.md
     - ENBREA: datenaustausch/enbrea.md
-- ENBREA:
-  - Ersteinrichtung: enbrea/ersteinrichtung.md
+-ENBREA:
+  - Hinweise zur Dateneingabe in MAGELLAN & DAVINCI
 - Support:
     - Skriptdatei tauschen: support/skript_tauschen.md
     - Bericht/Zeugnis einfügen: support/bericht_einfuegen.md
