@@ -1,4 +1,4 @@
-# Importlogik
+# Importlogik MAGELLAN und DAVINCI
 
 ## Kurszuordnung in ENBREA 
 
@@ -42,6 +42,8 @@ Haben Sie ein Fach, welches in Teilung also in mehreren Gruppen unterrichtet wir
 In der gymnasialen Oberstufe werden die Kursbildungen im DAVINCI Kursplan gemacht. Das heißt hier werden die Zuordnungen der Schülerinnen und Schüler in DAVINCI gemacht und automatisch beim Datenimport nach ENBREA Klassenbuch den entsprechenden Kursen zugewiesen.
 
 ## Emailadressen in MAGELLAN und DAVINCI
+
+Haben Sie für Ihre Lehrkräfte in MAGELLAN und DAVINCI Emailadressen hinterlegt, die von einander abweichen, wird beim ersten Import nach der Importreihenfolge gegangen. Also gegebenefalls erst die Emailadresse aus DAVINCI hinterlegt und dann geändert mit der in MAGELLAN hinterlegten Emailadresse.
 
 ## Klassenwechsel in MAGELLAN
 
