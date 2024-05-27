@@ -1,4 +1,4 @@
-# Textfelder unvollständig
+# Mehrzeilige Textfelder unvollständig
 
 die in MAGELLAN integrierte Runtimeversion von Crystal Reports hat ein Problem bei der Darstellung von Leerzeilen in Textfeldern. 
 
