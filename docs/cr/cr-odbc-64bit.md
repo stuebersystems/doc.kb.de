@@ -1,5 +1,11 @@
 # ODBC-Anbindung unter Windows 64 bit
 
+!!! danger "Wichtig!"
+
+    Dieser Hinweis ist nur bis Version 7 von MAGELLAN relevant. 
+    Jüngere MAGELLAN-Versionen gibt es in 32 oder 64 Bit Ausgabe. Der Unterschied bezieht sich nicht MAGELLAN selbst (immer 32 Bit), sondern die ODBC Anbindung, die für den Druck  und die Druckvorschau aus MAGELLAN heraus verwendet wird. Das hat auch nichts mit dem Druck oder der Vorschau aus MAGELLAN heraus zu tun, der Druck würde auch funktionieren, wenn Sie auf einem 64 Bit Betriebssystem die 32 Bit MAGELLAN-Version installieren würden.
+    Es geht um Folgendes: Die Vollversion von Crystal Reports, die man benötigt um selbst Berichte anzupassen, gibt es nur noch in 64 Bit. Für Schulen, die Crystal Reports zum Ändern einsetzen, richten wir mit der 64 Bit-MAGELLAN.msi die passende ODBC-Anbindung ein.
+
 Mit der Installation von MAGELLAN wird für 32 Bit Betriebssysteme bereits eine ODBC-Anbindung eingerichtet, die Sie für den Zugriff des Reportgenerators Crystal Reports auf die MAGELLAN-Datenbank verwenden können. Für 64 Bit Betriebssysteme kann es sein, dass diese Anbindung manuell eingerichtet werden muss. 
 
 Bitte führen Sie folgende Schritte aus:
