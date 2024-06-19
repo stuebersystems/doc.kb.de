@@ -50,6 +50,4 @@ Können gemeinsam genutzt werden:
 
 "C:\Users\Public\Documents\Stueber Systems\Magellan x\Importe"
 
-Unser Vorschlag hier wäre auf dem Server die Standardinstallation auszuführen und die Verzeichnis auch an der Stelle zu lassen. Für die schulindividuellen Verzeichnisse erstellen Sie bitte eine Kopie der Verzeichnisse ujnd legen diese doppelt ab. Erstellen Sie jeweils Freigaben für die beiden Schulen.
-Bei Updates werden diese drei Verzeichnisse so nicht erreicht, was für die Verzeichnisse Dokumente und Vorlagen aber auch nicht nötig ist. 
-Der Ordner Berichte sollte allerdings schon aktualisiert werden. Hier würden wir vorschlagen, dass Sie sich ein Tool zur Synchronisation des Verzeichnisses einrichten und nach dem Update neue oder geänderte Berichtsdateien aus dem Standardordner in die schulindividuellen Ordner zu übertragen.
+Unser Vorschlag hier wäre auf dem Server die Standardinstallation auszuführen und die Verzeichnis auch an der Stelle zu lassen. Für die schulindividuellen Verzeichnisse erstellen Sie bitte eine Kopie der Verzeichnisse und legen diese doppelt ab. Erstellen Sie jeweils Freigaben für die beiden Schulen. Bei Updates werden diese drei Verzeichnisse so nicht erreicht, was für die Verzeichnisse Dokumente und Vorlagen aber auch nicht nötig ist. Der Ordner Berichte sollte allerdings schon aktualisiert werden. Hier würden wir vorschlagen, dass Sie sich ein Tool zur Synchronisation des Verzeichnisses einrichten und nach dem Update neue oder geänderte Berichtsdateien aus dem Standardordner in die schulindividuellen Ordner zu übertragen.
