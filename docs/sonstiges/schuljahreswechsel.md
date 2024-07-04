@@ -8,7 +8,7 @@ Ihnen stehen drei Wege zur Verfügung.
 
 **Neuen leeren Plan erstellen**
 
-Dieser Weg ist für Neueinsteiger gedacht, die nicht auf einen Vorjahresplan aus DAVINCI zurückgreifen können.
+Dieser Weg ist für Neueinsteiger gedacht, die nicht auf einen Vorjahresplan aus DaVinci zurückgreifen können.
 
 **Neuen Plan erstellen und Daten übernehmen**
 
@@ -55,7 +55,7 @@ Nachdem Sie nun eine dieser Optionen gewählt haben, klicken Sie auf `Weiter `. 
 ![Plan-Eigenschaften, Register "Zeitraum"](/assets/images/schuljahreswechsel06.png)
 
 !!! info:
-    In der Registerkarte "Statistik" nehmen Sie bitte im Bereich "Wochen" die Wochen heraus, in denen kein Unterricht stattfinden wird. Beachten Sie, dass hier nur ganze unterrichtsfreie Wochen ausgenommen werden dürfen. Der Import des Ferienkalenders hat auf die Markierung/Demarkierung der Kalenderwochen keinen Einfluss. Die Demarkierung der unterrichtfreien Wochen ist für die spätere Definition von Wochenbezügen (Perioden in DAVINCI) gedacht. Unterrichtsfreie Wochen werden somit standardmäßig mit jeder neuen Perioden, die Sie im Stammdatenfenster "Perdioden" definieren, voreingestellt.
+    In der Registerkarte "Statistik" nehmen Sie bitte im Bereich "Wochen" die Wochen heraus, in denen kein Unterricht stattfinden wird. Beachten Sie, dass hier nur ganze unterrichtsfreie Wochen ausgenommen werden dürfen. Der Import des Ferienkalenders hat auf die Markierung/Demarkierung der Kalenderwochen keinen Einfluss. Die Demarkierung der unterrichtfreien Wochen ist für die spätere Definition von Wochenbezügen (Perioden in DaVinci) gedacht. Unterrichtsfreie Wochen werden somit standardmäßig mit jeder neuen Perioden, die Sie im Stammdatenfenster "Perdioden" definieren, voreingestellt.
 
 ![Plan-Eigenschaften, Register "Statistik"](/assets/images/schuljahreswechsel07.png)
 

@@ -3,7 +3,7 @@
 
 # Knowledge Base
 
-Dies ist die deutsche Knowledge Base zu DAVINCI und MAGELLAN. Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert. 
+Dies ist die deutsche Knowledge Base zu DaVinci und Magellan. Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert. 
 
 ## MkDocs unter Windows installieren
 

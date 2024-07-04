@@ -1,6 +1,6 @@
 # Mapi-Schnittstelle: Welcher Client wird aufgerufen
 
-Unsere Mailschnittstellen aus MAGELLAN oder DAVINCI rufen den Standard-Mailclient auf. 
+Unsere Mailschnittstellen aus Magellan oder DaVinci rufen den Standard-Mailclient auf. 
 Sollte nicht das Programm aufgerufen werden, dass Sie erwarten, kann es an folgendem Punkt liegen:
 
 Es gibt die Möglichkeit einen Standard-Mailclient allgemein anzulegen (Einstellungen > Standard-Apps) und es kann einen nutzerbezogenen Eintrag geben, der beispielsweise nach der Installation des Mailclients (Soll xy Ihre Standard-Mailclient sein?) gesetzt wird.

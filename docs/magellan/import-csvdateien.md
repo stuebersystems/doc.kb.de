@@ -1,6 +1,6 @@
 # CSV-Dateien mit Texttrennzeichen speichern
 
-Daten, die Sie als Excelliste o.ä. vorliegen haben, sind je nach Inhalt, in die MAGELLAN-Datenbank importierbar. Sie finden dazu im MAGELLAN-ADMINISTRATOR den Punkt `Datenimporte > Daten über MAGELLAN-Importformat importieren`. Welcher Dateiaufbau notwendig ist und welche Felder in welchem Format erwartet werden, beschreiben wir in der Dokumentation [MAGELLAN Import](https://doc.magellan6-import.stueber.de/) im Abschnitt [MAGELLAN Importformat](https://doc.magellan-import.stueber.de/MagImp/magellan-importformat.html).
+Daten, die Sie als Excelliste o.ä. vorliegen haben, sind je nach Inhalt, in die Magellan-Datenbank importierbar. Sie finden dazu im Magellan-Administrator den Punkt `Datenimporte > Daten über Magellan-Importformat importieren`. Welcher Dateiaufbau notwendig ist und welche Felder in welchem Format erwartet werden, beschreiben wir in der Dokumentation [Magellan Import](https://doc.magellan6-import.stueber.de/) im Abschnitt [Magellan Importformat](https://doc.magellan-import.stueber.de/MagImp/magellan-importformat.html).
 
 Texte müssen für den korrekten Import in Anführungszeichen stehen, bei einigen Tabellenkalkulationsprogrammen kann es dabei zu Problemen kommen. Wir beschreiben nachstehend die Speicherung mit OpenOffice.
 

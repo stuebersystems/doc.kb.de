@@ -1,6 +1,6 @@
-# Fachfarben in der App und in der WEBBOX
+# Fachfarben in der App und in der WebBox
 
-In den beiden Modulen können die Fachfarben aus DAVINCI gezeigt werden.
+In den beiden Modulen können die Fachfarben aus DaVinci gezeigt werden.
 
 Zwei Vorrausetzungen:
 

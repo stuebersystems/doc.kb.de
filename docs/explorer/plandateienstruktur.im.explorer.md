@@ -8,17 +8,17 @@ Wie beschreiben eine allgemeingehaltene Verzeichnis- und Platzhalterstruktur, an
 
 ### Welche Rollen gibt es
 
-Welche Rollen hinsichtlich der Stundenplanung, der Vertretungsplanung, der Kursplanung, des Zugriffs auf die WEBBOX/auf die App .... gibt es an Ihrer Schule?
+Welche Rollen hinsichtlich der Stundenplanung, der Vertretungsplanung, der Kursplanung, des Zugriffs auf die WebBox/auf die App .... gibt es an Ihrer Schule?
 
 **Jeder Kollege soll letztlich nur in einer einzigen Benutzergruppe enthalten sein**, insofern muss als erstes definiert werden, welche Benutzergruppen Sie benötigen.
 
 Beispiel:
 
-Kollege1 soll Zugriff auf die Stundenplanung, die Vertretungsplanung, auf LOOK haben und soll seine Plandaten auch über die WEBBOX oder die DAVINCI Mobile App sehen können. Kollege2 soll zusätzlich noch den Kursplan editieren können, damit können beide nicht in einer Benutzergruppe sein, Sie müssen bitte für dieses Beispiel zwei Benutzergruppen anlegen.
+Kollege1 soll Zugriff auf die Stundenplanung, die Vertretungsplanung, auf Look haben und soll seine Plandaten auch über die WebBox oder die DaVinci Mobile App sehen können. Kollege2 soll zusätzlich noch den Kursplan editieren können, damit können beide nicht in einer Benutzergruppe sein, Sie müssen bitte für dieses Beispiel zwei Benutzergruppen anlegen.
 
-### Welche Dateien möchte ich über den DAVINCI Server verwalten
+### Welche Dateien möchte ich über den DaVinci Server verwalten
 
-Man kann im DAVINCI Explorer einen Benutzer oder eine Benutzergruppe auf verschiedenen Ebenen Rechte/Richtlinien zuordnen:
+Man kann im DaVinci Explorer einen Benutzer oder eine Benutzergruppe auf verschiedenen Ebenen Rechte/Richtlinien zuordnen:
 
 |Nr.|Rechteebenen|
 |:--|:--|
@@ -28,14 +28,14 @@ Man kann im DAVINCI Explorer einen Benutzer oder eine Benutzergruppe auf verschi
 
 Als erstes müssten Sie bitte für Ihre Situation folgende Punkte klären:
 
-1. Welche Typen von Benutzern DAVINCI-Nutzern gibt es an Ihrer Schule?
+1. Welche Typen von Benutzern DaVinci-Nutzern gibt es an Ihrer Schule?
 2. Welche Plandateien sollen über den Server verwaltet werden?
 
 ## Benutzergruppen
 
-Im DAVINCI Explorer kann man Benutzergruppen anlegen, die erst einmal nur eine Sammlung von Benutzern sind. Die vorbereiteten Benutzergruppen kann man später einer oder mehreren Ebenen (Arbeitsbereich (die dort gewährten Rechte gelten für alle über den Server verwalteten Dateien), Verzeichnisse (allen darunter befindlichen Dateien), Platzhalter(einer einzelnen Plandatei) zuordnen und mit Rechten versehen.
+Im DaVinci Explorer kann man Benutzergruppen anlegen, die erst einmal nur eine Sammlung von Benutzern sind. Die vorbereiteten Benutzergruppen kann man später einer oder mehreren Ebenen (Arbeitsbereich (die dort gewährten Rechte gelten für alle über den Server verwalteten Dateien), Verzeichnisse (allen darunter befindlichen Dateien), Platzhalter(einer einzelnen Plandatei) zuordnen und mit Rechten versehen.
 
-Hinsichtlich der DAVINCI-Nutzung gibt es meist Masterplaner (zum Beispiel für die Schulleitung, die auf alle Bereiche zugreifen können soll) Look-Nutzer, Stundenplaner, Stunden- und Vertretungsplaner, Kursplaner und vielleicht auch Kombination? Bitte überlegen Sie sich, wie viele unterschiedliche Rollen es an Ihrer Schule gibt. 
+Hinsichtlich der DaVinci-Nutzung gibt es meist Masterplaner (zum Beispiel für die Schulleitung, die auf alle Bereiche zugreifen können soll) Look-Nutzer, Stundenplaner, Stunden- und Vertretungsplaner, Kursplaner und vielleicht auch Kombination? Bitte überlegen Sie sich, wie viele unterschiedliche Rollen es an Ihrer Schule gibt. 
 
 In einer Benutzergruppe werden Nutzer zusammengefasst, die identische Rechte erhalten.
 
@@ -64,13 +64,13 @@ Unterhalb des Archivverzeichnisses legen Sie pro Schuljahr weitere Unterordner a
 
 ## Platzhalter
 
-Der DAVINCI ENTERPRISE Server verwaltet selbständig alle Plandateien in einem Verzeichnis auf Ihrem Server. Die dort abgelegten Dateien werden mit einer eindeutigen Zeichenfolge gekennzeichnet, der GUID. Diese eigentliche Plandatei ist mit dem im DAVINCI Explorer angelegten Platzhalter (zum Beispiel "aktueller Plan" oder "zukünftiger Plan") verknüpft.
+Der DaVinci Enterprise Server verwaltet selbständig alle Plandateien in einem Verzeichnis auf Ihrem Server. Die dort abgelegten Dateien werden mit einer eindeutigen Zeichenfolge gekennzeichnet, der GUID. Diese eigentliche Plandatei ist mit dem im DaVinci Explorer angelegten Platzhalter (zum Beispiel "aktueller Plan" oder "zukünftiger Plan") verknüpft.
 Legen Sie einen Platzhalter an, geht vor dem Speichern ein Fenster auf, es soll auf eine Plandatei verwiesen werden, eine Kopie dieser Datei wird im Server-Verzeichnis abgelegt und mit der eindeutigen Zeichenfolge benannt. Lädt man später eine neue Datei auf den Platzhalter hoch, wird der Inhalt der ersten Datei überschrieben, die Dateibenennung bleibt aber erhalten, genau diesen Effekt nutzen Sie fürs neue Schuljahr.
 
 ![Hochladen einer Datei auf einen bestehenden Platzhalter](/assets/images/explorer/explorer.06.png)
 
 !!! warning: Wichtig
-    Es ist wichtig, dass Sie bitte nie direkt im Verzeichnis Arbeitsbereich des DAVINCI Enterprise Servers (Pfad im DAVINCI Server Control in der Systemsteuerung des Serverrechners) arbeiten, sondern bitte alle strukturellen oder Änderungen der Richtlinien über die Oberfläche des DAVINCI Explorers vornehmen.
+    Es ist wichtig, dass Sie bitte nie direkt im Verzeichnis Arbeitsbereich des DaVinci Enterprise Servers (Pfad im DaVinci Server Control in der Systemsteuerung des Serverrechners) arbeiten, sondern bitte alle strukturellen oder Änderungen der Richtlinien über die Oberfläche des DaVinci Explorers vornehmen.
 
 ### Verzeichnis "aktueller und zukünftiger Plan"
 
@@ -91,22 +91,22 @@ In diesem Abschnitt soll es um eine überschneidungsfreie Rechtevergabe gehen. B
 
 ### Rechte vererben: "übergeordnete Richtlinie vergeben"
 
-Für DAVINCI können die Rechte fein abgestuft vergeben. Ordnen Sie ein und dieselbe Benutzergruppe auf unterschiedlichen Ebenen zu, ist es auch möglich Richtlinien zu vererben.
+Für DaVinci können die Rechte fein abgestuft vergeben. Ordnen Sie ein und dieselbe Benutzergruppe auf unterschiedlichen Ebenen zu, ist es auch möglich Richtlinien zu vererben.
 
 Ein Beispiel: Lehrer Kramer ist Stundenplaner, darf damit auf den aktuellen Plan und auf den zukünftigen Plan zugreifen. Auf archivierte Pläne soll er nicht zugreifen dürfen. Sie ordnen den Benutzer der Benutzergruppe `Stundenplaner `zu und weisen die Benutzergruppe auf folgenden Ebenen zu:
 
 Ebene |Richtlinien für dieses Beispiel
 ---|---
-Arbeitsbereich| Hier werden für die Benutzergruppe Stundenplaner nur die Richtlinien für den INFOSERVER vergeben.
-Verzeichnis "aktueller und zukünftiger Plan"|hier werden nur die Richtlinien für die Nutzung von DAVINCI LOOK und DAVINCI definiert, die Richtlinien für den INFOSERVER werden geklammert dargestellt, daran können Sie erkennen, dass diese Richtlinien aus der höheren Ebene übernommen werden.
+Arbeitsbereich| Hier werden für die Benutzergruppe Stundenplaner nur die Richtlinien für den InfoServer vergeben.
+Verzeichnis "aktueller und zukünftiger Plan"|hier werden nur die Richtlinien für die Nutzung von DaVinci Look und DaVinci definiert, die Richtlinien für den InfoServer werden geklammert dargestellt, daran können Sie erkennen, dass diese Richtlinien aus der höheren Ebene übernommen werden.
 
 ![Richtlinien für Benutzergruppe "Stundenplaner" für den Arbeitsbereich](/assets/images/explorer/explorer.09.png)
 
 ![Richtlinien für Benutzergruppe "Stundenplaner" ein Verzeichnis, "geerbte" Rechte werden geklammert gezeigt](/assets/images/explorer/explorer.09.png)
 
-### Rechte für Webpublikationen (DAVINCI App und DAVINCI Webbox)
+### Rechte für Webpublikationen (DaVinci App und DaVinci WebBox)
 
-Der DAVINCI INFOSERVER verwaltet eine einzige Datei. Welche Datei das genau ist, wird im DAVINCI INFOSERVER-Control in der Systemsteuerung des Rechners festgelegt, auf dem der DAVINCI INFOSERVER installiert ist. Das bedeutet für die Rechtezuweisung, dass Sie die Rechte für die Webpublikation nicht versehentlich für eine verkehrte Plandatei vergeben können. Ordnen Sie daher bitte die Benutzergruppen (in unserem Beispiel KlassenWeb und Masterplaner, Stundenplaner, Vertretungsplaner, LOOK-Benutzer, Kursplaner) bitte direkt dem Arbeitsbereich im DAVINCI Explorer zu.
+Der DaVinci InfoServer verwaltet eine einzige Datei. Welche Datei das genau ist, wird im DaVinci InfoServer-Control in der Systemsteuerung des Rechners festgelegt, auf dem der DaVinci InfoServer installiert ist. Das bedeutet für die Rechtezuweisung, dass Sie die Rechte für die Webpublikation nicht versehentlich für eine verkehrte Plandatei vergeben können. Ordnen Sie daher bitte die Benutzergruppen (in unserem Beispiel KlassenWeb und Masterplaner, Stundenplaner, Vertretungsplaner, Look-Benutzer, Kursplaner) bitte direkt dem Arbeitsbereich im DaVinci Explorer zu.
 
 Rufen Sie den Punkt wie folgt auf:
 
@@ -116,14 +116,14 @@ Im aufgerufenen Dialog wechseln Sie auf die Karte `Benutzergruppen`und weisen di
 
 ![Weisen Sie die Benutzergruppen zu und editieren anschließend die Richtlinien pro zugewiesener Benutzergruppe](/assets/images/explorer/explorer.08.png)
 
-Werden Benutzergruppen auf mehreren Ebenen zugewiesen, können Reche "vererbt" werden. Wichtig ist dabei, dass die Vererbung nur funktioniert, wenn mehrfach dieselbe Rechtegruppe zugewiesen wird! Alles rund um die Benutzerverwaltung für den DAVINCI INFOSERVER finden Sie gleichnamigen Abschnitt [Benutzerverwaltung](https://doc.davinci6.stueber.de/internet-publication/user-management.html) der DAVINCI Dokumentation.
+Werden Benutzergruppen auf mehreren Ebenen zugewiesen, können Reche "vererbt" werden. Wichtig ist dabei, dass die Vererbung nur funktioniert, wenn mehrfach dieselbe Rechtegruppe zugewiesen wird! Alles rund um die Benutzerverwaltung für den DaVinci InfoServer finden Sie gleichnamigen Abschnitt [Benutzerverwaltung](https://doc.davinci6.stueber.de/internet-publication/user-management.html) der DaVinci Dokumentation.
 
-### Rechte für die Arbeit in DAVINCI (Vertretungsplan, Stundenplan, LOOK, Kursplan)
+### Rechte für die Arbeit in DaVinci (Vertretungsplan, Stundenplan, Look, Kursplan)
 
 Sie müssen jetzt entscheiden, auf welcher Höhe Sie Ihre definierten Benutzergruppen zuweisen möchten. Nachstehend einige Vorschläge dazu:
 
 Beispiel|Anmerkungen
 ---|---
-LOOK-Benutzer|"LOOK-Benutzer" sollen vermutlich nur auf den jeweils aktuellen Plan zugreifen können?<br/>Markieren Sie den Platzhalter "aktueller Plan" und rufen das Richtlinienfenster für den Platzhalter über `Rechtsklick > Richtlinien` auf. Wechseln Sie auf die Karte Benutzergruppen, weisen Sie die LOOK-Benutzergruppe zu, markieren Sie die Benutzergruppe und vergeben dann die Richtlinien. <br/><br/> **Wichtig: **Sollen die Kollegen später auch die Webbox und die App verwenden können, muss die Rechtegruppe auch dem Arbeitsbereich zugewiesen sein, dort werden nur die Richtlinien für den INFOSERVER definiert.
-Masterplaner|In dieser Benutzergruppe versammelt man Benutzer, die auf alle Programmbereiche zugreifen können. Weisen Sie diese Benutzergruppe bitte dem Arbeitsbereich zu: <br/>``` Arbeitsbereich markieren > Rechtsklick > Richtlinien > Benutzergruppen```<br/> <br/>**Wichtig:** Weil die Masterplaner direkt dem Arbeitsbereich zugeordnet werden, gibt es keine "übergeordnete Richtlinie", die zu verwenden wäre. Füllen Sie für diese Benutzergruppe bitte den Bereich "Richtlinien für DAVINCI INFOSERVER" direkt mit aus.
-Stundenplaner <br/>Vertretungsplaner<br/>Kursplaner<br/>Kombinationen|Sie haben zwei Verzeichnisse erstellt, um die Richtlinien auf archivierten Dateien und die aktuellen Dateien getrennt vergeben zu können. Je nachdem was abgebildet werden soll, werden die Benutzergruppen jetzt auf ein Verzeichnis oder mehrere oder auch auf Platzhalter zugewiesen.<br/><br/>Zugriff aufs Archiv und auf aktuelle Dateien? <br/> Weisen Sie die Rechtegruppe(n) dem Arbeitsbereich zu, denken Sie ggfs. an die Richtlinien des DAVINCI INFOSERVERs.<br/><br/>Zugriff auf die aktuelle und die zukünftige Plandatei?<br/> Weisen Sie die Richtlinien auf das Verzeichnis "aktueller und zukünftiger Plan zu". Füllen Sie anschließend die Richtlinien aus.<br/><br/>Zugriff nur auf die aktuelle Datei?<br/>Weisen Sie die Benutzergruppe nur dem Platzhalter zu und füllen die Richtlinien aus.<br/><br/>**Wichtig: **Sollen die Kollegen später auch die Webbox und die App verwenden können, muss die Rechtegruppe auch dem Arbeitsbereich zugewiesen sein, dort werden nur die Richtlinien für den INFOSERVER definiert.
+Look-Benutzer|"Look-Benutzer" sollen vermutlich nur auf den jeweils aktuellen Plan zugreifen können?<br/>Markieren Sie den Platzhalter "aktueller Plan" und rufen das Richtlinienfenster für den Platzhalter über `Rechtsklick > Richtlinien` auf. Wechseln Sie auf die Karte Benutzergruppen, weisen Sie die Look-Benutzergruppe zu, markieren Sie die Benutzergruppe und vergeben dann die Richtlinien. <br/><br/> **Wichtig: **Sollen die Kollegen später auch die WebBox und die App verwenden können, muss die Rechtegruppe auch dem Arbeitsbereich zugewiesen sein, dort werden nur die Richtlinien für den InfoServer definiert.
+Masterplaner|In dieser Benutzergruppe versammelt man Benutzer, die auf alle Programmbereiche zugreifen können. Weisen Sie diese Benutzergruppe bitte dem Arbeitsbereich zu: <br/>``` Arbeitsbereich markieren > Rechtsklick > Richtlinien > Benutzergruppen```<br/> <br/>**Wichtig:** Weil die Masterplaner direkt dem Arbeitsbereich zugeordnet werden, gibt es keine "übergeordnete Richtlinie", die zu verwenden wäre. Füllen Sie für diese Benutzergruppe bitte den Bereich "Richtlinien für DaVinci InfoServer" direkt mit aus.
+Stundenplaner <br/>Vertretungsplaner<br/>Kursplaner<br/>Kombinationen|Sie haben zwei Verzeichnisse erstellt, um die Richtlinien auf archivierten Dateien und die aktuellen Dateien getrennt vergeben zu können. Je nachdem was abgebildet werden soll, werden die Benutzergruppen jetzt auf ein Verzeichnis oder mehrere oder auch auf Platzhalter zugewiesen.<br/><br/>Zugriff aufs Archiv und auf aktuelle Dateien? <br/> Weisen Sie die Rechtegruppe(n) dem Arbeitsbereich zu, denken Sie ggfs. an die Richtlinien des DaVinci INFOSERVERs.<br/><br/>Zugriff auf die aktuelle und die zukünftige Plandatei?<br/> Weisen Sie die Richtlinien auf das Verzeichnis "aktueller und zukünftiger Plan zu". Füllen Sie anschließend die Richtlinien aus.<br/><br/>Zugriff nur auf die aktuelle Datei?<br/>Weisen Sie die Benutzergruppe nur dem Platzhalter zu und füllen die Richtlinien aus.<br/><br/>**Wichtig: **Sollen die Kollegen später auch die WebBox und die App verwenden können, muss die Rechtegruppe auch dem Arbeitsbereich zugewiesen sein, dort werden nur die Richtlinien für den InfoServer definiert.

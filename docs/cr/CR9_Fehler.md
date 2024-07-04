@@ -3,7 +3,7 @@
 
 ## Das Problem
 
-In einem selbsterstellten Crystal Reports 8.5 Bericht werden unterschiedliche Tabellen von MAGELLAN  miteinander verknüpft, um die gewünschte Ausgabe im Bericht zu erzielen.
+In einem selbsterstellten Crystal Reports 8.5 Bericht werden unterschiedliche Tabellen von Magellan  miteinander verknüpft, um die gewünschte Ausgabe im Bericht zu erzielen.
 Bei der Verknüpfung kann der Fall eintreten, dass eine Tabelle mehrfach Verwendung findet. Die mehrfach verwendeten Tabellen dürfen dabei nicht den gleichen Namen haben und mit der gleichen Tabelle verknüpft sein. Dazu führt Crystal Reports einen sogenannten ALIAS ein.
 
 

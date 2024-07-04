@@ -1,4 +1,4 @@
-# Optimale Hardware für MAGELLAN BIBLIOTHEK
+# Optimale Hardware für Magellan Bibliothek
 
 ## Stand 07. März 2016
 
@@ -6,9 +6,9 @@ Alle hier gemachten Aussagen repräsentieren den aktuellen Stand der Entwicklung
 
 ## Systemvoraussetzungen
 
-MAGELLAN BIBLIOTHEK kommt mit den gleichen Systemvoraussetzungen aus, wie auch die [MAGELLAN Schulverwaltung](https://doc.magellan.stueber.de/installation/systemvoraussetzungen.html). 
+Magellan Bibliothek kommt mit den gleichen Systemvoraussetzungen aus, wie auch die [Magellan Schulverwaltung](https://doc.magellan.stueber.de/installation/systemvoraussetzungen.html). 
 
-Damit Sie MAGELLAN BIBLIOTHEK optimal einsetzen können, empfehlen wir Ihnen zusätzlich folgende Hardware:
+Damit Sie Magellan Bibliothek optimal einsetzen können, empfehlen wir Ihnen zusätzlich folgende Hardware:
 
 * Barcode-Scanner
 * Etiketten-Drucker und hochwertige Etiketten
@@ -16,8 +16,8 @@ Damit Sie MAGELLAN BIBLIOTHEK optimal einsetzen können, empfehlen wir Ihnen zus
 
 ## Barcode-Scanner
 
-Jedes Medienexemplar und alle Ausleiher in MAGELLAN BIBLIOTHEK erhalten einen Barcode. Mit einem Barcode-Scanner können Sie die ausgedruckten Barcodes bequem einlesen. Der eingelesene Wert kann von der Anwendung weiter verarbeitet werden.
-Für MAGELLAN BIBLIOTHEK benötigen Sie kein spezielles Gerät. Unsere Erfahrung mit diversen Geräten zeigt, dass ein Barcode-Scanner folgende Funktionen erfüllen sollte:
+Jedes Medienexemplar und alle Ausleiher in Magellan Bibliothek erhalten einen Barcode. Mit einem Barcode-Scanner können Sie die ausgedruckten Barcodes bequem einlesen. Der eingelesene Wert kann von der Anwendung weiter verarbeitet werden.
+Für Magellan Bibliothek benötigen Sie kein spezielles Gerät. Unsere Erfahrung mit diversen Geräten zeigt, dass ein Barcode-Scanner folgende Funktionen erfüllen sollte:
 
 * Unterstützung der EAN13 Barcodes (Europäische Artikelnummer)
 * Anschluss über USB

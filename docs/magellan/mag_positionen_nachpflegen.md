@@ -4,9 +4,9 @@ Die Reihenfolge der auf Zeugnisberichten dargestellten Fächer wird durch Posito
 
 !!! info "Hinweis"
 
-    Ob der von Ihnen eingesetzte Bericht mit vorgegebenen Positionen arbeitet oder Sie die Reihenfolge selbst definieren können, können Sie im Modul MAGELLAN BERICHTE nachschlagen.
+    Ob der von Ihnen eingesetzte Bericht mit vorgegebenen Positionen arbeitet oder Sie die Reihenfolge selbst definieren können, können Sie im Modul Magellan BERICHTE nachschlagen.
 
-Im besten Fall weisen Sie die Zeugnispositionen bereits mit der Fachtafel zu. Es gibt in MAGELLAN aber auch die Möglichkeit nachträglich für die Schülerfachdaten unter `Schüler > Zeugnis > Fächer` Positionen zuzuweisen. Dazu legen Sie eine Fachtafel an, die die Fächer enthält und tragen dort die Positionsnummern ein.
+Im besten Fall weisen Sie die Zeugnispositionen bereits mit der Fachtafel zu. Es gibt in Magellan aber auch die Möglichkeit nachträglich für die Schülerfachdaten unter `Schüler > Zeugnis > Fächer` Positionen zuzuweisen. Dazu legen Sie eine Fachtafel an, die die Fächer enthält und tragen dort die Positionsnummern ein.
 
 !!! info "Hinweis"
 

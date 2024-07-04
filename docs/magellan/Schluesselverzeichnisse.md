@@ -1,6 +1,6 @@
 # Welches Feld liegt hinter welchem Schlüsselverzeichnis?
 
-Die nachstehende Tabelle gibt Ihnen eine Übersicht über die hinter den Felder in MAGELLAN verwendeten Schlüsselverzeichnissen. Alle Schlüsselverzeichnisse finden Sie in MAGELLAN unter dem Punkt `Verzeichnisse`.
+Die nachstehende Tabelle gibt Ihnen eine Übersicht über die hinter den Felder in Magellan verwendeten Schlüsselverzeichnissen. Alle Schlüsselverzeichnisse finden Sie in Magellan unter dem Punkt `Verzeichnisse`.
 
 ### Abgangsarten (Lehrer)
 

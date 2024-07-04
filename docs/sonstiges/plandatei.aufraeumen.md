@@ -1,6 +1,6 @@
 # Plandatei aufräumen
 
-Unter "Extras" findet man den Aufruf ``Plandatei aufräumen``. Diese Option behebt die meisten Fehler in DAVINCI 6, da er historisch mit dem Programm gewachsen ist.
+Unter "Extras" findet man den Aufruf ``Plandatei aufräumen``. Diese Option behebt die meisten Fehler in DaVinci 6, da er historisch mit dem Programm gewachsen ist.
 
 Generell empfiehlt es sich diese Option auszuführen wenn:
 

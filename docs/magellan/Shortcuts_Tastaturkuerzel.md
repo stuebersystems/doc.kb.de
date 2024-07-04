@@ -1,5 +1,5 @@
 
-# Tastaturkürzel in MAGELLAN
+# Tastaturkürzel in Magellan
 
 | Nr. | Verwendet in Ansicht | Aktion                                   | Befehl                       |
 |-----|----------------------|------------------------------------------|------------------------------|

@@ -1,19 +1,19 @@
-# Ihre MAGELLAN-Installation zieht auf einen neuen Serverrechner um?
+# Ihre Magellan-Installation zieht auf einen neuen Serverrechner um?
 
 Wir möchten Ihnen in diesem Artikel eine Übersicht bieten, an was alles zu denken ist beim Servertausch, damit die Weiterarbeit möglichst reibungslos erfolgen kann.
 
 
-## MAGELLAN und Firebird auf dem neuen Server installieren
+## Magellan und Firebird auf dem neuen Server installieren
 
 Laden Sie die beiden Installationspakete herunter:
 
 * [Firebird](https://download.stueber.de/bin/de/firebird/Firebird-2.5.8.27089_0_Win32.exe)
-* [MAGELLAN](https://download.stueber.de/bin/de/magellan/v7/magellan7.msi)
+* [Magellan](https://download.stueber.de/bin/de/magellan/v7/magellan7.msi)
 
 Eine Installationsanleitung finden Sie hier:
 
 [Installationsanleitung Firebird](https://doc.magellan7.stueber.de/schulverwaltung/installation/Installation_Firebird/)
-[Installationsanleitung MAGELLAN](https://doc.magellan7.stueber.de/schulverwaltung/installation/server.installlieren/)
+[Installationsanleitung Magellan](https://doc.magellan7.stueber.de/schulverwaltung/installation/server.installlieren/)
 
 ## Wichtige Dateien, die übernommen werden sollten
 
@@ -48,15 +48,15 @@ Betriebssystem|Speicherpfad
 32Bit|  C:\Programme\Firebird\Firebird_2_5 
 64Bit|C:\Program Files (x86)\Firebird\Firebird_2_5
   
-Diese Datenbank enthält die Passwort- und Rechteinformationen (Passworte verschlüsselt). Daher muss auch bei einer Datenstrukturanpassung immer die Aktion "Synchronisiere Zugriffsrechte"  im MAGELLAN Administrator ausgeführt werden.
+Diese Datenbank enthält die Passwort- und Rechteinformationen (Passworte verschlüsselt). Daher muss auch bei einer Datenstrukturanpassung immer die Aktion "Synchronisiere Zugriffsrechte"  im Magellan Administrator ausgeführt werden.
 
 Bei dieser Aktion werden die beiden Datenbanken, also die security2.fdb (Passwortdatenbank) und die magellan6.fdb (Schulverwaltungsdatenbank) miteinander abgeglichen, damit auch für die neu angefügten Teile der Datenbank der Zugriff für die Benutzer geklärt ist.
 
-Beim Installieren von Firebird auf dem neuen Server wird an der selben Stelle wieder eine security2.fdb angelegt. Sie ersetzen diese durch die gesicherte und führen dann anschließend das "Synchronisieren der Zugriffsrechte aus". Sie finden diesen Punkt unter `MAGELLAN Administrator > Datenbankpflege > Datenbank überprüfen > Zugriffsrechte synchronisieren`.
+Beim Installieren von Firebird auf dem neuen Server wird an der selben Stelle wieder eine security2.fdb angelegt. Sie ersetzen diese durch die gesicherte und führen dann anschließend das "Synchronisieren der Zugriffsrechte aus". Sie finden diesen Punkt unter `Magellan Administrator > Datenbankpflege > Datenbank überprüfen > Zugriffsrechte synchronisieren`.
 
 > #### primary::Hinweis
 >
-> Sichern Sie diese Datenbank nicht, kann sich kein Nutzer unter seinen gewohnten Zugangsdaten an der MAGELLAN-Datenbank auf Ihrem neuen Server anmelden!
+> Sichern Sie diese Datenbank nicht, kann sich kein Nutzer unter seinen gewohnten Zugangsdaten an der Magellan-Datenbank auf Ihrem neuen Server anmelden!
 
 ### Datenordner
 
@@ -103,7 +103,7 @@ Alle zu finden unter:
 
 ### Anpassung für den ersten Clientrechner
 
-Mit dem neuen Server müssten sich auch die Zugriffsinformationen von den Clients auf den Server ändern. Öffnen Sie nach erfolgter Übernahme von einem Client aus den MAGELLAN-Administrator ohne Anmeldung.
+Mit dem neuen Server müssten sich auch die Zugriffsinformationen von den Clients auf den Server ändern. Öffnen Sie nach erfolgter Übernahme von einem Client aus den Magellan-Administrator ohne Anmeldung.
 
 ![Wählen Sie im Feld `Datenbank`den Wert `Keine Anmeldung`.](/assets/images/admin.ohne.anmeldung.png)
 
@@ -113,11 +113,11 @@ Wechseln auf `Server-Verwaltung > Verbindungen verwalten > Starten > markieren I
 >
 > Bitte denken Sie daran, das der Pfad aus Sicht des Servers erwartet wird, also bitte dort keinen Netzwerkpfad eingeben.
 
-Wenn die Verbindung des ersten Arbeitsplatzrechners fertig angepasst ist, rufen Sie bitte MAGELLAN auf und prüfen, ob Sie die Druckvorschau für einen Bericht sehen können. Weisen Sie zum Test einem Schüler etwas per Sammelzuweisung zu, im Anschluss löschen Sie den Eintrag wieder. Diese beiden Aktionen sollen letztlich nur bestätigen, ob die Pfadangaben korrekt waren. 
+Wenn die Verbindung des ersten Arbeitsplatzrechners fertig angepasst ist, rufen Sie bitte Magellan auf und prüfen, ob Sie die Druckvorschau für einen Bericht sehen können. Weisen Sie zum Test einem Schüler etwas per Sammelzuweisung zu, im Anschluss löschen Sie den Eintrag wieder. Diese beiden Aktionen sollen letztlich nur bestätigen, ob die Pfadangaben korrekt waren. 
 
 ### Anpassung für den ersten Clientrechner
 
-Diese Einstellungen müssten jetzt auf jedem weiteren MAGELLAN-Client vorgenommen werden. Das können Sie genau wie im vorherigen Abschnitt vornehmen, oder Sie legen die Dateien, in denen diese Informationen gespeichert werden an zentraler Stelle ab und leiten MAGELLAN beim Programmstart per `Magellan.paths`auf diese Dateien um.
+Diese Einstellungen müssten jetzt auf jedem weiteren Magellan-Client vorgenommen werden. Das können Sie genau wie im vorherigen Abschnitt vornehmen, oder Sie legen die Dateien, in denen diese Informationen gespeichert werden an zentraler Stelle ab und leiten Magellan beim Programmstart per `Magellan.paths`auf diese Dateien um.
 
 Eine Anleitung dafür finden Sie im Abschnitt [Die Pathsdatei](https://doc.magellan7.stueber.de/installation/die-pathsdatei.html).
 

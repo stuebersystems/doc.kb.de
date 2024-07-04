@@ -1,6 +1,6 @@
 # Interface nicht unterstützt
 
-Sollte beim Aufruf den MAGELLAN-Seriendrucks die Meldung `Interface nicht unterstützt` ausgegeben werden, gibt es eventuell ein Problem mit den Registryeinträgen des Officepakets.
+Sollte beim Aufruf den Magellan-Seriendrucks die Meldung `Interface nicht unterstützt` ausgegeben werden, gibt es eventuell ein Problem mit den Registryeinträgen des Officepakets.
 
 Bitte Office deinstallieren, die Registry mit einem geeigneten Tool bereinigen und das Officepaket anschließend wieder neu installieren.
 

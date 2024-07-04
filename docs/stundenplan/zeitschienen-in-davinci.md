@@ -1,4 +1,4 @@
-# Zeitschienen in DAVINCI
+# Zeitschienen in DaVinci
 
 ## Veranstaltungsliste Spalte "Schiene"
 

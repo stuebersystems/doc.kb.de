@@ -6,7 +6,7 @@ Mit Silent-Mode benennt STÜBER SYSTEMS den Aufruf der Anwendung durch Parameter
 
 Zweck des Silent-Mode ist es, die Anwendung durch z.B. den Taskmanager von Windows im Hintergrund wiederkehrende Aufgaben erledigen zu lassen, ohne dass sich ein Benutzer darum kümmern müsste, also zur Automatisierung bestimmter Aufgaben.
 
-## MAGELLAN ADMINISTRATOR im Silent-Mode starten
+## Magellan Administrator im Silent-Mode starten
 
 ### Übersicht der Silent-Mode Aufgaben
 
@@ -18,9 +18,9 @@ Der Magellan-Administrator erlaubt folgende Aufgaben im Silent-Mode zu erledigen
 
 Diese Punkte werden ausführlich in den kommenden Punkten erläutert.
 
-### MAGELLAN Datenbank-Anmeldung
+### Magellan Datenbank-Anmeldung
 
-Sie haben die Möglichkeit den MAGELLAN ADMIMINISTRATOR direkt ohne Eingabe von Benutzernamen, Passwort und Auswahl der Datenbank zu starten, wenn Sie diese Informationen einfach als Parameter angeben.
+Sie haben die Möglichkeit den Magellan ADMIMINISTRATOR direkt ohne Eingabe von Benutzernamen, Passwort und Auswahl der Datenbank zu starten, wenn Sie diese Informationen einfach als Parameter angeben.
 
 Parameter:
 
@@ -33,7 +33,7 @@ Parameter:
 > Jegliche weitere Silent-Mode Funktion hängt von diesen Parametern ab. Das bedeutet diese Parameter sind Pflichtangaben für alle weiteren Silent-Mode Aufgaben.
 Die Parameter der Datenbank-Anmeldung sind die einzigen Parameter die mit anderen Silent-Mode Funktionen kombinierbar sind.
 
-## MAGELLAN Benutzerrechte synchronisieren
+## Magellan Benutzerrechte synchronisieren
 
 Eine oft wiederkehrende Aufgabe ist das Synchronisieren der Benutzerrechte. Zusätzlich zu den Parametern der Datenbank-Anmeldung müssen folgende Parameter angegeben werden.
 
@@ -41,7 +41,7 @@ Eine oft wiederkehrende Aufgabe ist das Synchronisieren der Benutzerrechte. Zus�
 |-----|-----------|
 | 1.  | /UserSync |
 
-## Import über das MAGELLAN-Importformat
+## Import über das Magellan-Importformat
 
 Der Import von Daten ist größtenteils ein einmaliger Import zum Hinzufügen von Fremddaten nach Magellan. Für Schüler- und Lehrerdaten gibt es aber die Möglichkeit, die Stammdaten zu aktualisieren.
 Voraussetzung für eine solche Aktualisierung ist, dass die Fremddaten mit einer externen GUID importiert wurden und die Aktualisierung anhand dieses Feldes Externe GUID (Feld GUIDExtern) zur nachträglichen Wiedererkennung der Datensätze, aktualisiert werden. Zusätzlich zu den Parametern der Datenbank-Anmeldung müssen folgende Parameter angegeben werden.
@@ -58,7 +58,7 @@ Der Dateiname der Importdatei muss der Importspezifikation entsprechen:
 
 ### Beispiel
 
-Den MAGELLAN ADMIMINISTRATOR  im Silent-Mode aufrufen, zum Import von Schüler-Stammdaten mit dem Firebird Standard SYSDBA und Passwort:
+Den Magellan ADMIMINISTRATOR  im Silent-Mode aufrufen, zum Import von Schüler-Stammdaten mit dem Firebird Standard SYSDBA und Passwort:
 
 ```
 C:\Programme\Stüber Systems\MagAdmin.exe /Login=SYSDBA 
@@ -72,7 +72,7 @@ C:\Programme\Stüber Systems\MagAdmin.exe /Login=SYSDBA
 
 Grundsätzlich basiert unsere Installation auf der MSI-Technologie. Mit dieser MSI-Technologie wird beispielsweise auch MS Office installiert.
 
-### Silent-Setup für MAGELLAN
+### Silent-Setup für Magellan
 
 msiexec /i "C:\MySetup\Magellan7.msi" /q INSTALLMODE="Server" APPDIR="C:\MyFolder\Magellan"
 
@@ -84,7 +84,7 @@ Hinweis 1: /i bedeutet immer Installation und /x immer Deinstallation.
 
 Hinweis 2: Unter Vista müssen diese Kommandozeilenaufrufe mit Administratorenrechten gestartet werden.
 
-### Silentinstallation DAVINCI
+### Silentinstallation DaVinci
 
 Installation: msiexec /i "C:\MySetup\daVinci.msi" /q APPDIR="C:\Stueber Systems\daVinci6"
 

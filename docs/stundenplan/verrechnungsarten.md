@@ -1,6 +1,6 @@
 # Verrechnungsarten
 
-Die Verrechnungsart hat entscheidenen Einfluss auf die statistischen Summen, die von DAVINCI ermittelt werden und die dann an die Landesstatistik übermittelt werden.
+Die Verrechnungsart hat entscheidenen Einfluss auf die statistischen Summen, die von DaVinci ermittelt werden und die dann an die Landesstatistik übermittelt werden.
 Klassenfaktor, Lehrerfaktor und Periodenfaktor werden nur bei den Verrechnungsarten "faktorbezogen" und "wochenbezogen" berücksichtigt. Sie dienen dazu, den Unterricht, der nicht jede Woche gleich stattfindet, auf einen vergleichbaren Wochenmittelwert herunterzurechnen.
 Da die meisten Schulen mit Wochensummen arbeiten, erfordert die Landesstatistik in den meisten Fällen faktorbezogene Summen. Zusammengefasst und die weiteren Erläuterungen vorweggenommen ergibt sich so folgende Regel:
 

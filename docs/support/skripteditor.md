@@ -1,8 +1,8 @@
 # Korrekturen per Skript 
 
->Diese Anleitung bezieht sich nicht auf MAGELLAN 6, sondern auf MAGELLAN 7 oder höher.
+>Diese Anleitung bezieht sich nicht auf Magellan 6, sondern auf Magellan 7 oder höher.
 
-Es gibt für verschiedene Situationen Skripte, die Sie zur Korrektur innerhalb Ihrer Datenbank mit Hilfe des MAGELLAN-Skript-Editor ausführen können. Sie erhalten in diesem Fall einen Link zu einem Downloadpaket von unserem Support-Team.
+Es gibt für verschiedene Situationen Skripte, die Sie zur Korrektur innerhalb Ihrer Datenbank mit Hilfe des Magellan-Skript-Editor ausführen können. Sie erhalten in diesem Fall einen Link zu einem Downloadpaket von unserem Support-Team.
 Laden Sie bitte das Paket über den Link herunter und führen dann bitte die nachfolgenden Schritte aus.
 
 > Bevor Sie Korrekturen per Skipteditor vornehmen, machen Sie bitte in jedem Fall eine Backup ihrer Datenbank. Folgen Sie den Anweisungen [hier](https://doc.magellan.stueber.de/schulverwaltung/admin/sicherung/#sicherungskopie-erstellen)
@@ -12,7 +12,7 @@ Laden Sie bitte das Paket über den Link herunter und führen dann bitte die nac
 
 
 > Einige der Korrekturen benötigen mehrere Stunden zum Durchlauf, daher sollte das Skript auf einem Rechner gestartet werden, der eingeschaltet bleiben kann, am besten auf Ihrem Serverrechner.
-Sie können während der Korrekturen weiter in MAGELLAN arbeiten, allerdings dürfen bitte keine Änderungen der Schülerlaufbahnen vorgenommen werden, also Anlegen,Importieren oder Löschen von Schülern sollte nicht vorgenommen werden. Ebenso sollten für die Zeit, die die Korrektur benötigt bitte keine Schüler gewechselt, fortgeschrieben, versetzt oder korrigiert werden.
+Sie können während der Korrekturen weiter in Magellan arbeiten, allerdings dürfen bitte keine Änderungen der Schülerlaufbahnen vorgenommen werden, also Anlegen,Importieren oder Löschen von Schülern sollte nicht vorgenommen werden. Ebenso sollten für die Zeit, die die Korrektur benötigt bitte keine Schüler gewechselt, fortgeschrieben, versetzt oder korrigiert werden.
 
 So gehen Sie vor:
 
@@ -21,7 +21,7 @@ So gehen Sie vor:
 
 ![Beispielinhalt](/assets/images/support/skripteditor/01.png)
 
-3. Starten Sie bitte per Doppelklick den MAGELLAN Skripteditor (Teil der MAGELLAN-Installation und unter `C:\Program Files (x86)\Stueber Systems\Magellan 7 zu finden`) per Doppelklick auf die Datei "MagScriptEditor.exe".
+3. Starten Sie bitte per Doppelklick den Magellan Skripteditor (Teil der Magellan-Installation und unter `C:\Program Files (x86)\Stueber Systems\Magellan 7 zu finden`) per Doppelklick auf die Datei "MagScriptEditor.exe".
 4. Im Programmfenster gehen Sie bitte auf `Öffnen`!
 
 ![Öffnen](/assets/images/support/skripteditor/02.png)
@@ -34,7 +34,7 @@ So gehen Sie vor:
 
 ![Auf Interface-Emulation umschalten](/assets/images/support/skripteditor/06.png)
 
-7. Als nächstes brauchen Sie den Pfad zur Datenbank und ggfs. den Servernamen. Starten Sie dazu parallel  den MAGELLAN Administrator. Im Anmeldefenster melden Sie sich als sysdba an oder wählen falls Sie diese Zugangsdaten nicht parat haben, einfach `<keine Anmeldung>` aus.
+7. Als nächstes brauchen Sie den Pfad zur Datenbank und ggfs. den Servernamen. Starten Sie dazu parallel  den Magellan Administrator. Im Anmeldefenster melden Sie sich als sysdba an oder wählen falls Sie diese Zugangsdaten nicht parat haben, einfach `<keine Anmeldung>` aus.
 
 ![Administrator ggfs. ohne Anmeldung starten](/assets/images/support/skripteditor/04.png)
 
@@ -54,7 +54,7 @@ const MagellanPassword = 'Ihr Passwort';|const MagellanPassword = 'masterkey';
 const Server = 'Eintrag aus dem Feld Server';|const Server = 'localhost';<br/>oder, wenn das Skript nicht auf dem Serverrechner ausgeführt wird beispielsweise: <br/>const Server = 'Verwaltungsserver';
 const Protocol = 'TCP/IP';|const Protocol = 'TCP/IP';
 
-10. Sie lösen das Skript über das grüne Dreieck aus, das Skript überprüft die Schüler und meldet abschließend `Vorgang erfolgreich abgeschlossen`. Schließen Sie den Skripteditor, speichern ggfs. Ihre Angabe, schließen Sie den MAGELLAN Administrator und überprüfen in MAGELLAN das Ergebnis.
+10. Sie lösen das Skript über das grüne Dreieck aus, das Skript überprüft die Schüler und meldet abschließend `Vorgang erfolgreich abgeschlossen`. Schließen Sie den Skripteditor, speichern ggfs. Ihre Angabe, schließen Sie den Magellan Administrator und überprüfen in Magellan das Ergebnis.
 11. Prüfen oder Prüfen und Korrigieren: einige Skripte haben am Ende der *.int (also unter Inferface Emulation) noch die Option wählbar, ob nur geprüft oder geprüft und korrigiert werden soll. 
 Bitte wählen Sie mit `true` (nur Prüfen) oder `false` (Prüfen und Korrigieren) die gewünschte Aktion aus.
     

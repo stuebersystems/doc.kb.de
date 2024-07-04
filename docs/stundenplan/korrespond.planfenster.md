@@ -1,6 +1,6 @@
 # Korrespondierende Pläne
 
-Damit im Bereich STUNDENPLAN die Pläne und Listen miteinander korrespondieren, achten Sie bitte darauf, dass in den jeweiligen Planfenstern das Kreuzchen oben links wie folgt angezeigt werden:
+Damit im Bereich Stundenplan die Pläne und Listen miteinander korrespondieren, achten Sie bitte darauf, dass in den jeweiligen Planfenstern das Kreuzchen oben links wie folgt angezeigt werden:
 
 ![Alle Pläne korrespondieren ](/assets/images/stundenplan/sp_korrespond01.png)
 

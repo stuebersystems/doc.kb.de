@@ -5,10 +5,10 @@ Aufgrund häufiger Nachfragen zum Thema Hardware für den Firebird Datenbank-Ser
 ## BENÖTIGTER FESTPLATTENSPEICHER
 
 Das Firebird-System selbst benötigt einen Festplattenspeicher von ca. 25 MB.   
-Eine leere MAGELLAN-Datenbank liegt derzeit bei ca. 20 MB und hat bei großen Schulen erfahrungsgemäß eine Größe bis zu 800 MB. Sollten Sie für Ihre Schüler (auch für ehemalige Schüler) oder Lehrer Passfotos in der Datenbank speichern, kann die Datenbankgröße auf mehrere Gibabyte anwachsen. 
+Eine leere Magellan-Datenbank liegt derzeit bei ca. 20 MB und hat bei großen Schulen erfahrungsgemäß eine Größe bis zu 800 MB. Sollten Sie für Ihre Schüler (auch für ehemalige Schüler) oder Lehrer Passfotos in der Datenbank speichern, kann die Datenbankgröße auf mehrere Gibabyte anwachsen. 
 
 
-> Im MAGELLAN-Administrator (ab Version 6.5.32) können per Assistent Passbilder inaktiver Schüler entfernt werden.
+> Im Magellan-Administrator (ab Version 6.5.32) können per Assistent Passbilder inaktiver Schüler entfernt werden.
 
 ## BENÖTIGTER RAM
 
@@ -32,7 +32,7 @@ Wenn Sie sich also Gedanken machen, wie alles reibungslos funktioniert könnte, 
 
 ## FAZIT
 
-Es kommt also nicht so sehr darauf an, welche Hardware für die Einrichtung eines Firebird-Servers für Ihre MAGELLAN-Datenbank verwendet wird, sondern in welches NETZWERK dieses dann eingebettet ist und wie reibungslos die Daten zwischen dem Client \(MAGELLAN-Anwendung\) und dem Server \(Firbird-Datenbanksystem\) ausgetauscht werden können.
+Es kommt also nicht so sehr darauf an, welche Hardware für die Einrichtung eines Firebird-Servers für Ihre Magellan-Datenbank verwendet wird, sondern in welches NETZWERK dieses dann eingebettet ist und wie reibungslos die Daten zwischen dem Client \(Magellan-Anwendung\) und dem Server \(Firbird-Datenbanksystem\) ausgetauscht werden können.
 
 ## Quellen
 

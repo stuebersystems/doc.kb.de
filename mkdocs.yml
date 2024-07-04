@@ -53,7 +53,7 @@ markdown_extensions:
 # Navigation  
 nav:
 - Überblick: index.md
-- MAGELLAN:
+- Magellan:
   - Installation:
     - Erste Schritte: magellan/erste-schritte-in-magellan.md
     - Silent-Mode-Parameter: sonstiges/silentmode.md
@@ -117,24 +117,24 @@ nav:
   - Archiv:
     - Änderung in der Tabelle SchuelerAusbildung: cr/schuelerausbildung.md
     - Fehler in Crystal Reports 9: cr/CR9_Fehler.md
-- DAVINCI:
+- DaVinci:
   - Allgemein:
     - Silent-Mode-Parameter: sonstiges/silentmode.md
     - Umzug auf einen neuen Server: sonstiges/umzug.auf.neuen.server.md
     - Schuljahreswechsel: sonstiges/schuljahreswechsel.md
     - Plandatei aufräumen: sonstiges/plandatei.aufraeumen.md
     - Pathsdatei: sonstiges/pathsdatei.md
-  - Infoserver:
+  - InfoServer:
     - Eigene CSS-Datei für CONFIRE SHOWTIME-Vertretungsapp: infoserver/css.showtime.md
     - Einrichtung: infoserver/einrichtung.md
-    - Fachfarben in der WEBBOX und APP: infoserver/farben.md
+    - Fachfarben in der WebBox und App: infoserver/farben.md
     - HTML-Vorlagen mit "local" oder mit "main"?: infoserver/htmlvorlagen.md
     - HTTPS Protokoll: https-protokoll.md
-    - Infoserver und Webbox aktualisieren: infoserver/infoserver-und-webbox-aktualisieren.md
-    - Rechte und Benutzer für die WEBBOX: rechte-und-benutzer-fur-die-webbox.md
+    - InfoServer und WebBox aktualisieren: infoserver/infoserver-und-webbox-aktualisieren.md
+    - Rechte und Benutzer für die WebBox: rechte-und-benutzer-fur-die-webbox.md
     - Vertretungsliste soll flippen: infoserver/vertretungsliste-flippen.md
-    - Webbox-Vertretungsliste per Browser für E-Boards: infoserver/webboxvertretungsliste.per.browser.md
-    - Webbox-Vertretungspläne für Confire Showtime: infoserver/webbox.fuer.showtime.md
+    - WebBox-Vertretungsliste per Browser für E-Boards: infoserver/webboxvertretungsliste.per.browser.md
+    - WebBox-Vertretungspläne für Confire Showtime: infoserver/webbox.fuer.showtime.md
   - Kalender:
     - Google-Token löschen: kalender/google.token.loeschen.md
   - Stundenplan:
@@ -145,7 +145,7 @@ nav:
     - Sortierung Stammdatenfenster: stundenplan/sort.stammdaten.md
     - Stammdaten importieren: stundenplan/stammdaten-importieren.md
     - Welcher Maiclient wird aufgerufen: sonstiges/mapi2.md
-    - Zeitschienen in DAVINCI: stundenplan/zeitschienen-in-davinci.md
+    - Zeitschienen in DaVinci: stundenplan/zeitschienen-in-davinci.md
   - Vertretungsplan:
     - Veröffentlichung: veroeffentlichung\veroeffentlichung.md
   - Explorer:
@@ -155,11 +155,11 @@ nav:
   - Statistik:
     - WinLD und ASV: statistik\winld_asv.md
   - Datenaustausch:
-    - MAGELLAN - DAVINCI: datenaustausch/magellan-davinci.md
+    - Magellan - DaVinci: datenaustausch/magellan-davinci.md
     - Sdui: datenaustausch/sdui.md
-    - ENBREA: datenaustausch/enbrea.md
--ENBREA:
-  - Hinweise zur Dateneingabe in MAGELLAN & DAVINCI: enbrea/Importlogik MAGELLAN und DAVINCI.md
+    - Enbrea: datenaustausch/enbrea.md
+-Enbrea:
+  - Hinweise zur Dateneingabe in Magellan & DaVinci: enbrea/Importlogik Magellan und DaVinci.md
   - Hinweise zur Dateneingabe in edoosys: enbrea/Importlogik edoosys.md
 - Support:
     - Skriptdatei tauschen: support/skript_tauschen.md

@@ -1,6 +1,6 @@
 # Fehlermeldung "Tabelle '' konnte nicht gefunden werden"
 
-Gibt Ihr Bericht beim Aufrufen in MAGELLAN die Meldung "Tabelle '' konnte nicht gefunden werden" aus, wenn Sie nicht als SYSDBA angemeldet sind? 
+Gibt Ihr Bericht beim Aufrufen in Magellan die Meldung "Tabelle '' konnte nicht gefunden werden" aus, wenn Sie nicht als SYSDBA angemeldet sind? 
 
 > Wenn dieser Bericht einer unserer Originalberichte (bitte nennen Sie uns den genauen Dateinamen) ist, [lassen Sie es uns bitte wissen](http://support.stueber.de), wir korrigieren es.
 

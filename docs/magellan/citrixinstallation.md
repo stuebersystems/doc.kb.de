@@ -1,20 +1,20 @@
-# MAGELLAN und Citrix
+# Magellan und Citrix
 
-MAGELLAN ist unter Citrix bzw. Terminalserver lauffähig.
-Dieses Infoblatt ist für Sie nur relevant, wenn Sie MAGELLAN unter Citrix einrichten möchten. Es behandelt zwei typische Probleme und deren Lösungen:
+Magellan ist unter Citrix bzw. Terminalserver lauffähig.
+Dieses Infoblatt ist für Sie nur relevant, wenn Sie Magellan unter Citrix einrichten möchten. Es behandelt zwei typische Probleme und deren Lösungen:
 
 ## Problem A: Keine Verbindung zur Datenbank
 
-Bei der Server-, Einzelplatz- oder Arbeitsplatzinstallation von MAGELLAN unter Citrix (z.B. Citrix Presentationserver) führt die Angabe einer lokalen Verbindung zur MAGELLAN-Datenbank immer zu einer fehlerhaften Verbindung.
+Bei der Server-, Einzelplatz- oder Arbeitsplatzinstallation von Magellan unter Citrix (z.B. Citrix Presentationserver) führt die Angabe einer lokalen Verbindung zur Magellan-Datenbank immer zu einer fehlerhaften Verbindung.
  
 Der Fehler liegt hierbei in der Wahl des Protokolls „Lokal“. Unter Citrix müssen Sie immer die eindeutige Kennung im Netzwerk wählen, typischerweise über das Netzwerkprotokoll „TCP/IP“
 
 ### Lösung zu Problem A
 
-Wählen Sie unter Citrix grundsätzlich eine Netzwerkverbindung bei der Server-, Einzelplatz oder Arbeitsplatzinstallation von MAGELLAN.
+Wählen Sie unter Citrix grundsätzlich eine Netzwerkverbindung bei der Server-, Einzelplatz oder Arbeitsplatzinstallation von Magellan.
 Gehen Sie dazu wie folgt vor:
 
-1.	Öffnen Sie den MAGELLAN::Administrator.
+1.	Öffnen Sie den Magellan::Administrator.
 2.	Wählen Sie „Ansicht|Server-Verwaltung|Verbindung verwalten“.
 3.	Markieren Sie die gewünschte Verbindung und klicken Sie dann auf „Bearbeiten“.
 4.	Wählen Sie auf der Registerkarte „Datenbank“ das Netz-werkprotokoll (z.B. „TCP/IP“), den Servernamen und die lokalen Dateipfad auf dem Server aus. 
@@ -24,21 +24,21 @@ Diese Einstellungen der Verbindung zur Datenbank können Sie auch analog direkt 
 
 ## Problem B: Unregelmäßiger Abbruch beim Drucken
 
-Beim Drucken von Berichten stürzt MAGELLAN unregelmäßig auf dem Citrixserver ab. Nach einer Neuinstallation von MAGELLAN kommt es nach einer gewissen Zeit wieder zum Absturz von MAGELLAN auf dem Citrixserver.
+Beim Drucken von Berichten stürzt Magellan unregelmäßig auf dem Citrixserver ab. Nach einer Neuinstallation von Magellan kommt es nach einer gewissen Zeit wieder zum Absturz von Magellan auf dem Citrixserver.
 Der Fehler liegt an der nachfolgend abgebildeten optional einstellbaren Optimierung von Speicher und CPU unter Citrix.
 
-MAGELLAN ist eine Anwendung, die nicht mit dieser Optimierung genutzt werden kann.
+Magellan ist eine Anwendung, die nicht mit dieser Optimierung genutzt werden kann.
 
 ### Lösung zu Problem B
 
 Bei der Speicheroptimierung unter Citrix können bestimmte Anwendungen von der Optimierung ausgeschlossen werden.
-Sie müssen dazu MAGELLAN als eine von der Optimierung ausgeschlossene Anwendung definieren, wie die nachfolgende Abbildung zeigt
+Sie müssen dazu Magellan als eine von der Optimierung ausgeschlossene Anwendung definieren, wie die nachfolgende Abbildung zeigt
 
- ![MAGELLAN von der Speicheroptimierung ausschließen](/assets/images/citrix01.png)
+ ![Magellan von der Speicheroptimierung ausschließen](/assets/images/citrix01.png)
  
-Tragen Sie dazu unter 'Speicheroptimierung > Anwendungen ausschließen' den lokalen Pfad zur Datei „MAGELLAN.exe“ auf dem Citrixserver ein (in der Abbildung als „D:\Stueber Systems\MAGELLAN 6\MAGELLAN.exe“).
+Tragen Sie dazu unter 'Speicheroptimierung > Anwendungen ausschließen' den lokalen Pfad zur Datei „Magellan.exe“ auf dem Citrixserver ein (in der Abbildung als „D:\Stueber Systems\Magellan 6\Magellan.exe“).
 
-![MAGELLAN von der Speicheroptimierung ausschließen: Pfad eingeben](/assets/images/citrix02.png)
+![Magellan von der Speicheroptimierung ausschließen: Pfad eingeben](/assets/images/citrix02.png)
 
 ## Problem C: Installationpaket konnte nicht geöffnet werden
 

@@ -5,7 +5,7 @@ Alle hier gemachten Aussagen repräsentieren den aktuellen Stand der Entwicklung
  
 ## Die Fehlerbeschreibung
 
-Wenn Sie in MAGELLAN im Rahmen des Druckens von Crystal Reports Berichten
+Wenn Sie in Magellan im Rahmen des Druckens von Crystal Reports Berichten
 
 *	gleichzeitig ins PDF-Format exportieren oder
 *	aus der Vorschau heraus ins PDF-Format exportieren wollen
@@ -16,8 +16,8 @@ können Sie die folgende Fehlermeldung erhalten:
 ## Die Ursache
 
 Microsoft hat Ende November 2015 das Serviceupdate KB3102429 für Windows 8.1, Windows RT 8.1, Windows Server 2012 R2, Windows 8, Windows RT, Windows Server 2012, Windows 7 Service Pack 1 (SP1) und Windows Server 2008 R2 SP1 veröffentlicht. 
-Mit diesem Serviceupdate wurden unter anderem diverse Schriftarten des Betriebssystems von Microsoft (wie z.B. Arial, Calibri, Segoe, Times) in der Version aktualisiert. Diese Aktualisierung führt in Kombination mit der von uns in MAGELLAN verwendeten Zugriffskomponente für Crystal Reports Berichte zu dem oben beschriebene Fehler. Diese Problemstellung ist Microsoft bekannt.
-Bei einer Installation von MAGELLAN unter Microsoft Windows 10 tritt der Fehler mit dem PDF-Export nach unserem Kenntnisstand nicht auf.
+Mit diesem Serviceupdate wurden unter anderem diverse Schriftarten des Betriebssystems von Microsoft (wie z.B. Arial, Calibri, Segoe, Times) in der Version aktualisiert. Diese Aktualisierung führt in Kombination mit der von uns in Magellan verwendeten Zugriffskomponente für Crystal Reports Berichte zu dem oben beschriebene Fehler. Diese Problemstellung ist Microsoft bekannt.
+Bei einer Installation von Magellan unter Microsoft Windows 10 tritt der Fehler mit dem PDF-Export nach unserem Kenntnisstand nicht auf.
 Wir müssen nun abwarten, wie Microsoft bzw. SAP (Hersteller von Crystal Reports) auf dieses Problem reagieren.
 Aktuell können wir Ihnen die nachfolgende beschriebene Zwischenlösung anbieten, die das Problem zwischenzeitlich behebt.
 

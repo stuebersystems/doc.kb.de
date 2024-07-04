@@ -1,6 +1,6 @@
-# MAGELLAN Seriendruck-Meldung "Makrospeicher konnte nicht geöffnet werden"
+# Magellan Seriendruck-Meldung "Makrospeicher konnte nicht geöffnet werden"
 
-Teilweise öffnet Word Dokumente in einer `geschützten Ansicht`. Das ist bei heiklen oder unbekannten Quellen durchaus sinnvoll - führt beim Seriendruck in MAGELLAN aber zu Problemen.
+Teilweise öffnet Word Dokumente in einer `geschützten Ansicht`. Das ist bei heiklen oder unbekannten Quellen durchaus sinnvoll - führt beim Seriendruck in Magellan aber zu Problemen.
 
 Folgende Fehlermeldung kann das Ergebnis sein:
 

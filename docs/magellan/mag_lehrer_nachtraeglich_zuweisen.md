@@ -5,18 +5,18 @@
 [3]:/assets/images/Magellan/09.png
 [4]:/assets/images/Magellan/10.png
 
-Den unterrichtenden Lehrer je belegtem Schülerfach (`Schüler > Zeugnis > Fächer`) benötigt man beispielsweise um Kurslisten mit der Angabe des Lehrers zu drucken oder um lehrerbezogene MyMAGELLAN-Dateien erstellen zu können.
+Den unterrichtenden Lehrer je belegtem Schülerfach (`Schüler > Zeugnis > Fächer`) benötigt man beispielsweise um Kurslisten mit der Angabe des Lehrers zu drucken oder um lehrerbezogene MyMagellan-Dateien erstellen zu können.
 
 ## Zuordnungsvarianten
 
-Diese Zuordnung können Schulen, die DAVINCI nutzen, aus dem Stundenplanprogramm übertragen lassen. Der Abgleich zwischen DAVINCI und MAGELLAN wird hier beschrieben: [https://doc.magellan.stueber.de/schulverwaltung/howto/abgleich_mit_dav/](https://doc.magellan.stueber.de/schulverwaltung/howto/abgleich_mit_dav/).
+Diese Zuordnung können Schulen, die DaVinci nutzen, aus dem Stundenplanprogramm übertragen lassen. Der Abgleich zwischen DaVinci und Magellan wird hier beschrieben: [https://doc.magellan.stueber.de/schulverwaltung/howto/abgleich_mit_dav/](https://doc.magellan.stueber.de/schulverwaltung/howto/abgleich_mit_dav/).
 
-Auch Nutzer von Untis können diese Zuordnung übertragen lassen, hier ist die Voraussetzung allerdings, dass die Schülerfächer zuvor für die Planung in Untis aus MAGELLAN übergeben wurden. Eine Anleitung dazu finden Sie hier:
+Auch Nutzer von Untis können diese Zuordnung übertragen lassen, hier ist die Voraussetzung allerdings, dass die Schülerfächer zuvor für die Planung in Untis aus Magellan übergeben wurden. Eine Anleitung dazu finden Sie hier:
 
 * [Übertrag nach Untis](https://doc.magellan.stueber.de/schulverwaltung/regionales/berlin/nach.untis/)
 * [Übertrag von Untis (auch mit Lehrerzuordnung)](https://doc.magellan.stueber.de/schulverwaltung/regionales/berlin/von.untis/)
 
-Sind beide vorstehenden Varianten nicht möglich, können Sie auch innerhalb von MAGELLAN eine Funktion verwenden, die Ihnen zumindest helfen kann, eine grobe Lehrerzuweisung vorzunehmen.
+Sind beide vorstehenden Varianten nicht möglich, können Sie auch innerhalb von Magellan eine Funktion verwenden, die Ihnen zumindest helfen kann, eine grobe Lehrerzuweisung vorzunehmen.
 
 1. Sie können direkt unter `Schüler > Zeugnis > Fächer` je Schülerfach in der Spalte `Lehrer` den unterrichtenden Kollegen zuweisen. In dem Feld `Lehrer` werden alle Kollegen gezeigt, die im `Menü Lehrer` angelegt sind.
 2. Sie verwenden eine Fachtafel, die nur für diesen Zweck angelegt wird um beim Erkennen einer passenden Fachzeile nur den Fachlehrer ergänzt. Das Vorgehen und die Möglichkeiten beschreiben wir nachstehend.
@@ -59,4 +59,4 @@ Klicken Sie auf "Weiter" und auf "Fertigstellen", die Fachlehrer werden ggfs. zu
 
 > #### primary::Hinweis
 >  
-> Anders als beispielsweise mit DAVINCI sind so nicht alle Lehrer auf Anhieb zuweisbar: Gibt es mehr als ein Kurs je Kombination, also beispielsweise mehr als einen Mathe-Grundkurs, können Sie diese Zuweisung nicht vollständig über die vorstehend beschriebenen Schritte abbilden. Aber zumindest gelingt so eine grobe Vorbelegung, auf deren Grundlage dann weiter manuell angepasst werden kann.
+> Anders als beispielsweise mit DaVinci sind so nicht alle Lehrer auf Anhieb zuweisbar: Gibt es mehr als ein Kurs je Kombination, also beispielsweise mehr als einen Mathe-Grundkurs, können Sie diese Zuweisung nicht vollständig über die vorstehend beschriebenen Schritte abbilden. Aber zumindest gelingt so eine grobe Vorbelegung, auf deren Grundlage dann weiter manuell angepasst werden kann.

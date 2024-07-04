@@ -3,7 +3,7 @@
 [1]:/assets/images/Magellan/11.png
 [2]:/assets/images/Magellan/12.png
 
-Es liegt nicht an MAGELLAN direkt, sondern an einer falschen Konfiguration der MAPI-Schnittstelle von Microsoft:
+Es liegt nicht an Magellan direkt, sondern an einer falschen Konfiguration der MAPI-Schnittstelle von Microsoft:
 
  Lösung: Eine Nachkonfiguration in der Registry.
 

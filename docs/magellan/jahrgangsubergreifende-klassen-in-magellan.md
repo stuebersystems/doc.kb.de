@@ -1,6 +1,6 @@
 # Jahrgangsübergreifende Klassen (JÜL)
 
-Wenn Sie in MAGELLAN Klassen bestehend aus Schülern verschiedener Jahrgänge verwalten möchten, ist das auch möglich. 
+Wenn Sie in Magellan Klassen bestehend aus Schülern verschiedener Jahrgänge verwalten möchten, ist das auch möglich. 
 Unter `Schüler > Zeugnis > Details` gibt es das Feld `Jahrgang`, welches anders als der Klassenjahrgang (`Klasse > Zeiträume > Jahrgang`, gilt für die Klasse) für den einzelnen Schüler geführt wird. 
 
 ![Tragen Sie im Feld "Jahrgang" den schülerindividuellen Jahrgang ein](/assets/images/jahrgang07.png)
@@ -12,7 +12,7 @@ Zum erstmaligen Befüllen stehen Ihnen zwei Varianten zur Verfügung:
 
 In der Auswahlliste der Schüler sehen Sie zusätzlich zur Klasse auch den schülerindividuellen Jahrgang:
 
-![Schülerjahrgang in der Auswahlliste von MAGELLAN ](/assets/images/jahrgang01.png)
+![Schülerjahrgang in der Auswahlliste von Magellan ](/assets/images/jahrgang01.png)
 
 !!! info "Hinweis"
 

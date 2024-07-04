@@ -1,7 +1,7 @@
 # Darstellung exportierter PDFs
 
-Die Darstellung von aus Crystal Reports exportierten PDFs und denen die mit Hilfe der Runtimeversion von Crystal Reports aus MAGELLAN erzeugten PDFs weicht von einander ab.
-Dieses Problem besteht innerhalb der Runtimeversion von Crystal Reports und kann nicht durch MAGELLAN beeinflusst werden.
+Die Darstellung von aus Crystal Reports exportierten PDFs und denen die mit Hilfe der Runtimeversion von Crystal Reports aus Magellan erzeugten PDFs weicht von einander ab.
+Dieses Problem besteht innerhalb der Runtimeversion von Crystal Reports und kann nicht durch Magellan beeinflusst werden.
 
 Im Internet wird ein Workaround beschrieben, bei dem zwei zusätzliche Registrywerte je Arbeitsplatz gesetzt werden (insgesamt an zwei Stellen, zweiter Pfad ist unter den Abbildungen).
 

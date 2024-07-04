@@ -2,7 +2,7 @@
 
 ## Problem
 
-Man markiert in MAGELLAN ein Reihe von Datensätzen (Alfons, Bärbel und Cäsar) und ruft einen Bericht auf, die Anzeige der gefüllten Berichte ist nicht in der gewünschten Reihenfolge, sondern beispielsweise nach der ID.
+Man markiert in Magellan ein Reihe von Datensätzen (Alfons, Bärbel und Cäsar) und ruft einen Bericht auf, die Anzeige der gefüllten Berichte ist nicht in der gewünschten Reihenfolge, sondern beispielsweise nach der ID.
 
 ## Lösung
 

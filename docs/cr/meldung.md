@@ -2,7 +2,7 @@
 
 Problem: 
 
-Auf einem Rechner  wird in der MAGELLAN-Berichtsvorschau die folgende Meldung gezeigt:
+Auf einem Rechner  wird in der Magellan-Berichtsvorschau die folgende Meldung gezeigt:
 
 ![Fehlermeldung](/assets/images/cr/17.png)
 
@@ -16,4 +16,4 @@ Bitte Microsoft .NET Framework 4.8 installieren.
 
 Link: [https://dotnet.microsoft.com/download/dotnet-framework/net48](https://dotnet.microsoft.com/download/dotnet-framework/net48)
 
-Dort unter "Web Installer" auf "Runtime" klicken, das Setup wird heruntergeladen. Anschließend bitte starten und ausführen. Anschließend können Sie die Druckvorschau in MAGELLAN verwenden.
+Dort unter "Web Installer" auf "Runtime" klicken, das Setup wird heruntergeladen. Anschließend bitte starten und ausführen. Anschließend können Sie die Druckvorschau in Magellan verwenden.
