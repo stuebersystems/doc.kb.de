@@ -18,24 +18,24 @@ Eine Installationsanleitung finden Sie hier:
 
 ## Wichtige Dateien, die übernommen werden sollten
 
-### Magellan9.fdb
+### Magellan9.FDB
 
 Das ist die Datenbank, in der Ihre gesamten Schulverwaltungsdaten gespeichert sind. Diese Datei finden Sie bei Standardinstallation je nach Betriebssystem unter:
 
 
 | Betriebssystem     | Speicherpfad                             |
 |--------------------|------------------------------------------|
-| Win7               | C:\Users\Public\Documents\Stueber Systems\Magellan 9\Datenbank\Magellan9.fdb |
-| Windows Server2000 | C:\ProgramData\Documents\Stueber Systems\Magellan 9\Datenbank\Magellan9.fdb |
-| Win10              | C:\Users\Public\Documents\Stueber Systems\Magellan 9\Datenbank\Magellan9.fdb |
+| Win7               | C:\Users\Public\Documents\Stueber Systems\Magellan 9\Datenbank\Magellan9.FDB |
+| Windows Server2000 | C:\ProgramData\Documents\Stueber Systems\Magellan 9\Datenbank\Magellan9.FDB |
+| Win10              | C:\Users\Public\Documents\Stueber Systems\Magellan 9\Datenbank\Magellan9.FDB |
 
 
 **Sollten Sie sich nicht sicher sein, wo genau sich diese Datenbank befindet, können Sie den genauen Pfad auch im Magellan 9 Administratormodul nachsehen. Sie finden den genauen Ablageort unter: `Datenbankverbindungen > Doppelklick auf die Verbindung> Unterpunkt Datenbank`.**
 
 
-### security2.fdb
+### security2.FDB
 
-Bitte sichern Sie vom alten Server die security2.fdb. 
+Bitte sichern Sie vom alten Server die security2.FDB. 
 
 Sie finden diese unter hier:
 
@@ -46,9 +46,9 @@ Betriebssystem|Speicherpfad
   
 Diese Datenbank enthält die Passwort- und Rechteinformationen (Passworte verschlüsselt). Daher muss auch bei einer Datenstrukturanpassung immer die Aktion "Synchronisiere Zugriffsrechte"  im Magellan Administrator ausgeführt werden.
 
-Bei dieser Aktion werden die beiden Datenbanken, also die security2.fdb (Passwortdatenbank) und die magellan6.fdb (Schulverwaltungsdatenbank) miteinander abgeglichen, damit auch für die neu angefügten Teile der Datenbank der Zugriff für die Benutzer geklärt ist.
+Bei dieser Aktion werden die beiden Datenbanken, also die security2.FDB (Passwortdatenbank) und die magellan6.FDB (Schulverwaltungsdatenbank) miteinander abgeglichen, damit auch für die neu angefügten Teile der Datenbank der Zugriff für die Benutzer geklärt ist.
 
-Beim Installieren von Firebird auf dem neuen Server wird an der selben Stelle wieder eine security2.fdb angelegt. Sie ersetzen diese durch die gesicherte und führen dann anschließend das "Synchronisieren der Zugriffsrechte aus". Sie finden diesen Punkt unter `Magellan Administrator > Benutzerverwaltung > Start > Zugriffsrechte synchronisieren`.
+Beim Installieren von Firebird auf dem neuen Server wird an der selben Stelle wieder eine security2.FDB angelegt. Sie ersetzen diese durch die gesicherte und führen dann anschließend das "Synchronisieren der Zugriffsrechte aus". Sie finden diesen Punkt unter `Magellan Administrator > Benutzerverwaltung > Start > Zugriffsrechte synchronisieren`.
 
 **Sichern Sie diese Datenbank nicht, kann sich kein Nutzer unter seinen gewohnten Zugangsdaten an der Magellan-Datenbank auf Ihrem neuen Server anmelden!**
 
@@ -77,7 +77,7 @@ Datenordner (Vorlagen, Skripte, Importe, Dokumente, Berichte, Datenordner):
 
 | Datei        | Bedeutung                                |
 |--------------|------------------------------------------|
-| magellan.evm | Bitte nur übernehmen, wenn sich an den Ablagepfade auf dem neuen Server im Gegensatz zum bisherigen nichts ändert. Diese Datei speichert die eingestellten Pfade zu den Datenordnern und zu den Datenbanken Magellan6.fdb und Magellan6DWH.fdb. |
+| magellan.evm | Bitte nur übernehmen, wenn sich an den Ablagepfade auf dem neuen Server im Gegensatz zum bisherigen nichts ändert. Diese Datei speichert die eingestellten Pfade zu den Datenordnern und zu den Datenbanken Magellan6.FDB und Magellan6DWH.FDB. |
 | magellan.lic | Diese Datei speichert die Lizenzierung.  |
 | magellan.opt | Speichert die Einstellungen unter `Magellan > Extras > Optionen` |
 

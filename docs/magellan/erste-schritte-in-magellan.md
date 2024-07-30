@@ -17,7 +17,7 @@ Der Unterschied zwischen der Beispielanbindung und dieser Anbindung ist letztlic
 
 Passen Sie im nächsten Schritt den Namen des `Alias` an, diese Bezeichnung wird Ihnen später im Magellan-Anmeldefenster gezeigt.
 
-Anschließend wechseln Sie auf die Unterkarte `Datenbank` und passen den Datenbankpfad auf an. Bei einer Beispielverbindung wurde auf die Datenbank `Magellan8_Beispiel.fdb` verwiesen. Die leere Datenbank befindet sich im Datenbankverzeichnis neben dieser Datenbank und heißt `Magellan8.fdb`. Sie müssen also nur den Dateinamen von `Magellan8_Beispiel.fdb` auf `Magellan8.fdb` anpassen.
+Anschließend wechseln Sie auf die Unterkarte `Datenbank` und passen den Datenbankpfad auf an. Bei einer Beispielverbindung wurde auf die Datenbank `Magellan8_Beispiel.FDB` verwiesen. Die leere Datenbank befindet sich im Datenbankverzeichnis neben dieser Datenbank und heißt `Magellan8.FDB`. Sie müssen also nur den Dateinamen von `Magellan8_Beispiel.FDB` auf `Magellan8.FDB` anpassen.
 
 ![Datenbanknamen anpassen](/images/magellan/05.png)
 

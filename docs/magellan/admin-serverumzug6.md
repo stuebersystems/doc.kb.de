@@ -14,43 +14,43 @@ Eine Installationsanleitung finden Sie hier: [Installationsanleitung](https://do
 
 ## Wichtige Dateien, die übernommen werden sollten
 
-### Magellan6.fdb
+### Magellan6.FDB
 
 Das ist die Datenbank, in der Ihre gesamten Schulverwaltungsdaten gespeichert sind. Diese Datei finden Sie bei Standardinstallation je nach Betriebssystem unter:
 
 | Betriebssystem     | Speicherpfad                             |
 |--------------------|------------------------------------------|
-| Vista              | C:\Users\Public\Documents\Magellan 6\Datenbank\Magellan6.fdb |
-| XP                 | C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Datenbank\Magellan6.fdb |
-| Win2000            | C:\Dokumente und Einstellungen\All Users\Dokumente\Stueber Systems\Datenbank\Magellan6.fdb |
-| Win6               | C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6.fdb |
-| Windows Server2000 | C:\ProgramData\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6.fdb |
-| Win10              | C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6.fdb |
+| Vista              | C:\Users\Public\Documents\Magellan 6\Datenbank\Magellan6.FDB |
+| XP                 | C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Datenbank\Magellan6.FDB |
+| Win2000            | C:\Dokumente und Einstellungen\All Users\Dokumente\Stueber Systems\Datenbank\Magellan6.FDB |
+| Win6               | C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6.FDB |
+| Windows Server2000 | C:\ProgramData\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6.FDB |
+| Win10              | C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6.FDB |
 
 > #### warning::Wichtig!
 >
 > Sollten Sie sich nicht sicher sein, wo genau sich diese Datenbank befindet, können Sie den genauen Pfad auch im Magellan Administratormodul nachsehen. Sie finden den genauen Ablageort unter: `Server-Verwaltung > Verbindung verwalten > Starten > Verbindung markieren (heißt bestimmt "Magellan") > Bearbeiten > Datenbank`.
 
-### Magellan6DWH.fdb
+### Magellan6DWH.FDB
 
 Das ist die Datenbank, in der Daten für einige Bundesländer für die Erstellung der Statistik gespeichert werden. Diese Datei finden Sie je nach Betriebssystem unter:
 
 Betriebssystem|Speicherpfad
 ---|---
-Vista|C:\Users\Public\Documents\Magellan 6\Datenbank\Magellan6.fdb
-XP|C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Datenbank\Magellan6DWH.fdb
-Windows 2000|C:\Dokumente und Einstellungen\All Users\Dokumente\Stueber Systems\Datenbank\Magellan6DWH.fdb
-Windows 6|C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6DWH.fdb
-Windows Server2000|C:\ProgramData\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6DWH.fdb
-Win10|C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6DWH.fdb
+Vista|C:\Users\Public\Documents\Magellan 6\Datenbank\Magellan6.FDB
+XP|C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Stueber Systems\Datenbank\Magellan6DWH.FDB
+Windows 2000|C:\Dokumente und Einstellungen\All Users\Dokumente\Stueber Systems\Datenbank\Magellan6DWH.FDB
+Windows 6|C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6DWH.FDB
+Windows Server2000|C:\ProgramData\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6DWH.FDB
+Win10|C:\Users\Public\Documents\Stueber Systems\Magellan 6\Datenbank\Magellan6DWH.FDB
 
 > #### warning::Wichtig!
 >
 > Sollten Sie sich nicht sicher sein, wo genau sich diese Datenbank befindet, können Sie den genauen Pfad auch im Magellan 6 Administratormodul nachsehen. Sie finden den genauen Ablageort unter: `Server-Verwaltung > Verbindung verwalten > Starten > Verbindung markieren (heißt bestimmt "Magellan") > Bearbeiten > Data Warehouse`.
 
-### security2.fdb
+### security2.FDB
 
-Bitte sichern Sie vom alten Server die security2.fdb.
+Bitte sichern Sie vom alten Server die security2.FDB.
 
 Sie finden diese unter hier:
 
@@ -61,9 +61,9 @@ Betriebssystem|Speicherpfad
   
 Diese Datenbank enthält die Passwort- und Rechteinformationen (Passworte verschlüsselt). Daher muss auch bei einer Datenstrukturanpassung immer die Aktion "Synchronisiere Zugriffsrechte"  im Magellan Administrator ausgeführt werden.
 
-Bei dieser Aktion werden die beiden Datenbanken, also die security2.fdb (Passwortdatenbank) und die magellan6.fdb (Schulverwaltungsdatenbank) miteinander abgeglichen, damit auch für die neu angefügten Teile der Datenbank der Zugriff für die Benutzer geklärt ist.
+Bei dieser Aktion werden die beiden Datenbanken, also die security2.FDB (Passwortdatenbank) und die magellan6.FDB (Schulverwaltungsdatenbank) miteinander abgeglichen, damit auch für die neu angefügten Teile der Datenbank der Zugriff für die Benutzer geklärt ist.
 
-Beim Installieren von Firebird auf dem neuen Server wird an der selben Stelle wieder eine security2.fdb angelegt. Sie ersetzen diese durch die gesicherte und führen dann anschließend das "Synchronisieren der Zugriffsrechte aus". Sie finden diesen Punkt unter `Magellan Administrator > Datenbankpflege > Datenbank überprüfen > Zugriffsrechte synchronisieren`.
+Beim Installieren von Firebird auf dem neuen Server wird an der selben Stelle wieder eine security2.FDB angelegt. Sie ersetzen diese durch die gesicherte und führen dann anschließend das "Synchronisieren der Zugriffsrechte aus". Sie finden diesen Punkt unter `Magellan Administrator > Datenbankpflege > Datenbank überprüfen > Zugriffsrechte synchronisieren`.
 
 > #### primary::Hinweis
 >
@@ -96,7 +96,7 @@ Datenordner (Vorlagen, Skripte, Importe, Dokumente, Berichte, Datenordner):
 
 | Datei        | Bedeutung                                |
 |--------------|------------------------------------------|
-| magellan.evm | Bitte nur übernehmen, wenn sich an den Ablagepfade auf dem neuen Server im Gegensatz zum bisherigen nichts ändert. Diese Datei speichert die eingestellten Pfade zu den Datenordnern und zu den Datenbanken Magellan6.fdb und Magellan6DWH.fdb. |
+| magellan.evm | Bitte nur übernehmen, wenn sich an den Ablagepfade auf dem neuen Server im Gegensatz zum bisherigen nichts ändert. Diese Datei speichert die eingestellten Pfade zu den Datenordnern und zu den Datenbanken Magellan6.FDB und Magellan6DWH.FDB. |
 | magellan.lic | Diese Datei speichert die Lizenzierung.  |
 | magellan.opt | Speichert die Einstellungen unter `Magellan > Extras > Optionen` |
 

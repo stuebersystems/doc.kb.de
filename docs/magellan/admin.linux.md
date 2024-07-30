@@ -22,7 +22,7 @@ Unter Windows würde der Pfad im Magellan-Administrator zum Beispiel so aussehen
 
 
 ```
- C:\ProgramData\Documents\Stueber Software\Magellan 7\Datenbank\MAGELLAN7.fdb
+ C:\ProgramData\Documents\Stueber Software\Magellan 7\Datenbank\MAGELLAN7.FDB
 ```
 
 
@@ -31,7 +31,7 @@ Unter Windows würde der Pfad im Magellan-Administrator zum Beispiel so aussehen
 
 
 ```
-/var/lib/firebird/2.5/data/mag6-linux.fdb
+/var/lib/firebird/2.5/data/mag6-linux.FDB
 ```
 
 
@@ -42,5 +42,5 @@ firebird, rw-, rw-, ---
 Zweitens kann sich die sog. „on-disk strukture“ der Datenbank-Datei zwischen verschiedenen Versionen des Firebird-Servers unterscheiden. In diesem Fall kann beim Kopieren einen Anpassung durch Sichern der Ursprungsdatei und Wiederherstellen auf dem Linux-System mit Hilfe des Firebird zugehörigen Backup-Programms „gbak“ notwendig sein. Zum Übertragen einer Windows-Magellan-Datenbank können also folgende zusätzliche Schritte nötig sein: Übertragen einer Datenbank 
 
 1. Sichern der Magellan-Beispieldatenbank in einer anderen lauffähigen Magellan-Installation über den Magellan-Administrator
-2. Wiederherstellen des so erstellten Beispieldatenbank-Backups um die On-Disk-Structure an Linux anzupassen. (#gbak -c Dateinamebackup.fbk Dateinamedatenbank.fdb -USER 'sysdba' -PAS 'masterkey') 
+2. Wiederherstellen des so erstellten Beispieldatenbank-Backups um die On-Disk-Structure an Linux anzupassen. (#gbak -c Dateinamebackup.fbk Dateinamedatenbank.FDB -USER 'sysdba' -PAS 'masterkey') 
 3. Ggf. Kopieren der wiederhergestellten Datenbank in das Standardverzeichnis von Firebird (/var/lib/firebird/2.5/data) und überprüfen der Gruppenzugehörigkeit und Benutzerrechte (z. B. firebird:firebird, rw-, rw-, ---) 

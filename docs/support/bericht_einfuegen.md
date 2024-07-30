@@ -2,9 +2,7 @@
 
 [1]:/assets/images/support/01.png "Dokumente importieren"
 
-In der [ChangeLog-Datei](https://doc.magellan.stueber.de/changelog/changelog/) im Magellan-Handbuch oder auch per Newsletter dokumentieren wir die Änderungen, die bereits per Update veröffentlicht wurden oder bereits fertiggestellt, aber noch nicht veröffentlicht wurde. Dabei werden teilweise auch bereits vorab Berichte oder Zeugnisse zum Download angeboten, die man ohne Update der Magellan-Installationen einfügen und nutzen kann.
-
-Diese Berichte sind für die jeweils aktuelle Ausgabe von Magellan gedachte, funktionieren aber in der Regel auch rückwirkend bis inklusive der Version 7 von Magellan - für die Version 6 oder früher sind die aktuellen Berichte nicht einsetzbar.
+Wenn Sie vom Support-Team Berichtsdateien zur Verfügung gestellt bekommen oder in unsere [ChangeLog-Datei](https://doc.magellan.stueber.de/changelog/changelog/) Dateien downloadbar sind, können Sie sie über nachstehenden Weg für die Nutzung einbinden.
 
 So fügen Sie die Datei ein:
 
@@ -19,6 +17,10 @@ Teilweise funktioniert diese Vorgehen nicht, das die Funktion in Ihrem Netzwerk 
 ![Dokumente importieren][1]
 
 Der Bericht wird von Ihrem Rechner aus über dieses Menü in ein Verzeichnis eingefügt, dass sich in der Regel auf Ihrem Serverrechner befindet, damit steht die Datei dann auch sofort für weitere Arbeitsplätze in Ihrem Netzwerk zu Verfügung und kann auch von Kollegen verwendet werden.
+
+!!! warning "Wichtig!"
+
+    Es ist wichtig, dass Berichte in die dafür gedachten Bereiche abgelegt werden, als Beispiel kann eine Klassenliste aus dem Schülermenü heraus nicht korrekt funktionieren. Es werden beim Aufruf der Daten im Hintergrund unterschiedliche Datenmengen geladen, achten Sie daher auf den Titel unserer Berichtsdatein, der den Hinweis auf das Menü enthält.
 
 Bitte rufen Sie das Druckmenü im Anschluss wie gewohnt auf, die Datei steht zur Auswahl.
 
