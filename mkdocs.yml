@@ -160,8 +160,8 @@ nav:
     - Enbrea: datenaustausch/enbrea.md
 - Enbrea:
   - Importlogik:
-    - Hinweise zur Dateneingabe in Magellan & DaVinci: enbrea/Importlogik Magellan und DaVinci.md
-    - Hinweise zur Dateneingabe in edoosys: enbrea/Importlogik edoosys.md
+    - Hinweise zur Dateneingabe in Magellan & DaVinci: enbrea/ImportlogikMagellanundDaVinci.md
+    - Hinweise zur Dateneingabe in edoosys: enbrea/Importlogikedoosys.md
 - Support:
     - Skriptdatei tauschen: support/skript_tauschen.md
     - Bericht/Zeugnis einfügen: support/bericht_einfuegen.md
