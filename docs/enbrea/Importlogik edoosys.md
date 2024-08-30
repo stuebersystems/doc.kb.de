@@ -16,3 +16,5 @@ Für die Ersteinrichtung des Datenaustausches zur Inbetriebnahme sind mehrer Sch
 
 !!! info "info"
     Um Ihnen bei Fragen zu weiterzuhelfen, haben Sie die Möglichkeit, über ein Web-Interface neue Support-Anfragen bzw. Tickets in unserem Ticketsystem zu stellen. Sie können  jederzeit  Antworten bzw. Status einzusehen. Über Änderungen am Status Ihres Tickets werden Sie per E-Mail automatisch benachrichtigt. Eine Nutzung per E-Mail (an support@stueber.de) ist nach einmaliger Anmeldung ebenfalls möglich, die Nachrichten werden anhand Ihrer Absendermailadresse erkannt, ins Ticketsystem verschoben und Ihrem Account zugeordnet. <br>Das Ticketsystem erreichen Sie unter der URL http://support.stueber.de. Voraussetzung für dessen Nutzung ist eine einmalige Registrierung.<br>Alle Details zum Ticketsystem finden Sie unter ftp://ftp.stueber.de/pub/doc/de/support/STUEBER-Ticketsystem.de.pdf.
+
+    Test
