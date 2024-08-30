@@ -158,9 +158,9 @@ nav:
     - Magellan - DaVinci: datenaustausch/magellan-davinci.md
     - Sdui: datenaustausch/sdui.md
     - Enbrea: datenaustausch/enbrea.md
--Enbrea:
-  - Hinweise zur Dateneingabe in Magellan & DaVinci: enbrea/Importlogik Magellan und DaVinci.md
-  - Hinweise zur Dateneingabe in edoosys: enbrea/Importlogik edoosys.md
+- Enbrea:
+    - Hinweise zur Dateneingabe in Magellan & DaVinci: enbrea/Importlogik Magellan und DaVinci.md
+    - Hinweise zur Dateneingabe in edoosys: enbrea/Importlogik edoosys.md
 - Support:
     - Skriptdatei tauschen: support/skript_tauschen.md
     - Bericht/Zeugnis einfügen: support/bericht_einfuegen.md
