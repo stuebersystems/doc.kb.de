@@ -12,7 +12,7 @@ Nutzen Sie Magellan, muss die Kurszuweisung im Enbrea Klassenbuch nicht nachgepf
 
 ## Kurswechsel in DaVinci¶
 
-Kommt es in DaVinci zu einem Kurswechsel bei einem Schüler, ist wird der Schüler nach der Änderung und dem Übertrag nach Enbrea in beiden Kursen geführt.Das Zu- und Abgangsdatum beim Kurswechsel muss in Enbrea selbst geändert werden unter Kurse.
+Kommt es in DaVinci zu einem Kurswechsel bei einem Schüler, ist wird der Schüler nach der Änderung und dem Übertrag nach Enbrea in beiden Kursen geführt. Das Zu- und Abgangsdatum beim Kurswechsel muss in Enbrea selbst geändert werden unter Kurse.
 
 ## Neues Schuljahr¶
 
