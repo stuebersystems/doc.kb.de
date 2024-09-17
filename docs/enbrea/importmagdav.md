@@ -1,5 +1,13 @@
 # Importlogik Magellan und DaVinci
 
+## Schüler haben in Magellan keine zugewiesenen Fächer
+
+Werden aus Magellan Schüler importiert, welche unter Schüler > zeugnis > Fächer noch keine Fächer hinterlegt haben, wird der Schüler nach Enbrea importiert und ist dort unter `Stammdaten > Schüler`mit der Klassenzugehörigkeit zu sehen und er ist der Klasse zugeordnet. Unter `Stammdaten > Klassen` ist der Schüler der Klasse zugeordnet aber keinen Kursen.
+
+## Schülerwechsel in Magellan
+
+
+
 ## Kurszuordnung in Enbrea 
 
 Unter `Stammdaten > Kurse` werden die Schüler je Kurs gezeigt. Dabei werden je nach eingesetzten Quellprogrammen (Schulverwaltung und Stundenplanung) Daten ausgewertet und die Schüler-Kurszugehörigkeit rückgeschlossen.
@@ -49,3 +57,14 @@ Haben Sie für Ihre Lehrkräfte in Magellan und DaVinci Emailadressen hinterlegt
 
 ## Ausschulen in Magellan
 
+## Geblockte Veransatltungen aus DaVinci
+
+Blockungen können aus verschiedenen Gründen in DaVinci angelegt werden. In Enbrea werden geblockte Unterrichtsveranstaltungen als ein Elemnt für den Klassenbucheintrag betrachten und zwar in dem Fall wenn Lehrkraft und Zeit der geblockten Elemente gleich sind.
+
+Exemplarisch könnte hiermit eine Wahlpflichtunterricht über verschiedene Klassen dargestellt werden
+
+* 9a Bio Block WPU Lehrkraft A
+* 9b Bio Block WPU Lehrkraft A
+* 9c Bio Block WPU Lehrkraft A
+
+Hierfür wird eine Klassenbucheintrag erstellt über alle 3 Klassen.
