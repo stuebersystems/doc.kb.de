@@ -57,7 +57,7 @@ Haben Sie für Ihre Lehrkräfte in Magellan und DaVinci Emailadressen hinterlegt
 
 ## Ausschulen in Magellan
 
-## Geblockte Veransatltungen aus DaVinci
+## Geblockte Veranstaltungen aus DaVinci
 
 Blockungen können aus verschiedenen Gründen in DaVinci angelegt werden. In Enbrea werden geblockte Unterrichtsveranstaltungen als ein Elemnt für den Klassenbucheintrag betrachten und zwar in dem Fall wenn Lehrkraft und Zeit der geblockten Elemente gleich sind.
 
@@ -68,3 +68,81 @@ Exemplarisch könnte hiermit eine Wahlpflichtunterricht über verschiedene Klass
 * 9c Bio Block WPU Lehrkraft A
 
 Hierfür wird eine Klassenbucheintrag erstellt über alle 3 Klassen.
+
+## Planwechsel in DaVinci
+
+## Berfistung von Veranstaltungen in DaVinci
+
+Die Befristung von Veranstaltungen wird in das Enbrea Klassenbuch übernommen. Auch Befristungen die Sie nachträglich machen werden übergeben. D.h. Veranstaltungen sind dann ggf. im Enbrea Klassenbuch ab einer bestimmten Kalenderweoche nicht mehr sichtbar.
+
+## DaVinci 
+
+Bitte prüfen Sie in DaVinci in den `Stammdaten > Lehrer` ob die Lehrkräfte Ihre Schule hier mit den entsprechenden korrekten Kürzeln, Vorname und Nachname und einer E-Mail-Adresse hinterlegt sind. Die hier hinterlegte E-Mail-Adresse wird später zur Kommunikation im Enbrea Klassenbuch benötigt.
+
+Bitte prüfen Sie in DaVinci `Stammdaten > Klassen und Fächer` die Informationen Kürzel, Bezeichnung ggf. ID müssen mit den Daten Ihrer Schulverwaltung übereinstimmen. 
+
+Wenn Sie Magellan und DaVinci gemeinsam einsetzen, so haben Sie den Vorteil, dass viele Daten nur einmal eingegeben werden müssen. Dadurch können Doppelerfassungen von Daten minimiert bzw. vermieden werden. Bitte beachten Sie dabei unsere Hinweis zum [Datenaustausch zwischen Magellan und DaVinci](https://doc.DaVinci6.stueber.de/11.datenaustausch/
+Magellan/).
+
+### Arbeit in der Gymnasialen Oberstufe Daten zu den Schülern werden in DaVinci erfasst
+
+Um mit dem Enbrea Klassenbuch zu arbeiten, können Sie auch alle benötigten Daten nur im Planungsprogramm DaVinci nutzen. Die Klassen und Fächer werden in DaVinci erfasst, die Schüler und die Kurszuweisung. Diese wird durch den DaVinci Kursplan generiert.
+
+Klassen erfassen Sie unter `Stammdaten > Klassen`
+
+Fächer erfassen Sie unter `Stammdaten > Fächer`
+
+Lehrkräfte erfassen Sie unter `Stammdaten > Lehrkräfte`
+
+Schülerinnen und Schüler erfassen Sie unter `Stammdaten > Schüler` oder im Bereich `Kursplan > Schüler`
+
+Die Erstellung der Kurs und die Kurszuordnung erfolgt im Bereich `Kursplan`.
+
+### Kurswechsel in DaVinci
+
+Kommt es in DaVinci zu einem Kurswechsel bei einem Schüler, wird der Schüler nach der Änderung und dem Übertrag nach Enbrea in beiden Kursen geführt. Das Zu- und Abgangsdatum beim Kurswechsel muss in Enbrea selbt geändert werden unter `Stammdaten > Kurse `
+
+### Geänderter Stundenplan
+
+Ändert sich der Stundenplan in Ihrer DaVinci Datei innerhalb des Zeitraumes von Enbrea geben Sie den Zeitraum der Gültigkeit des DaVinci Stundenplanes bitte in der DaVinci Plandatei unter `Plan > Eigenschaften > Zeitraum > Hauptzeitraum dieser Datei`an. Ab dem Startdatum werden die neuen Stundenplandaten nach Enbrea übertragen. Alle Termine vor dem Startdatum bleiben davon unberührt.
+
+Arbeiten Sie mit einer lokalen DaVinci Datei müssen Sie diese nur wieder an der für dem Datenaustausch vorgesehenem Speicherpfad ablegen.
+
+Arbeiten Sie mit einer Serverdatei muss die geänderte Datei auf den DaVinci Server geladen werden. Öffnen Sie das Modul `DaVinci Explorer` und rufen den Unterpunkt `Plandateien` auf. Laden Sie die vorbereitete Plandatei über die Schaltfläche `Hochladen` auf den bestehenden Platzhalter, welcher für die aktuelle Planung und gegebenenfalls auch für den DaVinci Infosever genutzt wird. 
+Weitere Information dazu finden Sie [hier](https://doc.davinci6.stueber.de/06.enterprise/11.planwechsel/)
+
+### Neues Schuljahr Schüler nur in DaVinci
+
+Arbeiten Sie nur mit dem Stundenplanprogram DaVinci und verwalten dort auch Ihre Schüler achten sie bitte unbedingt darauf zu Beginn eines neuen Schuljahres die Klassenzugehörigkeit der Schüler in DaVinci zu ändern `Stammdaten > Schüler > Klasse`. 
+
+### Schüler in mehreren Klassen
+
+Schüler werden anhand der Information zu Vorname, Nachname, Geburtsdatum geprüft. Ist ein Schüler in `DaVinci > Stammdaten > Schüler` doppelt angelegt und unterscheidet sich nur in der `DaVinci > Stammdaten > Schüler > Klasse` wird der Schüler nur einmal in den Enbrea Stammdaten angelegt, aber beiden Klassen als Schüler zugeordnet.
+
+## Magellan
+
+Für den im Enbrea Klassenbuch zu bearbeitenden Zeitraum kommen die Informationen über die Zugehörigkeit der Schüler*innen zu bestimmten Fächern/Kursen einer Klasse aus Magellan. D.h. die Schüler müssen in diesem Zeitraum in Magellan den entsprechenden Klassen zugewiesen sein.
+
+Wenn Sie Magellan und DaVinci gemeinsam einsetzen, so haben Sie den Vorteil, dass viele Daten nur einmal eingegeben werden müssen. Dadurch können Doppelerfassungen von Daten minimiert bzw. vermieden werden. Bitte beachten Sie dabei unsere Hinweis zum [Datenaustausch zwischen Magellan und DaVinci](https://doc.DaVinci6.stueber.de/11.datenaustausch/Magellan/).
+
+### Nebenlaufbahn eines Schülers
+
+Hat eine Schüler in Magellan in Magellan eine Haupt- und Nebenlaufbahn `Schüler > Auswahl > Laufbahn > H/N` wird diese durch Klassenzugehörigkeit zu beiden Klassen in Enbrea mit den jeweiligen Zu- und Angangsdaten berücksichtigt.
+
+## Besonderheiten
+
+### Unterscheidung Grund- und Leistungskurse
+
+### Lernfeldunterricht
+
+### Gruppenteilungen
+
+#### Klasse teilt sich und die Gruppen haben unterscheidliche Fächer
+
+#### Klasse teilt sich und die Gruppen haben das gleiche Fach aber bei anderen Lehrkräften
+
+#### Klasse teilt sich und die Gruppen haben das gleiche Fach bei der gleichen Lehrkraft aber zu unterschiedliche Zeiten
+
+### Unterricht in einem Fach wird von unterschiedlichen Lehrkräften unterrichtet
+
+### Schüler werden in der Schule unterrichtet aber nicht in der Schulverwaltung geführt
