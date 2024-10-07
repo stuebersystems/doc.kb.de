@@ -1,7 +1,7 @@
 # Serienmails: Mapi-Fehler
 
-[1]:/assets/images/Magellan/11.png
-[2]:/assets/images/Magellan/12.png
+[1]:/assets/images/magellan/11.png
+[2]:/assets/images/magellan/12.png
 
 Es liegt nicht an Magellan direkt, sondern an einer falschen Konfiguration der MAPI-Schnittstelle von Microsoft:
 
@@ -29,3 +29,8 @@ Unter Windows 64-bit muss man den Schlüssel neu anlegen und/oder den Wert anpas
 [![Beschriftung][2]][2]
 
 * Schließen Sie den Registrierungs-Editor und starten Sie Outlook.
+
+
+
+
+
