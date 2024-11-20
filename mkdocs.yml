@@ -122,7 +122,6 @@ nav:
     - mehrzeilige Textfelder unvollständig: cr/textfelder.md
     - Bewerberberichte mit Sorgeberechtigten: cr/sb.md
     - Barcodes: cr/barcode.md
-    - Berichte für V7/V8 anpassen: cr/berichte_fuer_7_anpassen.md
     - Drucksortierung der Datensätze in Berichten: cr/drucksortierung.md
     - Empfohlene Verknüpfungen: cr/verknuepfung.md
     - Es werden mehr als die ausgewählten Datensätze gezeigt: cr/zuviele.datensaetze.md
@@ -140,6 +139,7 @@ nav:
   - Archiv:
     - Änderung in der Tabelle SchuelerAusbildung: cr/schuelerausbildung.md
     - Fehler in Crystal Reports 9: cr/CR9_Fehler.md
+    - Berichte für V7/V8 anpassen: cr/berichte_fuer_7_anpassen.md    
 - DaVinci:
   - Allgemein:
     - Silent-Mode-Parameter: sonstiges/silentmode.md
