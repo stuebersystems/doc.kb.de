@@ -4,6 +4,6 @@ Sollte beim Aufruf den Magellan-Seriendrucks die Meldung `Interface nicht unters
 
 Bitte Office deinstallieren, die Registry mit einem geeigneten Tool bereinigen und das Officepaket anschließend wieder neu installieren.
 
-![Fehlermeldung beim Aufruf des Seriendrucks](/images/interface.png) 
+![Fehlermeldung beim Aufruf des Seriendrucks](/assets/images/interface.png) 
 
 Beispiel für Registrycleaner: [https://www.wisecleaner.com/wise-registry-cleaner.html](https://www.wisecleaner.com/wise-registry-cleaner.html)
