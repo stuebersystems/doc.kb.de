@@ -13,13 +13,13 @@ Rufen Sie das Modul Magellan Administrator auf. Um eine neue Verbindung anzulege
 
 Der Unterschied zwischen der Beispielanbindung und dieser Anbindung ist letztlich vermutlich nur die Datenbank, insofern kann man die Beispielanbindung kopieren und anpassen. Wechseln Sie hierfür auf den Punkt `Datenbankverbindungen`, markieren die Beispielverbindung, klicken mit rechter Maustaste auf die Verbindung und wählen `Verbindung kopieren`.
 
-![Verbindung kopieren](/images/magellan/04.png)
+![Verbindung kopieren](assets/images/magellan/04.png)
 
 Passen Sie im nächsten Schritt den Namen des `Alias` an, diese Bezeichnung wird Ihnen später im Magellan-Anmeldefenster gezeigt.
 
 Anschließend wechseln Sie auf die Unterkarte `Datenbank` und passen den Datenbankpfad auf an. Bei einer Beispielverbindung wurde auf die Datenbank `Magellan8_Beispiel.FDB` verwiesen. Die leere Datenbank befindet sich im Datenbankverzeichnis neben dieser Datenbank und heißt `Magellan8.FDB`. Sie müssen also nur den Dateinamen von `Magellan8_Beispiel.FDB` auf `Magellan8.FDB` anpassen.
 
-![Datenbanknamen anpassen](/images/magellan/05.png)
+![Datenbanknamen anpassen](assets/images/magellan/05.png)
 
 ## Postleitzahlen importieren
 
@@ -38,7 +38,7 @@ In Magellan können für Schüler Herkunftsschulen oder auch bei Abgängern die 
 Rufen Sie den Punkt `Datenaustausch > Daten über Magellan-Importformat importieren` auf. Klicken Sie auf das Plus, wählen im der Verzeichnisstruktur Ihren Bundeslandunterordner aus (Standardpfad auf dem Server wäre `C:\Users\Public\Documents\Stueber Systems\Magellan 8\Importe`) und verweisen auf die Schulen.csv, die eingelesen werden soll. 
 Definieren Sie die Datei in der Spalte `Importart` mit dem Wert `Schulen` und lesen die Datei ein.
 
-![Schulen importieren](/images/magellan/06.png)
+![Schulen importieren](assets/images/magellan/06.png)
 
 Steht für Ihre Region keine Schulendatei zur Verfügung, können Sie auch eine eigene Schulenliste auf diesem Weg einlesen. Wie diese Datei aufgebaut sein muss, beschreiben wir hier: [https://doc.magellan-toolbox.stueber.de/importe/MagImp/schnittstellenformat_schulenimportcsv/](https://doc.magellan-toolbox.stueber.de/importe/MagImp/schnittstellenformat_schulenimportcsv/).
 
